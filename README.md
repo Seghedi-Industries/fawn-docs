@@ -1,27 +1,75 @@
-# Tailwind CSS Documentation
+# Website
 
-Tailwind CSS uses [Next.js](https://nextjs.org/) for its documentation. Here is how you can run the project locally:
+This website is built using [Docusaurus 2](https://v2.docusaurus.io/), a modern static website generator.
 
-1. Clone this repo
+# How to generate markdown files from solidity Natspec comments
 
-    ```sh
-    git clone https://github.com/tailwindlabs/tailwindcss.com.git
-    ```
+Install solidity doc gen
+`npm install solidity-docgen`
 
-2. Go into the project root directory
+Get the correct compiler version
+`npm install -D solc-0.7@npm:solc@0.7.6`
 
-    ```sh
-    cd tailwindcss.com
-    ```
+Put the updated template `contract.hbs` in a /templates folder under the same directory as /contracts that you want to generate
 
-3. Install JS dependencies
+Run `npx solidity-docgen --solc-module solc-0.7 -t ./templates`
 
-    ```sh
-    yarn
-    ```
+# How to gernerate markdown files from typescript commments
 
-4. Start the dev server
+`npm install --save-dev typedoc typedoc-plugin-markdown`
 
-    ```sh
-    yarn dev
-    ```
+`typedoc --out <docs> src/index.ts`
+
+see https://www.npmjs.com/package/typedoc-plugin-markdown for details
+
+# How to Update search indices with algolia
+
+create .env file with `APPLICATION_ID` and the `API_KEY` (write access)
+Edit config.json file with
+
+- start url from updated website
+- sitemap url from updated website: ex) for docs: https://docs.uniswap.org/sitemap.xml
+- "v3-docs" index name
+- install jq : `brew install jq`
+  run `docker run -it --env-file=.env -e "CONFIG=$(cat ./config.json | jq -r tostring)" algolia/docsearch-scraper`
+
+# How to add a new page
+
+Create a markdown file in its respective versioned docs, or versioned SDK, directory.
+
+
+## Installation
+
+```console
+yarn install
+```
+
+## Local Development
+
+```console
+yarn run start
+```
+
+This command starts a local development server and open up a browser window. Most changes are reflected live without having to restart the server.
+
+## Clear cache
+
+```console
+yarn docusaurus clear
+```
+
+## Build
+
+```console
+yarn build
+```
+
+This command generates static content into the `build` directory and can be served using any static contents hosting service.
+
+## Deployment
+
+```console
+GIT_USER=<Your GitHub username> USE_SSH=true yarn deploy
+```
+
+If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
