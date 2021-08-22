@@ -1,0 +1,26 @@
+{
+  "unversionedId": "guides/creating-a-pool",
+  "id": "version-3.0.0/guides/creating-a-pool",
+  "isDocsHomePage": false,
+  "title": "Creating a Pool Instance",
+  "description": "This guide extends the previous getting started guide by using the fetched data from the EVM to create a Pool instance using the V3 SDK. A \"Pool\" as we refer to it here does not mean an actual V3 pool, but a model of one created with the SDK. This model will help us interact with the protocol, or manipulate data relevant to the protocol, in a way that does not require continually fetching pool data from the EVM - which can be time intensive and computationally costly.",
+  "source": "@site/SDK_versioned_docs/version-3.0.0/guides/03-creating-a-pool.md",
+  "sourceDirName": "guides",
+  "slug": "/guides/creating-a-pool",
+  "permalink": "/sdk/guides/creating-a-pool",
+  "version": "3.0.0",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "id": "creating-a-pool",
+    "title": "Creating a Pool Instance"
+  },
+  "sidebar": "version-V3/sdksidebar",
+  "previous": {
+    "title": "Using Ethers.js",
+    "permalink": "/sdk/guides/using-ethers"
+  },
+  "next": {
+    "title": "Pool",
+    "permalink": "/sdk/reference/classes/Pool"
+  }
+}

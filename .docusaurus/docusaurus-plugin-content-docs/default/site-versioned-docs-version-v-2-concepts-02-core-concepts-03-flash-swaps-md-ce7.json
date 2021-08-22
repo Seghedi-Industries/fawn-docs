@@ -1,0 +1,28 @@
+{
+  "unversionedId": "concepts/core-concepts/flash-swaps",
+  "id": "version-V2/concepts/core-concepts/flash-swaps",
+  "isDocsHomePage": false,
+  "title": "Flash Swaps",
+  "description": "Uniswap flash swaps allow you to withdraw up to the full reserves of any ERC20 token on Uniswap and execute arbitrary logic at no upfront cost, provided that by the end of the transaction you either:",
+  "source": "@site/versioned_docs/version-V2/concepts/02-core-concepts/03-flash-swaps.md",
+  "sourceDirName": "concepts/02-core-concepts",
+  "slug": "/concepts/core-concepts/flash-swaps",
+  "permalink": "/protocol/V2/concepts/core-concepts/flash-swaps",
+  "editUrl": "https://github.com/uniswap/uniswap-docs/tree/main/versioned_docs/version-V2/concepts/02-core-concepts/03-flash-swaps.md",
+  "version": "V2",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "id": "flash-swaps",
+    "title": "Flash Swaps",
+    "tags": "flash-swaps, documentation"
+  },
+  "sidebar": "version-V2/mySidebar",
+  "previous": {
+    "title": "Pools",
+    "permalink": "/protocol/V2/concepts/core-concepts/pools"
+  },
+  "next": {
+    "title": "Oracles",
+    "permalink": "/protocol/V2/concepts/core-concepts/oracles"
+  }
+}

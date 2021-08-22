@@ -1,0 +1,25 @@
+{
+  "unversionedId": "reference/interfaces/CommonAddLiquidityOptions",
+  "id": "version-3.0.0/reference/interfaces/CommonAddLiquidityOptions",
+  "isDocsHomePage": false,
+  "title": "CommonAddLiquidityOptions",
+  "description": "Options for producing the calldata to add liquidity.",
+  "source": "@site/SDK_versioned_docs/version-3.0.0/reference/interfaces/nonfungiblepositionmanager.commonaddliquidityoptions.md",
+  "sourceDirName": "reference/interfaces",
+  "slug": "/reference/interfaces/CommonAddLiquidityOptions",
+  "permalink": "/sdk/reference/interfaces/CommonAddLiquidityOptions",
+  "version": "3.0.0",
+  "frontMatter": {
+    "id": "CommonAddLiquidityOptions",
+    "title": "CommonAddLiquidityOptions"
+  },
+  "sidebar": "version-V3/sdksidebar",
+  "previous": {
+    "title": "CollectOptions",
+    "permalink": "/sdk/reference/interfaces/CollectOptions"
+  },
+  "next": {
+    "title": "IncreaseSpecificOptions",
+    "permalink": "/sdk/reference/interfaces/IncreaseSpecificOptions"
+  }
+}

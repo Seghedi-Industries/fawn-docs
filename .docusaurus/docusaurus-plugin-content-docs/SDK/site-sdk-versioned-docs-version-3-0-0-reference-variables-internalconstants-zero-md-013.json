@@ -1,0 +1,18 @@
+{
+  "unversionedId": "reference/variables/internalconstants.zero",
+  "id": "version-3.0.0/reference/variables/internalconstants.zero",
+  "isDocsHomePage": false,
+  "title": "internalconstants.zero",
+  "description": "@uniswap/v3-sdk / Exports / internalConstants / ZERO",
+  "source": "@site/SDK_versioned_docs/version-3.0.0/reference/variables/internalconstants.zero.md",
+  "sourceDirName": "reference/variables",
+  "slug": "/reference/variables/internalconstants.zero",
+  "permalink": "/sdk/reference/variables/internalconstants.zero",
+  "version": "3.0.0",
+  "frontMatter": {},
+  "sidebar": "version-V3/sdksidebar",
+  "previous": {
+    "title": "internalconstants.q96",
+    "permalink": "/sdk/reference/variables/internalconstants.q96"
+  }
+}

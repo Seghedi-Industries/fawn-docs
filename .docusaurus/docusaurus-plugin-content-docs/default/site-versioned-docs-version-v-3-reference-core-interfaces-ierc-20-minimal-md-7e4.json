@@ -1,0 +1,23 @@
+{
+  "unversionedId": "reference/core/interfaces/IERC20Minimal",
+  "id": "version-V3/reference/core/interfaces/IERC20Minimal",
+  "isDocsHomePage": false,
+  "title": "IERC20Minimal",
+  "description": "Contains a subset of the full ERC20 interface that is used in Uniswap V3",
+  "source": "@site/versioned_docs/version-V3/reference/core/interfaces/IERC20Minimal.md",
+  "sourceDirName": "reference/core/interfaces",
+  "slug": "/reference/core/interfaces/IERC20Minimal",
+  "permalink": "/protocol/reference/core/interfaces/IERC20Minimal",
+  "editUrl": "https://github.com/uniswap/uniswap-docs/tree/main/versioned_docs/version-V3/reference/core/interfaces/IERC20Minimal.md",
+  "version": "V3",
+  "frontMatter": {},
+  "sidebar": "version-V3/mySidebar",
+  "previous": {
+    "title": "UniswapV3PoolDeployer",
+    "permalink": "/protocol/reference/core/UniswapV3PoolDeployer"
+  },
+  "next": {
+    "title": "IUniswapV3Factory",
+    "permalink": "/protocol/reference/core/interfaces/IUniswapV3Factory"
+  }
+}

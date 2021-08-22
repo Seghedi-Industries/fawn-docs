@@ -200,10 +200,7 @@ html[data-theme="light"] .navbar {
   font-weight: 400;
 }
 
-html[data-theme="dark"] .navbar__logo {
-  filter: invert(100%) sepia(0%) saturate(7500%) hue-rotate(337deg)
-    brightness(112%) contrast(104%);
-}
+html[data-theme='dark'] .navbar .navbar__logo { content: url('./fawn_logo_white.svg') }
 
 .docusaurus-highlight-code-line {
   background-color: rgb(72, 77, 91);

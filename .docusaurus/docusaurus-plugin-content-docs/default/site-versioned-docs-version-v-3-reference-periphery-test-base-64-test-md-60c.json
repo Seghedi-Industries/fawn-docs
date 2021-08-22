@@ -1,0 +1,23 @@
+{
+  "unversionedId": "reference/periphery/test/Base64Test",
+  "id": "version-V3/reference/periphery/test/Base64Test",
+  "isDocsHomePage": false,
+  "title": "Base64Test",
+  "description": "Functions",
+  "source": "@site/versioned_docs/version-V3/reference/periphery/test/Base64Test.md",
+  "sourceDirName": "reference/periphery/test",
+  "slug": "/reference/periphery/test/Base64Test",
+  "permalink": "/protocol/reference/periphery/test/Base64Test",
+  "editUrl": "https://github.com/uniswap/uniswap-docs/tree/main/versioned_docs/version-V3/reference/periphery/test/Base64Test.md",
+  "version": "V3",
+  "frontMatter": {},
+  "sidebar": "version-V3/mySidebar",
+  "previous": {
+    "title": "RewardMath",
+    "permalink": "/protocol/reference/periphery/staker/libraries/RewardMath"
+  },
+  "next": {
+    "title": "LiquidityAmountsTest",
+    "permalink": "/protocol/reference/periphery/test/LiquidityAmountsTest"
+  }
+}

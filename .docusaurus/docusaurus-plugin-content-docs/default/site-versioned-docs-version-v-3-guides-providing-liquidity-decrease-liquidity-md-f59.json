@@ -1,0 +1,28 @@
+{
+  "unversionedId": "guides/providing-liquidity/decrease-liquidity",
+  "id": "version-V3/guides/providing-liquidity/decrease-liquidity",
+  "isDocsHomePage": false,
+  "title": "Decrease Liquidity",
+  "description": "Make sure to go through the Setting Up Your Contract before continuing to this section",
+  "source": "@site/versioned_docs/version-V3/guides/providing-liquidity/decrease-liquidity.md",
+  "sourceDirName": "guides/providing-liquidity",
+  "slug": "/guides/providing-liquidity/decrease-liquidity",
+  "permalink": "/protocol/guides/providing-liquidity/decrease-liquidity",
+  "editUrl": "https://github.com/uniswap/uniswap-docs/tree/main/versioned_docs/version-V3/guides/providing-liquidity/decrease-liquidity.md",
+  "version": "V3",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "id": "decrease-liquidity",
+    "title": "Decrease Liquidity",
+    "sidebar_position": 4
+  },
+  "sidebar": "version-V3/mySidebar",
+  "previous": {
+    "title": "Collecting Fees",
+    "permalink": "/protocol/guides/providing-liquidity/collect-fees"
+  },
+  "next": {
+    "title": "Increase Liquidity",
+    "permalink": "/protocol/guides/providing-liquidity/increase-liquidity"
+  }
+}

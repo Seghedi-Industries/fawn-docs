@@ -1,0 +1,23 @@
+{
+  "unversionedId": "reference/periphery/test/MockTimeNonfungiblePositionManager",
+  "id": "version-V3/reference/periphery/test/MockTimeNonfungiblePositionManager",
+  "isDocsHomePage": false,
+  "title": "MockTimeNonfungiblePositionManager",
+  "description": "Functions",
+  "source": "@site/versioned_docs/version-V3/reference/periphery/test/MockTimeNonfungiblePositionManager.md",
+  "sourceDirName": "reference/periphery/test",
+  "slug": "/reference/periphery/test/MockTimeNonfungiblePositionManager",
+  "permalink": "/protocol/reference/periphery/test/MockTimeNonfungiblePositionManager",
+  "editUrl": "https://github.com/uniswap/uniswap-docs/tree/main/versioned_docs/version-V3/reference/periphery/test/MockTimeNonfungiblePositionManager.md",
+  "version": "V3",
+  "frontMatter": {},
+  "sidebar": "version-V3/mySidebar",
+  "previous": {
+    "title": "LiquidityAmountsTest",
+    "permalink": "/protocol/reference/periphery/test/LiquidityAmountsTest"
+  },
+  "next": {
+    "title": "MockTimeSwapRouter",
+    "permalink": "/protocol/reference/periphery/test/MockTimeSwapRouter"
+  }
+}

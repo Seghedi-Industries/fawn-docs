@@ -1,0 +1,26 @@
+{
+  "unversionedId": "reference/orchestration",
+  "id": "version-1.0.0/reference/orchestration",
+  "isDocsHomePage": false,
+  "title": "Orchestration",
+  "description": "Orchestration functions are plain-english wrappers for the function defined in /sdk/1.0.0/reference/data and Computation.",
+  "source": "@site/SDK_versioned_docs/version-1.0.0/reference/05-orchestration.md",
+  "sourceDirName": "reference",
+  "slug": "/reference/orchestration",
+  "permalink": "/sdk/1.0.0/reference/orchestration",
+  "version": "1.0.0",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "id": "orchestration",
+    "title": "Orchestration"
+  },
+  "sidebar": "version-V1/sdksidebar",
+  "previous": {
+    "title": "Format",
+    "permalink": "/sdk/1.0.0/reference/format"
+  },
+  "next": {
+    "title": "Transact",
+    "permalink": "/sdk/1.0.0/reference/transact"
+  }
+}

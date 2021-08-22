@@ -1,0 +1,26 @@
+{
+  "unversionedId": "concepts/V3-overview/fees",
+  "id": "version-V3/concepts/V3-overview/fees",
+  "isDocsHomePage": false,
+  "title": "Fees",
+  "description": "Swap Fees",
+  "source": "@site/versioned_docs/version-V3/concepts/V3-overview/fees.md",
+  "sourceDirName": "concepts/V3-overview",
+  "slug": "/concepts/V3-overview/fees",
+  "permalink": "/protocol/concepts/V3-overview/fees",
+  "editUrl": "https://github.com/uniswap/uniswap-docs/tree/main/versioned_docs/version-V3/concepts/V3-overview/fees.md",
+  "version": "V3",
+  "frontMatter": {
+    "id": "fees",
+    "title": "Fees"
+  },
+  "sidebar": "version-V3/mySidebar",
+  "previous": {
+    "title": "Concentrated Liquidity",
+    "permalink": "/protocol/concepts/V3-overview/concentrated-liquidity"
+  },
+  "next": {
+    "title": "Glossary",
+    "permalink": "/protocol/concepts/V3-overview/glossary"
+  }
+}

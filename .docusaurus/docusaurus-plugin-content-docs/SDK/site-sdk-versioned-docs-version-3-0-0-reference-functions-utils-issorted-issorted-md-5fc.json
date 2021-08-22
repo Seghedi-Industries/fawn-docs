@@ -1,0 +1,24 @@
+{
+  "unversionedId": "reference/functions/isSorted",
+  "id": "version-3.0.0/reference/functions/isSorted",
+  "isDocsHomePage": false,
+  "title": "isSorted",
+  "description": "@uniswap/v3-sdk / Exports / utils/isSorted / isSorted",
+  "source": "@site/SDK_versioned_docs/version-3.0.0/reference/functions/utils_issorted.issorted.md",
+  "sourceDirName": "reference/functions",
+  "slug": "/reference/functions/isSorted",
+  "permalink": "/sdk/reference/functions/isSorted",
+  "version": "3.0.0",
+  "frontMatter": {
+    "id": "isSorted"
+  },
+  "sidebar": "version-V3/sdksidebar",
+  "previous": {
+    "title": "encodeSqrtRatioX96",
+    "permalink": "/sdk/reference/functions/encodeSqrtRatioX96"
+  },
+  "next": {
+    "title": "maxLiquidityForAmounts",
+    "permalink": "/sdk/reference/functions/maxLiquidityForAmounts"
+  }
+}

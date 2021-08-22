@@ -1,0 +1,25 @@
+{
+  "unversionedId": "reference/interfaces/IncreaseSpecificOptions",
+  "id": "version-3.0.0/reference/interfaces/IncreaseSpecificOptions",
+  "isDocsHomePage": false,
+  "title": "IncreaseSpecificOptions",
+  "description": "Properties",
+  "source": "@site/SDK_versioned_docs/version-3.0.0/reference/interfaces/nonfungiblepositionmanager.increasespecificoptions.md",
+  "sourceDirName": "reference/interfaces",
+  "slug": "/reference/interfaces/IncreaseSpecificOptions",
+  "permalink": "/sdk/reference/interfaces/IncreaseSpecificOptions",
+  "version": "3.0.0",
+  "frontMatter": {
+    "id": "IncreaseSpecificOptions",
+    "title": "IncreaseSpecificOptions"
+  },
+  "sidebar": "version-V3/sdksidebar",
+  "previous": {
+    "title": "CommonAddLiquidityOptions",
+    "permalink": "/sdk/reference/interfaces/CommonAddLiquidityOptions"
+  },
+  "next": {
+    "title": "MintSpecificOptions",
+    "permalink": "/sdk/reference/interfaces/MintSpecificOptions"
+  }
+}

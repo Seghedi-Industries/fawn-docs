@@ -1,0 +1,26 @@
+{
+  "unversionedId": "reference/deployments",
+  "id": "version-V3/reference/deployments",
+  "isDocsHomePage": false,
+  "title": "Deployments",
+  "description": "The latest version of @uniswap/v3-core, @uniswap/v3-periphery,",
+  "source": "@site/versioned_docs/version-V3/reference/Deployments.md",
+  "sourceDirName": "reference",
+  "slug": "/reference/deployments",
+  "permalink": "/protocol/reference/deployments",
+  "editUrl": "https://github.com/uniswap/uniswap-docs/tree/main/versioned_docs/version-V3/reference/Deployments.md",
+  "version": "V3",
+  "frontMatter": {
+    "id": "deployments",
+    "title": "Deployments"
+  },
+  "sidebar": "version-V3/mySidebar",
+  "previous": {
+    "title": "V3Migrator",
+    "permalink": "/protocol/reference/periphery/V3Migrator"
+  },
+  "next": {
+    "title": "Error Codes",
+    "permalink": "/protocol/reference/error-codes"
+  }
+}

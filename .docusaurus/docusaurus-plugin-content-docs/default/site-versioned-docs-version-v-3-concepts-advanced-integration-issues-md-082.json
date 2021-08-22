@@ -1,0 +1,26 @@
+{
+  "unversionedId": "concepts/advanced/integration-issues",
+  "id": "version-V3/concepts/advanced/integration-issues",
+  "isDocsHomePage": false,
+  "title": "Token Integration Issues",
+  "description": "Fee-on-transfer and rebasing tokens will not function correctly on v3.",
+  "source": "@site/versioned_docs/version-V3/concepts/advanced/integration-issues.md",
+  "sourceDirName": "concepts/advanced",
+  "slug": "/concepts/advanced/integration-issues",
+  "permalink": "/protocol/concepts/advanced/integration-issues",
+  "editUrl": "https://github.com/uniswap/uniswap-docs/tree/main/versioned_docs/version-V3/concepts/advanced/integration-issues.md",
+  "version": "V3",
+  "frontMatter": {
+    "id": "integration-issues",
+    "title": "Token Integration Issues"
+  },
+  "sidebar": "version-V3/mySidebar",
+  "previous": {
+    "title": "Swaps",
+    "permalink": "/protocol/concepts/V3-overview/swaps"
+  },
+  "next": {
+    "title": "Research",
+    "permalink": "/protocol/concepts/advanced/research"
+  }
+}

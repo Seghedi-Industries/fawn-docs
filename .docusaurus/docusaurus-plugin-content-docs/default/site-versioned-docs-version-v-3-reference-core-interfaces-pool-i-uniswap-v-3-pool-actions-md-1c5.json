@@ -1,0 +1,23 @@
+{
+  "unversionedId": "reference/core/interfaces/pool/IUniswapV3PoolActions",
+  "id": "version-V3/reference/core/interfaces/pool/IUniswapV3PoolActions",
+  "isDocsHomePage": false,
+  "title": "IUniswapV3PoolActions",
+  "description": "Contains pool methods that can be called by anyone",
+  "source": "@site/versioned_docs/version-V3/reference/core/interfaces/pool/IUniswapV3PoolActions.md",
+  "sourceDirName": "reference/core/interfaces/pool",
+  "slug": "/reference/core/interfaces/pool/IUniswapV3PoolActions",
+  "permalink": "/protocol/reference/core/interfaces/pool/IUniswapV3PoolActions",
+  "editUrl": "https://github.com/uniswap/uniswap-docs/tree/main/versioned_docs/version-V3/reference/core/interfaces/pool/IUniswapV3PoolActions.md",
+  "version": "V3",
+  "frontMatter": {},
+  "sidebar": "version-V3/mySidebar",
+  "previous": {
+    "title": "IUniswapV3SwapCallback",
+    "permalink": "/protocol/reference/core/interfaces/callback/IUniswapV3SwapCallback"
+  },
+  "next": {
+    "title": "IUniswapV3PoolDerivedState",
+    "permalink": "/protocol/reference/core/interfaces/pool/IUniswapV3PoolDerivedState"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "unversionedId": "reference/classes/SwapRouter",
+  "id": "version-3.0.0/reference/classes/SwapRouter",
+  "isDocsHomePage": false,
+  "title": "SwapRouter",
+  "description": "Represents the Uniswap V2 SwapRouter, and has static methods for helping execute trades.",
+  "source": "@site/SDK_versioned_docs/version-3.0.0/reference/classes/swaprouter.swaprouter-1.md",
+  "sourceDirName": "reference/classes",
+  "slug": "/reference/classes/SwapRouter",
+  "permalink": "/sdk/reference/classes/SwapRouter",
+  "version": "3.0.0",
+  "frontMatter": {
+    "id": "SwapRouter",
+    "title": "SwapRouter"
+  },
+  "sidebar": "version-V3/sdksidebar",
+  "previous": {
+    "title": "SelfPermit",
+    "permalink": "/sdk/reference/classes/SelfPermit"
+  },
+  "next": {
+    "title": "FullMath",
+    "permalink": "/sdk/reference/classes/FullMath"
+  }
+}

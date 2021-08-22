@@ -1,0 +1,24 @@
+{
+  "unversionedId": "reference/functions/mostSignificantBit",
+  "id": "version-3.0.0/reference/functions/mostSignificantBit",
+  "isDocsHomePage": false,
+  "title": "mostSignificantBit",
+  "description": "@uniswap/v3-sdk / Exports / utils/mostSignificantBit / mostSignificantBit",
+  "source": "@site/SDK_versioned_docs/version-3.0.0/reference/functions/utils_mostsignificantbit.mostsignificantbit.md",
+  "sourceDirName": "reference/functions",
+  "slug": "/reference/functions/mostSignificantBit",
+  "permalink": "/sdk/reference/functions/mostSignificantBit",
+  "version": "3.0.0",
+  "frontMatter": {
+    "id": "mostSignificantBit"
+  },
+  "sidebar": "version-V3/sdksidebar",
+  "previous": {
+    "title": "maxLiquidityForAmounts",
+    "permalink": "/sdk/reference/functions/maxLiquidityForAmounts"
+  },
+  "next": {
+    "title": "nearestUsableTick",
+    "permalink": "/sdk/reference/functions/nearestUsableTick"
+  }
+}

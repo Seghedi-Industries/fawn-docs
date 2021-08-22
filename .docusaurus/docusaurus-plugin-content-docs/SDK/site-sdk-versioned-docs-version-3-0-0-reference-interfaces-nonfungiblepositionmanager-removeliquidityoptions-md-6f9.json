@@ -1,0 +1,25 @@
+{
+  "unversionedId": "reference/interfaces/RemoveLiquidityOptions",
+  "id": "version-3.0.0/reference/interfaces/RemoveLiquidityOptions",
+  "isDocsHomePage": false,
+  "title": "RemoveLiquidityOptions",
+  "description": "Options for producing the calldata to exit a position.",
+  "source": "@site/SDK_versioned_docs/version-3.0.0/reference/interfaces/nonfungiblepositionmanager.removeliquidityoptions.md",
+  "sourceDirName": "reference/interfaces",
+  "slug": "/reference/interfaces/RemoveLiquidityOptions",
+  "permalink": "/sdk/reference/interfaces/RemoveLiquidityOptions",
+  "version": "3.0.0",
+  "frontMatter": {
+    "id": "RemoveLiquidityOptions",
+    "title": "RemoveLiquidityOptions"
+  },
+  "sidebar": "version-V3/sdksidebar",
+  "previous": {
+    "title": "NFTPermitOptions",
+    "permalink": "/sdk/reference/interfaces/NFTPermitOptions"
+  },
+  "next": {
+    "title": "AllowedPermitArguments",
+    "permalink": "/sdk/reference/interfaces/AllowedPermitArguments"
+  }
+}

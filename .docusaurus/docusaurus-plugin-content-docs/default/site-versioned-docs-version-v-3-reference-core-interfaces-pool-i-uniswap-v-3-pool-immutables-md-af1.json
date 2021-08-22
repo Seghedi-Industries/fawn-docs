@@ -1,0 +1,23 @@
+{
+  "unversionedId": "reference/core/interfaces/pool/IUniswapV3PoolImmutables",
+  "id": "version-V3/reference/core/interfaces/pool/IUniswapV3PoolImmutables",
+  "isDocsHomePage": false,
+  "title": "IUniswapV3PoolImmutables",
+  "description": "These parameters are fixed for a pool forever, i.e., the methods will always return the same values",
+  "source": "@site/versioned_docs/version-V3/reference/core/interfaces/pool/IUniswapV3PoolImmutables.md",
+  "sourceDirName": "reference/core/interfaces/pool",
+  "slug": "/reference/core/interfaces/pool/IUniswapV3PoolImmutables",
+  "permalink": "/protocol/reference/core/interfaces/pool/IUniswapV3PoolImmutables",
+  "editUrl": "https://github.com/uniswap/uniswap-docs/tree/main/versioned_docs/version-V3/reference/core/interfaces/pool/IUniswapV3PoolImmutables.md",
+  "version": "V3",
+  "frontMatter": {},
+  "sidebar": "version-V3/mySidebar",
+  "previous": {
+    "title": "IUniswapV3PoolEvents",
+    "permalink": "/protocol/reference/core/interfaces/pool/IUniswapV3PoolEvents"
+  },
+  "next": {
+    "title": "IUniswapV3PoolOwnerActions",
+    "permalink": "/protocol/reference/core/interfaces/pool/IUniswapV3PoolOwnerActions"
+  }
+}

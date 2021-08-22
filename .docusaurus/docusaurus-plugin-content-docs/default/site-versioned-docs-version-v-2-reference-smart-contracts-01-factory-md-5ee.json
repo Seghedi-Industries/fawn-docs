@@ -1,0 +1,28 @@
+{
+  "unversionedId": "reference/smart-contracts/factory",
+  "id": "version-V2/reference/smart-contracts/factory",
+  "isDocsHomePage": false,
+  "title": "Factory",
+  "description": "Code",
+  "source": "@site/versioned_docs/version-V2/reference/smart-contracts/01-factory.md",
+  "sourceDirName": "reference/smart-contracts",
+  "slug": "/reference/smart-contracts/factory",
+  "permalink": "/protocol/V2/reference/smart-contracts/factory",
+  "editUrl": "https://github.com/uniswap/uniswap-docs/tree/main/versioned_docs/version-V2/reference/smart-contracts/01-factory.md",
+  "version": "V2",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "factory",
+    "title": "Factory",
+    "tags": "smart-contracts, documentation"
+  },
+  "sidebar": "version-V2/mySidebar",
+  "previous": {
+    "title": "Governance Reference",
+    "permalink": "/protocol/V2/reference/Governance/governance-reference"
+  },
+  "next": {
+    "title": "Pair",
+    "permalink": "/protocol/V2/reference/smart-contracts/pair"
+  }
+}

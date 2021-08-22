@@ -1,0 +1,23 @@
+{
+  "unversionedId": "reference/core/libraries/LowGasSafeMath",
+  "id": "version-V3/reference/core/libraries/LowGasSafeMath",
+  "isDocsHomePage": false,
+  "title": "LowGasSafeMath",
+  "description": "Contains methods for doing math operations that revert on overflow or underflow for minimal gas cost",
+  "source": "@site/versioned_docs/version-V3/reference/core/libraries/LowGasSafeMath.md",
+  "sourceDirName": "reference/core/libraries",
+  "slug": "/reference/core/libraries/LowGasSafeMath",
+  "permalink": "/protocol/reference/core/libraries/LowGasSafeMath",
+  "editUrl": "https://github.com/uniswap/uniswap-docs/tree/main/versioned_docs/version-V3/reference/core/libraries/LowGasSafeMath.md",
+  "version": "V3",
+  "frontMatter": {},
+  "sidebar": "version-V3/mySidebar",
+  "previous": {
+    "title": "LiquidityMath",
+    "permalink": "/protocol/reference/core/libraries/LiquidityMath"
+  },
+  "next": {
+    "title": "Oracle",
+    "permalink": "/protocol/reference/core/libraries/Oracle"
+  }
+}

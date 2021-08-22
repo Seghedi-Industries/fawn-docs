@@ -1,0 +1,26 @@
+{
+  "unversionedId": "reference/transact",
+  "id": "version-1.0.0/reference/transact",
+  "isDocsHomePage": false,
+  "title": "Transact",
+  "description": "The function formats trade data for execution against the relevant Uniswap exchange.",
+  "source": "@site/SDK_versioned_docs/version-1.0.0/reference/06-transact.md",
+  "sourceDirName": "reference",
+  "slug": "/reference/transact",
+  "permalink": "/sdk/1.0.0/reference/transact",
+  "version": "1.0.0",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "id": "transact",
+    "title": "Transact"
+  },
+  "sidebar": "version-V1/sdksidebar",
+  "previous": {
+    "title": "Orchestration",
+    "permalink": "/sdk/1.0.0/reference/orchestration"
+  },
+  "next": {
+    "title": "Constants",
+    "permalink": "/sdk/1.0.0/reference/constants"
+  }
+}

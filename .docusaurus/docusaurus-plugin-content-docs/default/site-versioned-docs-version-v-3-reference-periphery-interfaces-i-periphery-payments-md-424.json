@@ -1,0 +1,23 @@
+{
+  "unversionedId": "reference/periphery/interfaces/IPeripheryPayments",
+  "id": "version-V3/reference/periphery/interfaces/IPeripheryPayments",
+  "isDocsHomePage": false,
+  "title": "IPeripheryPayments",
+  "description": "Functions to ease deposits and withdrawals of ETH",
+  "source": "@site/versioned_docs/version-V3/reference/periphery/interfaces/IPeripheryPayments.md",
+  "sourceDirName": "reference/periphery/interfaces",
+  "slug": "/reference/periphery/interfaces/IPeripheryPayments",
+  "permalink": "/protocol/reference/periphery/interfaces/IPeripheryPayments",
+  "editUrl": "https://github.com/uniswap/uniswap-docs/tree/main/versioned_docs/version-V3/reference/periphery/interfaces/IPeripheryPayments.md",
+  "version": "V3",
+  "frontMatter": {},
+  "sidebar": "version-V3/mySidebar",
+  "previous": {
+    "title": "IPeripheryImmutableState",
+    "permalink": "/protocol/reference/periphery/interfaces/IPeripheryImmutableState"
+  },
+  "next": {
+    "title": "IPeripheryPaymentsWithFee",
+    "permalink": "/protocol/reference/periphery/interfaces/IPeripheryPaymentsWithFee"
+  }
+}

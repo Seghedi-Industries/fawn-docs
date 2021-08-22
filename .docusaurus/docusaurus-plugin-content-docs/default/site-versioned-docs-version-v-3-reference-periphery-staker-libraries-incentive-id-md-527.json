@@ -1,0 +1,23 @@
+{
+  "unversionedId": "reference/periphery/staker/libraries/IncentiveId",
+  "id": "version-V3/reference/periphery/staker/libraries/IncentiveId",
+  "isDocsHomePage": false,
+  "title": "IncentiveId",
+  "description": "Functions",
+  "source": "@site/versioned_docs/version-V3/reference/periphery/staker/libraries/IncentiveId.md",
+  "sourceDirName": "reference/periphery/staker/libraries",
+  "slug": "/reference/periphery/staker/libraries/IncentiveId",
+  "permalink": "/protocol/reference/periphery/staker/libraries/IncentiveId",
+  "editUrl": "https://github.com/uniswap/uniswap-docs/tree/main/versioned_docs/version-V3/reference/periphery/staker/libraries/IncentiveId.md",
+  "version": "V3",
+  "frontMatter": {},
+  "sidebar": "version-V3/mySidebar",
+  "previous": {
+    "title": "IUniswapV3Staker",
+    "permalink": "/protocol/reference/periphery/staker/interfaces/IUniswapV3Staker"
+  },
+  "next": {
+    "title": "NFTPositionInfo",
+    "permalink": "/protocol/reference/periphery/staker/libraries/NFTPositionInfo"
+  }
+}

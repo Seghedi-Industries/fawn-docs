@@ -1,0 +1,26 @@
+{
+  "unversionedId": "concepts/V3-overview/oracle",
+  "id": "version-V3/concepts/V3-overview/oracle",
+  "isDocsHomePage": false,
+  "title": "Oracle",
+  "description": "Unfamiliar with oracles? check out the Ethereum Foundation's oracle overview first.",
+  "source": "@site/versioned_docs/version-V3/concepts/V3-overview/oracle.md",
+  "sourceDirName": "concepts/V3-overview",
+  "slug": "/concepts/V3-overview/oracle",
+  "permalink": "/protocol/concepts/V3-overview/oracle",
+  "editUrl": "https://github.com/uniswap/uniswap-docs/tree/main/versioned_docs/version-V3/concepts/V3-overview/oracle.md",
+  "version": "V3",
+  "frontMatter": {
+    "id": "oracle",
+    "title": "Oracle"
+  },
+  "sidebar": "version-V3/mySidebar",
+  "previous": {
+    "title": "Glossary",
+    "permalink": "/protocol/concepts/V3-overview/glossary"
+  },
+  "next": {
+    "title": "Range Orders",
+    "permalink": "/protocol/concepts/V3-overview/range-orders"
+  }
+}

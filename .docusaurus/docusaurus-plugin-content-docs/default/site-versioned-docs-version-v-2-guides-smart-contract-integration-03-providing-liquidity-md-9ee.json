@@ -1,0 +1,28 @@
+{
+  "unversionedId": "guides/smart-contract-integration/providing-liquidity",
+  "id": "version-V2/guides/smart-contract-integration/providing-liquidity",
+  "isDocsHomePage": false,
+  "title": "Providing Liquidity",
+  "description": "Introduction",
+  "source": "@site/versioned_docs/version-V2/guides/smart-contract-integration/03-providing-liquidity.md",
+  "sourceDirName": "guides/smart-contract-integration",
+  "slug": "/guides/smart-contract-integration/providing-liquidity",
+  "permalink": "/protocol/V2/guides/smart-contract-integration/providing-liquidity",
+  "editUrl": "https://github.com/uniswap/uniswap-docs/tree/main/versioned_docs/version-V2/guides/smart-contract-integration/03-providing-liquidity.md",
+  "version": "V2",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "id": "providing-liquidity",
+    "title": "Providing Liquidity",
+    "tags": "smart contract integration, developer-guides, documentation"
+  },
+  "sidebar": "version-V2/mySidebar",
+  "previous": {
+    "title": "Implement a Swap",
+    "permalink": "/protocol/V2/guides/smart-contract-integration/trading-from-a-smart-contract"
+  },
+  "next": {
+    "title": "Building an Oracle",
+    "permalink": "/protocol/V2/guides/smart-contract-integration/building-an-oracle"
+  }
+}

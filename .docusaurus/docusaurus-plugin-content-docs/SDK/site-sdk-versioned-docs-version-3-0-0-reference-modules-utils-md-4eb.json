@@ -1,0 +1,25 @@
+{
+  "unversionedId": "reference/modules/utils",
+  "id": "version-3.0.0/reference/modules/utils",
+  "isDocsHomePage": false,
+  "title": "utils",
+  "description": "References",
+  "source": "@site/SDK_versioned_docs/version-3.0.0/reference/modules/utils.md",
+  "sourceDirName": "reference/modules",
+  "slug": "/reference/modules/utils",
+  "permalink": "/sdk/reference/modules/utils",
+  "version": "3.0.0",
+  "frontMatter": {
+    "id": "utils",
+    "title": "utils"
+  },
+  "sidebar": "version-V3/sdksidebar",
+  "previous": {
+    "title": "constants",
+    "permalink": "/sdk/reference/modules/constants"
+  },
+  "next": {
+    "title": "Reference",
+    "permalink": "/sdk/reference/reference-info"
+  }
+}

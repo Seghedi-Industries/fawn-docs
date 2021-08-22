@@ -1,0 +1,28 @@
+{
+  "unversionedId": "concepts/governance/overview",
+  "id": "version-V3/concepts/governance/overview",
+  "isDocsHomePage": false,
+  "title": "Overview",
+  "description": "governance",
+  "source": "@site/versioned_docs/version-V3/concepts/governance/01-overview.md",
+  "sourceDirName": "concepts/governance",
+  "slug": "/concepts/governance/overview",
+  "permalink": "/protocol/concepts/governance/overview",
+  "editUrl": "https://github.com/uniswap/uniswap-docs/tree/main/versioned_docs/version-V3/concepts/governance/01-overview.md",
+  "version": "V3",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "overview",
+    "title": "Overview",
+    "tags": "smart-contracts, documentation"
+  },
+  "sidebar": "version-V3/mySidebar",
+  "previous": {
+    "title": "Resources",
+    "permalink": "/protocol/concepts/advanced/resources"
+  },
+  "next": {
+    "title": "Process",
+    "permalink": "/protocol/concepts/governance/process"
+  }
+}

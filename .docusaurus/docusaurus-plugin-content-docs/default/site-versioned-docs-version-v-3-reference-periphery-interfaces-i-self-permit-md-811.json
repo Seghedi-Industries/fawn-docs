@@ -1,0 +1,23 @@
+{
+  "unversionedId": "reference/periphery/interfaces/ISelfPermit",
+  "id": "version-V3/reference/periphery/interfaces/ISelfPermit",
+  "isDocsHomePage": false,
+  "title": "ISelfPermit",
+  "description": "Functionality to call permit on any EIP-2612-compliant token for use in the route",
+  "source": "@site/versioned_docs/version-V3/reference/periphery/interfaces/ISelfPermit.md",
+  "sourceDirName": "reference/periphery/interfaces",
+  "slug": "/reference/periphery/interfaces/ISelfPermit",
+  "permalink": "/protocol/reference/periphery/interfaces/ISelfPermit",
+  "editUrl": "https://github.com/uniswap/uniswap-docs/tree/main/versioned_docs/version-V3/reference/periphery/interfaces/ISelfPermit.md",
+  "version": "V3",
+  "frontMatter": {},
+  "sidebar": "version-V3/mySidebar",
+  "previous": {
+    "title": "IQuoter",
+    "permalink": "/protocol/reference/periphery/interfaces/IQuoter"
+  },
+  "next": {
+    "title": "ISwapRouter",
+    "permalink": "/protocol/reference/periphery/interfaces/ISwapRouter"
+  }
+}

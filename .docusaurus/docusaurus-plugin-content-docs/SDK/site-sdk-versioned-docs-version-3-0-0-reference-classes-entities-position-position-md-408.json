@@ -1,0 +1,25 @@
+{
+  "unversionedId": "reference/classes/Position",
+  "id": "version-3.0.0/reference/classes/Position",
+  "isDocsHomePage": false,
+  "title": "Position",
+  "description": "Represents a position on a Uniswap V3 Pool",
+  "source": "@site/SDK_versioned_docs/version-3.0.0/reference/classes/entities_position.position.md",
+  "sourceDirName": "reference/classes",
+  "slug": "/reference/classes/Position",
+  "permalink": "/sdk/reference/classes/Position",
+  "version": "3.0.0",
+  "frontMatter": {
+    "id": "Position",
+    "title": "Position"
+  },
+  "sidebar": "version-V3/sdksidebar",
+  "previous": {
+    "title": "Pool",
+    "permalink": "/sdk/reference/classes/Pool"
+  },
+  "next": {
+    "title": "Route",
+    "permalink": "/sdk/reference/classes/Route"
+  }
+}

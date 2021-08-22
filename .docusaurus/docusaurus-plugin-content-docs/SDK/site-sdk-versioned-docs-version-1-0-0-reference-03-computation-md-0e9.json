@@ -1,0 +1,26 @@
+{
+  "unversionedId": "reference/computation",
+  "id": "version-1.0.0/reference/computation",
+  "isDocsHomePage": false,
+  "title": "Computation",
+  "description": "This function computes market details for the passed reserves data. Markets are defined as ETH&lt;&gt;ERC20, ERC20&lt;&gt;ETH, or ERC20&lt;&gt;ERC20 pairs, where the first currency is the input and the second is the output. Reserves must be specified for both the input and output currency.",
+  "source": "@site/SDK_versioned_docs/version-1.0.0/reference/03-computation.md",
+  "sourceDirName": "reference",
+  "slug": "/reference/computation",
+  "permalink": "/sdk/1.0.0/reference/computation",
+  "version": "1.0.0",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "id": "computation",
+    "title": "Computation"
+  },
+  "sidebar": "version-V1/sdksidebar",
+  "previous": {
+    "title": "Data",
+    "permalink": "/sdk/1.0.0/reference/data"
+  },
+  "next": {
+    "title": "Format",
+    "permalink": "/sdk/1.0.0/reference/format"
+  }
+}

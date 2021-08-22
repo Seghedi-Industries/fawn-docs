@@ -1,0 +1,23 @@
+{
+  "unversionedId": "reference/periphery/NonfungiblePositionManager",
+  "id": "version-V3/reference/periphery/NonfungiblePositionManager",
+  "isDocsHomePage": false,
+  "title": "NonfungiblePositionManager",
+  "description": "Wraps Uniswap V3 positions in the ERC721 non-fungible token interface",
+  "source": "@site/versioned_docs/version-V3/reference/periphery/NonfungiblePositionManager.md",
+  "sourceDirName": "reference/periphery",
+  "slug": "/reference/periphery/NonfungiblePositionManager",
+  "permalink": "/protocol/reference/periphery/NonfungiblePositionManager",
+  "editUrl": "https://github.com/uniswap/uniswap-docs/tree/main/versioned_docs/version-V3/reference/periphery/NonfungiblePositionManager.md",
+  "version": "V3",
+  "frontMatter": {},
+  "sidebar": "version-V3/mySidebar",
+  "previous": {
+    "title": "TickLensTest",
+    "permalink": "/protocol/reference/periphery/test/TickLensTest"
+  },
+  "next": {
+    "title": "NonfungibleTokenPositionDescriptor",
+    "permalink": "/protocol/reference/periphery/NonfungibleTokenPositionDescriptor"
+  }
+}

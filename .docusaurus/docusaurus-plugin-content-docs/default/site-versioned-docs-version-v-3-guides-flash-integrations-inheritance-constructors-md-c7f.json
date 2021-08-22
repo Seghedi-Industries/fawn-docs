@@ -1,0 +1,28 @@
+{
+  "unversionedId": "guides/flash-integrations/inheritance-constructors",
+  "id": "version-V3/guides/flash-integrations/inheritance-constructors",
+  "isDocsHomePage": false,
+  "title": "Getting Started",
+  "description": "In this guide, we will write a smart contract that calls flash on a V3 pool and swaps the full amount withdrawn of token0 and token1 in the corresponding pools with the same token pair - but different fee tiers. After the swap, the contract will pay back the first pool and transfer profits to the original calling address.",
+  "source": "@site/versioned_docs/version-V3/guides/flash-integrations/Inheritance-constructors.md",
+  "sourceDirName": "guides/flash-integrations",
+  "slug": "/guides/flash-integrations/inheritance-constructors",
+  "permalink": "/protocol/guides/flash-integrations/inheritance-constructors",
+  "editUrl": "https://github.com/uniswap/uniswap-docs/tree/main/versioned_docs/version-V3/guides/flash-integrations/Inheritance-constructors.md",
+  "version": "V3",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "inheritance-constructors",
+    "title": "Getting Started",
+    "sidebar_position": 1
+  },
+  "sidebar": "version-V3/mySidebar",
+  "previous": {
+    "title": "The Full Contract",
+    "permalink": "/protocol/guides/providing-liquidity/the-full-contract"
+  },
+  "next": {
+    "title": "Calling Flash",
+    "permalink": "/protocol/guides/flash-integrations/calling-flash"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "reference/core/libraries/SecondsOutside",
+  "id": "version-V3/reference/core/libraries/SecondsOutside",
+  "isDocsHomePage": false,
+  "title": "SecondsOutside",
+  "description": "Contains methods for working with a mapping from tick to 32 bit timestamp values, specifically seconds",
+  "source": "@site/versioned_docs/version-V3/reference/core/libraries/SecondsOutside.md",
+  "sourceDirName": "reference/core/libraries",
+  "slug": "/reference/core/libraries/SecondsOutside",
+  "permalink": "/protocol/reference/core/libraries/SecondsOutside",
+  "editUrl": "https://github.com/uniswap/uniswap-docs/tree/main/versioned_docs/version-V3/reference/core/libraries/SecondsOutside.md",
+  "version": "V3",
+  "frontMatter": {},
+  "sidebar": "version-V3/mySidebar",
+  "previous": {
+    "title": "SafeCast",
+    "permalink": "/protocol/reference/core/libraries/SafeCast"
+  },
+  "next": {
+    "title": "SqrtPriceMath",
+    "permalink": "/protocol/reference/core/libraries/SqrtPriceMath"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "concepts/V3-overview/concentrated-liquidity",
+  "id": "version-V3/concepts/V3-overview/concentrated-liquidity",
+  "isDocsHomePage": false,
+  "title": "Concentrated Liquidity",
+  "description": "Your browser does not support the video tag.",
+  "source": "@site/versioned_docs/version-V3/concepts/V3-overview/concentrated-liquidity.md",
+  "sourceDirName": "concepts/V3-overview",
+  "slug": "/concepts/V3-overview/concentrated-liquidity",
+  "permalink": "/protocol/concepts/V3-overview/concentrated-liquidity",
+  "editUrl": "https://github.com/uniswap/uniswap-docs/tree/main/versioned_docs/version-V3/concepts/V3-overview/concentrated-liquidity.md",
+  "version": "V3",
+  "frontMatter": {
+    "id": "concentrated-liquidity",
+    "title": "Concentrated Liquidity"
+  },
+  "sidebar": "version-V3/mySidebar",
+  "previous": {
+    "title": "What Is Uniswap?",
+    "permalink": "/protocol/introduction"
+  },
+  "next": {
+    "title": "Fees",
+    "permalink": "/protocol/concepts/V3-overview/fees"
+  }
+}

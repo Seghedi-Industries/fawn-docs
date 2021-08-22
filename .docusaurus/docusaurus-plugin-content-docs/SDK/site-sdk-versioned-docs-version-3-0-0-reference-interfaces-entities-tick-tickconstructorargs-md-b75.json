@@ -1,0 +1,25 @@
+{
+  "unversionedId": "reference/interfaces/TickConstructorArgs",
+  "id": "version-3.0.0/reference/interfaces/TickConstructorArgs",
+  "isDocsHomePage": false,
+  "title": "TickConstructorArgs",
+  "description": "Properties",
+  "source": "@site/SDK_versioned_docs/version-3.0.0/reference/interfaces/entities_tick.tickconstructorargs.md",
+  "sourceDirName": "reference/interfaces",
+  "slug": "/reference/interfaces/TickConstructorArgs",
+  "permalink": "/sdk/reference/interfaces/TickConstructorArgs",
+  "version": "3.0.0",
+  "frontMatter": {
+    "id": "TickConstructorArgs",
+    "title": "TickConstructorArgs"
+  },
+  "sidebar": "version-V3/sdksidebar",
+  "previous": {
+    "title": "tickToPrice",
+    "permalink": "/sdk/reference/functions/tickToPrice"
+  },
+  "next": {
+    "title": "TickDataProvider",
+    "permalink": "/sdk/reference/interfaces/TickDataProvider"
+  }
+}

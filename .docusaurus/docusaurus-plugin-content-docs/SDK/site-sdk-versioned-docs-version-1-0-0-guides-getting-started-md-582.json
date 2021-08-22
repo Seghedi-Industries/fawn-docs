@@ -1,0 +1,27 @@
+{
+  "unversionedId": "guides/getting-started",
+  "id": "version-1.0.0/guides/getting-started",
+  "isDocsHomePage": false,
+  "title": "Getting Started",
+  "description": "The Uniswap SDK is meant to simplify every aspect of integrating Uniswap into your project. It's written in TypeScript, has a robust test suite, uses bignumber.js for math, and includes an optional data-fetching module which relies on ethers.js.",
+  "source": "@site/SDK_versioned_docs/version-1.0.0/guides/getting-started.md",
+  "sourceDirName": "guides",
+  "slug": "/guides/getting-started",
+  "permalink": "/sdk/1.0.0/guides/getting-started",
+  "version": "1.0.0",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "getting-started",
+    "title": "Getting Started",
+    "sidebar_position": 1
+  },
+  "sidebar": "version-V1/sdksidebar",
+  "previous": {
+    "title": "The Uniswap V1 SDK",
+    "permalink": "/sdk/1.0.0/introduction"
+  },
+  "next": {
+    "title": "Data",
+    "permalink": "/sdk/1.0.0/reference/data"
+  }
+}

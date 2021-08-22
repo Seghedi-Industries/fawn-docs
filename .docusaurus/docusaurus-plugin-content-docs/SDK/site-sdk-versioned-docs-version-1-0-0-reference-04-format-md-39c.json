@@ -1,0 +1,26 @@
+{
+  "unversionedId": "reference/format",
+  "id": "version-1.0.0/reference/format",
+  "isDocsHomePage": false,
+  "title": "Format",
+  "description": "This function formats values to a specified number of significant digits.",
+  "source": "@site/SDK_versioned_docs/version-1.0.0/reference/04-format.md",
+  "sourceDirName": "reference",
+  "slug": "/reference/format",
+  "permalink": "/sdk/1.0.0/reference/format",
+  "version": "1.0.0",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "id": "format",
+    "title": "Format"
+  },
+  "sidebar": "version-V1/sdksidebar",
+  "previous": {
+    "title": "Computation",
+    "permalink": "/sdk/1.0.0/reference/computation"
+  },
+  "next": {
+    "title": "Orchestration",
+    "permalink": "/sdk/1.0.0/reference/orchestration"
+  }
+}

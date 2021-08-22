@@ -1,0 +1,26 @@
+{
+  "unversionedId": "concepts/V3-overview/swaps",
+  "id": "version-V3/concepts/V3-overview/swaps",
+  "isDocsHomePage": false,
+  "title": "Swaps",
+  "description": "Introduction",
+  "source": "@site/versioned_docs/version-V3/concepts/V3-overview/swaps.md",
+  "sourceDirName": "concepts/V3-overview",
+  "slug": "/concepts/V3-overview/swaps",
+  "permalink": "/protocol/concepts/V3-overview/swaps",
+  "editUrl": "https://github.com/uniswap/uniswap-docs/tree/main/versioned_docs/version-V3/concepts/V3-overview/swaps.md",
+  "version": "V3",
+  "frontMatter": {
+    "id": "swaps",
+    "title": "Swaps"
+  },
+  "sidebar": "version-V3/mySidebar",
+  "previous": {
+    "title": "Range Orders",
+    "permalink": "/protocol/concepts/V3-overview/range-orders"
+  },
+  "next": {
+    "title": "Token Integration Issues",
+    "permalink": "/protocol/concepts/advanced/integration-issues"
+  }
+}

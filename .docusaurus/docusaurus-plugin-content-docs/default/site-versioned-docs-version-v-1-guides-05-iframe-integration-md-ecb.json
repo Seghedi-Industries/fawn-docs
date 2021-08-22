@@ -1,0 +1,27 @@
+{
+  "unversionedId": "guides/iframe-integration",
+  "id": "version-V1/guides/iframe-integration",
+  "isDocsHomePage": false,
+  "title": "Iframe Integration",
+  "description": "Uniswap can be used within other sites as an iframe. An iframe shows an exact version of the app.uniswap.org site and can have custom prefilled settings.",
+  "source": "@site/versioned_docs/version-V1/guides/05-iframe-integration.md",
+  "sourceDirName": "guides",
+  "slug": "/guides/iframe-integration",
+  "permalink": "/protocol/V1/guides/iframe-integration",
+  "editUrl": "https://github.com/uniswap/uniswap-docs/tree/main/versioned_docs/version-V1/guides/05-iframe-integration.md",
+  "version": "V1",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "id": "iframe-integration",
+    "title": "Iframe Integration"
+  },
+  "sidebar": "version-V1/mySidebar",
+  "previous": {
+    "title": "Custom Linking",
+    "permalink": "/protocol/V1/guides/custom-linking"
+  },
+  "next": {
+    "title": "Token Listing",
+    "permalink": "/protocol/V1/guides/token-listing"
+  }
+}

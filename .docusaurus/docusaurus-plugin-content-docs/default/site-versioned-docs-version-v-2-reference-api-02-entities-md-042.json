@@ -1,0 +1,28 @@
+{
+  "unversionedId": "reference/API/entities",
+  "id": "version-V2/reference/API/entities",
+  "isDocsHomePage": false,
+  "title": "Entities",
+  "description": "Entities define the schema of the subgraph, and represent the data that can be queried. Within each entity are sets of fields that store useful information related to the entity. Below is a list of the available entities within the Uniswap Subgraph, and descriptions for the available fields.",
+  "source": "@site/versioned_docs/version-V2/reference/API/02-entities.md",
+  "sourceDirName": "reference/API",
+  "slug": "/reference/API/entities",
+  "permalink": "/protocol/V2/reference/API/entities",
+  "editUrl": "https://github.com/uniswap/uniswap-docs/tree/main/versioned_docs/version-V2/reference/API/02-entities.md",
+  "version": "V2",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "entities",
+    "title": "Entities",
+    "tags": "api, documentation"
+  },
+  "sidebar": "version-V2/mySidebar",
+  "previous": {
+    "title": "API Overview",
+    "permalink": "/protocol/V2/reference/API/overview"
+  },
+  "next": {
+    "title": "Queries",
+    "permalink": "/protocol/V2/reference/API/queries"
+  }
+}

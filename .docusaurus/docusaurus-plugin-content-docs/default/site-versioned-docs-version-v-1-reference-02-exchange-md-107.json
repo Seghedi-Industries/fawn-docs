@@ -1,0 +1,27 @@
+{
+  "unversionedId": "reference/exchange",
+  "id": "version-V1/reference/exchange",
+  "isDocsHomePage": false,
+  "title": "Exchange",
+  "description": "| Parameter  |                        Description |",
+  "source": "@site/versioned_docs/version-V1/reference/02-exchange.md",
+  "sourceDirName": "reference",
+  "slug": "/reference/exchange",
+  "permalink": "/protocol/V1/reference/exchange",
+  "editUrl": "https://github.com/uniswap/uniswap-docs/tree/main/versioned_docs/version-V1/reference/02-exchange.md",
+  "version": "V1",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "exchange",
+    "title": "Exchange"
+  },
+  "sidebar": "version-V1/mySidebar",
+  "previous": {
+    "title": "Factory",
+    "permalink": "/protocol/V1/reference/factory"
+  },
+  "next": {
+    "title": "Interfaces",
+    "permalink": "/protocol/V1/reference/interfaces"
+  }
+}

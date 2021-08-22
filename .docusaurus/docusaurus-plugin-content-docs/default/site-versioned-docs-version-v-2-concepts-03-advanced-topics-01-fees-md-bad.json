@@ -1,0 +1,28 @@
+{
+  "unversionedId": "concepts/advanced-topics/fees",
+  "id": "version-V2/concepts/advanced-topics/fees",
+  "isDocsHomePage": false,
+  "title": "Fees",
+  "description": "Liquidity provider fees",
+  "source": "@site/versioned_docs/version-V2/concepts/03-advanced-topics/01-fees.md",
+  "sourceDirName": "concepts/03-advanced-topics",
+  "slug": "/concepts/advanced-topics/fees",
+  "permalink": "/protocol/V2/concepts/advanced-topics/fees",
+  "editUrl": "https://github.com/uniswap/uniswap-docs/tree/main/versioned_docs/version-V2/concepts/03-advanced-topics/01-fees.md",
+  "version": "V2",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "fees",
+    "title": "Fees",
+    "tags": "protocol-overview, documentation"
+  },
+  "sidebar": "version-V2/mySidebar",
+  "previous": {
+    "title": "Oracles",
+    "permalink": "/protocol/V2/concepts/core-concepts/oracles"
+  },
+  "next": {
+    "title": "Pricing",
+    "permalink": "/protocol/V2/concepts/advanced-topics/pricing"
+  }
+}

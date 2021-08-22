@@ -1,0 +1,26 @@
+{
+  "unversionedId": "concepts/advanced/research",
+  "id": "version-V3/concepts/advanced/research",
+  "isDocsHomePage": false,
+  "title": "Research",
+  "description": "The automated market maker is a new concept, and as such, new research comes out frequently. We've selected some of the most thoughtful here.",
+  "source": "@site/versioned_docs/version-V3/concepts/advanced/research.md",
+  "sourceDirName": "concepts/advanced",
+  "slug": "/concepts/advanced/research",
+  "permalink": "/protocol/concepts/advanced/research",
+  "editUrl": "https://github.com/uniswap/uniswap-docs/tree/main/versioned_docs/version-V3/concepts/advanced/research.md",
+  "version": "V3",
+  "frontMatter": {
+    "title": "Research",
+    "tags": "advanced-topics, documentation"
+  },
+  "sidebar": "version-V3/mySidebar",
+  "previous": {
+    "title": "Token Integration Issues",
+    "permalink": "/protocol/concepts/advanced/integration-issues"
+  },
+  "next": {
+    "title": "Resources",
+    "permalink": "/protocol/concepts/advanced/resources"
+  }
+}

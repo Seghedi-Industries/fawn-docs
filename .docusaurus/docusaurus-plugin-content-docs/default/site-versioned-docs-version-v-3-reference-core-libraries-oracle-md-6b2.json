@@ -1,0 +1,23 @@
+{
+  "unversionedId": "reference/core/libraries/Oracle",
+  "id": "version-V3/reference/core/libraries/Oracle",
+  "isDocsHomePage": false,
+  "title": "Oracle",
+  "description": "Provides price and liquidity data useful for a wide variety of system designs",
+  "source": "@site/versioned_docs/version-V3/reference/core/libraries/Oracle.md",
+  "sourceDirName": "reference/core/libraries",
+  "slug": "/reference/core/libraries/Oracle",
+  "permalink": "/protocol/reference/core/libraries/Oracle",
+  "editUrl": "https://github.com/uniswap/uniswap-docs/tree/main/versioned_docs/version-V3/reference/core/libraries/Oracle.md",
+  "version": "V3",
+  "frontMatter": {},
+  "sidebar": "version-V3/mySidebar",
+  "previous": {
+    "title": "LowGasSafeMath",
+    "permalink": "/protocol/reference/core/libraries/LowGasSafeMath"
+  },
+  "next": {
+    "title": "Position",
+    "permalink": "/protocol/reference/core/libraries/Position"
+  }
+}

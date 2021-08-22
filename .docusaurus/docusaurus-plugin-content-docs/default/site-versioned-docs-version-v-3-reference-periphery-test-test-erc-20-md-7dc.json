@@ -1,0 +1,23 @@
+{
+  "unversionedId": "reference/periphery/test/TestERC20",
+  "id": "version-V3/reference/periphery/test/TestERC20",
+  "isDocsHomePage": false,
+  "title": "TestERC20",
+  "description": "Functions",
+  "source": "@site/versioned_docs/version-V3/reference/periphery/test/TestERC20.md",
+  "sourceDirName": "reference/periphery/test",
+  "slug": "/reference/periphery/test/TestERC20",
+  "permalink": "/protocol/reference/periphery/test/TestERC20",
+  "editUrl": "https://github.com/uniswap/uniswap-docs/tree/main/versioned_docs/version-V3/reference/periphery/test/TestERC20.md",
+  "version": "V3",
+  "frontMatter": {},
+  "sidebar": "version-V3/mySidebar",
+  "previous": {
+    "title": "TestCallbackValidation",
+    "permalink": "/protocol/reference/periphery/test/TestCallbackValidation"
+  },
+  "next": {
+    "title": "TestERC20Metadata",
+    "permalink": "/protocol/reference/periphery/test/TestERC20Metadata"
+  }
+}

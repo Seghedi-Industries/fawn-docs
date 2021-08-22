@@ -1,0 +1,23 @@
+{
+  "unversionedId": "reference/periphery/interfaces/IQuoter",
+  "id": "version-V3/reference/periphery/interfaces/IQuoter",
+  "isDocsHomePage": false,
+  "title": "IQuoter",
+  "description": "Supports quoting the calculated amounts from exact input or exact output swaps",
+  "source": "@site/versioned_docs/version-V3/reference/periphery/interfaces/IQuoter.md",
+  "sourceDirName": "reference/periphery/interfaces",
+  "slug": "/reference/periphery/interfaces/IQuoter",
+  "permalink": "/protocol/reference/periphery/interfaces/IQuoter",
+  "editUrl": "https://github.com/uniswap/uniswap-docs/tree/main/versioned_docs/version-V3/reference/periphery/interfaces/IQuoter.md",
+  "version": "V3",
+  "frontMatter": {},
+  "sidebar": "version-V3/mySidebar",
+  "previous": {
+    "title": "IPoolInitializer",
+    "permalink": "/protocol/reference/periphery/interfaces/IPoolInitializer"
+  },
+  "next": {
+    "title": "ISelfPermit",
+    "permalink": "/protocol/reference/periphery/interfaces/ISelfPermit"
+  }
+}

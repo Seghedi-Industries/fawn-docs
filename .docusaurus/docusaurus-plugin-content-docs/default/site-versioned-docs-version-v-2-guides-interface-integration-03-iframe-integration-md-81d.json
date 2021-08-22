@@ -1,0 +1,28 @@
+{
+  "unversionedId": "guides/interface-integration/iframe-integration",
+  "id": "version-V2/guides/interface-integration/iframe-integration",
+  "isDocsHomePage": false,
+  "title": "Iframe Integration",
+  "description": "Uniswap can be used within other sites as an iframe. An iframe shows an exact version of the uniswap frontend site and can have custom prefilled settings.",
+  "source": "@site/versioned_docs/version-V2/guides/interface-integration/03-iframe-integration.md",
+  "sourceDirName": "guides/interface-integration",
+  "slug": "/guides/interface-integration/iframe-integration",
+  "permalink": "/protocol/V2/guides/interface-integration/iframe-integration",
+  "editUrl": "https://github.com/uniswap/uniswap-docs/tree/main/versioned_docs/version-V2/guides/interface-integration/03-iframe-integration.md",
+  "version": "V2",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "id": "iframe-integration",
+    "title": "Iframe Integration",
+    "tags": "frontend integration, documentation"
+  },
+  "sidebar": "version-V2/mySidebar",
+  "previous": {
+    "title": "Custom Linking",
+    "permalink": "/protocol/V2/guides/interface-integration/custom-interface-linking"
+  },
+  "next": {
+    "title": "Smart Contract Quick start",
+    "permalink": "/protocol/V2/guides/smart-contract-integration/quick-start"
+  }
+}

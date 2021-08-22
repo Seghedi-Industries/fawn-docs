@@ -1,0 +1,29 @@
+{
+  "unversionedId": "concepts/core-concepts/swaps",
+  "id": "version-V2/concepts/core-concepts/swaps",
+  "isDocsHomePage": false,
+  "title": "Swaps",
+  "description": "Token swaps in Uniswap are a simple way to trade one ERC-20 token for another.",
+  "source": "@site/versioned_docs/version-V2/concepts/02-core-concepts/01-swaps.md",
+  "sourceDirName": "concepts/02-core-concepts",
+  "slug": "/concepts/core-concepts/swaps",
+  "permalink": "/protocol/V2/concepts/core-concepts/swaps",
+  "editUrl": "https://github.com/uniswap/uniswap-docs/tree/main/versioned_docs/version-V2/concepts/02-core-concepts/01-swaps.md",
+  "version": "V2",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "swaps",
+    "title": "Swaps",
+    "subtitle": "Learn about the core functionality of the uniswap protocol. Token Swaps.",
+    "tags": "swaps, documentation"
+  },
+  "sidebar": "version-V2/mySidebar",
+  "previous": {
+    "title": "Glossary",
+    "permalink": "/protocol/V2/concepts/protocol-overview/glossary"
+  },
+  "next": {
+    "title": "Pools",
+    "permalink": "/protocol/V2/concepts/core-concepts/pools"
+  }
+}

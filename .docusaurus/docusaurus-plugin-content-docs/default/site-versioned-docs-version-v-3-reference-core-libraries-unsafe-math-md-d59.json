@@ -1,0 +1,23 @@
+{
+  "unversionedId": "reference/core/libraries/UnsafeMath",
+  "id": "version-V3/reference/core/libraries/UnsafeMath",
+  "isDocsHomePage": false,
+  "title": "UnsafeMath",
+  "description": "Contains methods that perform common math functions but do not do any overflow or underflow checks",
+  "source": "@site/versioned_docs/version-V3/reference/core/libraries/UnsafeMath.md",
+  "sourceDirName": "reference/core/libraries",
+  "slug": "/reference/core/libraries/UnsafeMath",
+  "permalink": "/protocol/reference/core/libraries/UnsafeMath",
+  "editUrl": "https://github.com/uniswap/uniswap-docs/tree/main/versioned_docs/version-V3/reference/core/libraries/UnsafeMath.md",
+  "version": "V3",
+  "frontMatter": {},
+  "sidebar": "version-V3/mySidebar",
+  "previous": {
+    "title": "TransferHelper",
+    "permalink": "/protocol/reference/core/libraries/TransferHelper"
+  },
+  "next": {
+    "title": "BlockTimestamp",
+    "permalink": "/protocol/reference/periphery/base/BlockTimestamp"
+  }
+}

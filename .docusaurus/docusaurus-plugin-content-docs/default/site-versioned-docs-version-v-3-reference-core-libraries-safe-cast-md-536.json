@@ -1,0 +1,23 @@
+{
+  "unversionedId": "reference/core/libraries/SafeCast",
+  "id": "version-V3/reference/core/libraries/SafeCast",
+  "isDocsHomePage": false,
+  "title": "SafeCast",
+  "description": "Contains methods for safely casting between types",
+  "source": "@site/versioned_docs/version-V3/reference/core/libraries/SafeCast.md",
+  "sourceDirName": "reference/core/libraries",
+  "slug": "/reference/core/libraries/SafeCast",
+  "permalink": "/protocol/reference/core/libraries/SafeCast",
+  "editUrl": "https://github.com/uniswap/uniswap-docs/tree/main/versioned_docs/version-V3/reference/core/libraries/SafeCast.md",
+  "version": "V3",
+  "frontMatter": {},
+  "sidebar": "version-V3/mySidebar",
+  "previous": {
+    "title": "Position",
+    "permalink": "/protocol/reference/core/libraries/Position"
+  },
+  "next": {
+    "title": "SecondsOutside",
+    "permalink": "/protocol/reference/core/libraries/SecondsOutside"
+  }
+}

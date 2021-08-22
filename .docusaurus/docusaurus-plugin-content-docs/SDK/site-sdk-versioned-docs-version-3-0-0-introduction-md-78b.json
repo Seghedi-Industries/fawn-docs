@@ -1,0 +1,22 @@
+{
+  "unversionedId": "introduction",
+  "id": "version-3.0.0/introduction",
+  "isDocsHomePage": false,
+  "title": "The Uniswap V3 SDK",
+  "description": "Welcome to the Uniswap Protocol V3 SDK. Here you can find easily searchable references for the SDK. For deeper dives, we recommend referencing the SDK Github repo directly.",
+  "source": "@site/SDK_versioned_docs/version-3.0.0/introduction.md",
+  "sourceDirName": ".",
+  "slug": "/introduction",
+  "permalink": "/sdk/introduction",
+  "version": "3.0.0",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "introduction",
+    "sidebar_position": 1
+  },
+  "sidebar": "version-V3/sdksidebar",
+  "next": {
+    "title": "Uniswap Subgraph Data",
+    "permalink": "/sdk/Subgraph data"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "reference/interfaces",
+  "id": "version-V1/reference/interfaces",
+  "isDocsHomePage": false,
+  "title": "Interfaces",
+  "description": "Solidity",
+  "source": "@site/versioned_docs/version-V1/reference/03-interfaces.md",
+  "sourceDirName": "reference",
+  "slug": "/reference/interfaces",
+  "permalink": "/protocol/V1/reference/interfaces",
+  "editUrl": "https://github.com/uniswap/uniswap-docs/tree/main/versioned_docs/version-V1/reference/03-interfaces.md",
+  "version": "V1",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "id": "interfaces",
+    "title": "Interfaces"
+  },
+  "sidebar": "version-V1/mySidebar",
+  "previous": {
+    "title": "Exchange",
+    "permalink": "/protocol/V1/reference/exchange"
+  }
+}

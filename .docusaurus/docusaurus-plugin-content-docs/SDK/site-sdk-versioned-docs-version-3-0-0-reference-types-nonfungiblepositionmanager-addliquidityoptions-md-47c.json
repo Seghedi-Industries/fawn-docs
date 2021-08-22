@@ -1,0 +1,22 @@
+{
+  "unversionedId": "reference/types/nonfungiblepositionmanager.addliquidityoptions",
+  "id": "version-3.0.0/reference/types/nonfungiblepositionmanager.addliquidityoptions",
+  "isDocsHomePage": false,
+  "title": "nonfungiblepositionmanager.addliquidityoptions",
+  "description": "@uniswap/v3-sdk / Exports / nonfungiblePositionManager / AddLiquidityOptions",
+  "source": "@site/SDK_versioned_docs/version-3.0.0/reference/types/nonfungiblepositionmanager.addliquidityoptions.md",
+  "sourceDirName": "reference/types",
+  "slug": "/reference/types/nonfungiblepositionmanager.addliquidityoptions",
+  "permalink": "/sdk/reference/types/nonfungiblepositionmanager.addliquidityoptions",
+  "version": "3.0.0",
+  "frontMatter": {},
+  "sidebar": "version-V3/sdksidebar",
+  "previous": {
+    "title": "Reference",
+    "permalink": "/sdk/reference/reference-info"
+  },
+  "next": {
+    "title": "nonfungiblepositionmanager.increaseoptions",
+    "permalink": "/sdk/reference/types/nonfungiblepositionmanager.increaseoptions"
+  }
+}

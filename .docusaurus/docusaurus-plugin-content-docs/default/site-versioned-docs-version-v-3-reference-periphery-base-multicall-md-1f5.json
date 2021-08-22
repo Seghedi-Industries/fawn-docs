@@ -1,0 +1,23 @@
+{
+  "unversionedId": "reference/periphery/base/Multicall",
+  "id": "version-V3/reference/periphery/base/Multicall",
+  "isDocsHomePage": false,
+  "title": "Multicall",
+  "description": "Enables calling multiple methods in a single call to the contract",
+  "source": "@site/versioned_docs/version-V3/reference/periphery/base/Multicall.md",
+  "sourceDirName": "reference/periphery/base",
+  "slug": "/reference/periphery/base/Multicall",
+  "permalink": "/protocol/reference/periphery/base/Multicall",
+  "editUrl": "https://github.com/uniswap/uniswap-docs/tree/main/versioned_docs/version-V3/reference/periphery/base/Multicall.md",
+  "version": "V3",
+  "frontMatter": {},
+  "sidebar": "version-V3/mySidebar",
+  "previous": {
+    "title": "LiquidityManagement",
+    "permalink": "/protocol/reference/periphery/base/LiquidityManagement"
+  },
+  "next": {
+    "title": "PeripheryImmutableState",
+    "permalink": "/protocol/reference/periphery/base/PeripheryImmutableState"
+  }
+}

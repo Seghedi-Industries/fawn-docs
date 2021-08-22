@@ -1,0 +1,27 @@
+{
+  "unversionedId": "reference/periphery/staker/UniswapV3Staker",
+  "id": "version-V3/reference/periphery/staker/UniswapV3Staker",
+  "isDocsHomePage": false,
+  "title": "Uniswap V3 Staker Contract",
+  "description": "Below is the technical reference for the staker contract, UniswapV3Staker.sol. A technical guide for interacting with this staking contract will be released soon.",
+  "source": "@site/versioned_docs/version-V3/reference/periphery/staker/UniswapV3Staker.md",
+  "sourceDirName": "reference/periphery/staker",
+  "slug": "/reference/periphery/staker/UniswapV3Staker",
+  "permalink": "/protocol/reference/periphery/staker/UniswapV3Staker",
+  "editUrl": "https://github.com/uniswap/uniswap-docs/tree/main/versioned_docs/version-V3/reference/periphery/staker/UniswapV3Staker.md",
+  "version": "V3",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_label": "Uniswap V3 Staker Contract",
+    "sidebar_position": 2
+  },
+  "sidebar": "version-V3/mySidebar",
+  "previous": {
+    "title": "Uniswap V3 Staker Design",
+    "permalink": "/protocol/reference/periphery/staker/Design"
+  },
+  "next": {
+    "title": "IUniswapV3Staker",
+    "permalink": "/protocol/reference/periphery/staker/interfaces/IUniswapV3Staker"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "reference/periphery/interfaces/INonfungibleTokenPositionDescriptor",
+  "id": "version-V3/reference/periphery/interfaces/INonfungibleTokenPositionDescriptor",
+  "isDocsHomePage": false,
+  "title": "INonfungibleTokenPositionDescriptor",
+  "description": "Functions",
+  "source": "@site/versioned_docs/version-V3/reference/periphery/interfaces/INonfungibleTokenPositionDescriptor.md",
+  "sourceDirName": "reference/periphery/interfaces",
+  "slug": "/reference/periphery/interfaces/INonfungibleTokenPositionDescriptor",
+  "permalink": "/protocol/reference/periphery/interfaces/INonfungibleTokenPositionDescriptor",
+  "editUrl": "https://github.com/uniswap/uniswap-docs/tree/main/versioned_docs/version-V3/reference/periphery/interfaces/INonfungibleTokenPositionDescriptor.md",
+  "version": "V3",
+  "frontMatter": {},
+  "sidebar": "version-V3/mySidebar",
+  "previous": {
+    "title": "INonfungiblePositionManager",
+    "permalink": "/protocol/reference/periphery/interfaces/INonfungiblePositionManager"
+  },
+  "next": {
+    "title": "IPeripheryImmutableState",
+    "permalink": "/protocol/reference/periphery/interfaces/IPeripheryImmutableState"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "reference/functions/tradeComparator",
+  "id": "version-3.0.0/reference/functions/tradeComparator",
+  "isDocsHomePage": false,
+  "title": "tradeComparator",
+  "description": "@uniswap/v3-sdk / Exports / entities/trade / tradeComparator",
+  "source": "@site/SDK_versioned_docs/version-3.0.0/reference/functions/entities_trade.tradecomparator.md",
+  "sourceDirName": "reference/functions",
+  "slug": "/reference/functions/tradeComparator",
+  "permalink": "/sdk/reference/functions/tradeComparator",
+  "version": "3.0.0",
+  "frontMatter": {
+    "id": "tradeComparator"
+  },
+  "sidebar": "version-V3/sdksidebar",
+  "previous": {
+    "title": "FeeAmount",
+    "permalink": "/sdk/reference/enums/FeeAmount"
+  },
+  "next": {
+    "title": "toHex",
+    "permalink": "/sdk/reference/functions/toHex"
+  }
+}

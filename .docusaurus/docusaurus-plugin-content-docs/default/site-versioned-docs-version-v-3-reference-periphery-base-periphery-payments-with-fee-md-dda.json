@@ -1,0 +1,23 @@
+{
+  "unversionedId": "reference/periphery/base/PeripheryPaymentsWithFee",
+  "id": "version-V3/reference/periphery/base/PeripheryPaymentsWithFee",
+  "isDocsHomePage": false,
+  "title": "PeripheryPaymentsWithFee",
+  "description": "Functions",
+  "source": "@site/versioned_docs/version-V3/reference/periphery/base/PeripheryPaymentsWithFee.md",
+  "sourceDirName": "reference/periphery/base",
+  "slug": "/reference/periphery/base/PeripheryPaymentsWithFee",
+  "permalink": "/protocol/reference/periphery/base/PeripheryPaymentsWithFee",
+  "editUrl": "https://github.com/uniswap/uniswap-docs/tree/main/versioned_docs/version-V3/reference/periphery/base/PeripheryPaymentsWithFee.md",
+  "version": "V3",
+  "frontMatter": {},
+  "sidebar": "version-V3/mySidebar",
+  "previous": {
+    "title": "PeripheryPayments",
+    "permalink": "/protocol/reference/periphery/base/PeripheryPayments"
+  },
+  "next": {
+    "title": "PoolInitializer",
+    "permalink": "/protocol/reference/periphery/base/PoolInitializer"
+  }
+}

@@ -24,47 +24,47 @@ import {
 
 export const actions = [
   {
-    title: "What is Uniswap",
+    title: "What is Fawn",
     href: "#",
     icon: InformationCircleIcon,
     to: "./protocol/introduction",
-    text: `Learn about the core concepts of the Uniswap protocol. Swaps, Pools, Concentrated Liquidity and more.`,
+    text: `Learn about the core concepts of Fawn - the most powerful & easy-to-use Django-based blogging framework.`,
   },
   {
     title: "Smart contract overview",
     href: "#",
     icon: BookOpenIcon,
     to: "./protocol/reference/smart-contracts",
-    text: `Learn about the architecture of the Uniswap protocol smart contracts made up of the Core and Periphary libraries.`,
+    text: `Learn about the architecture of the Fawn protocol smart contracts made up of the Django Core libraries.`,
   },
   {
-    title: "V3 SDK",
+    title: "AWS Introduction",
     href: "#",
     icon: QuestionMarkCircleIcon,
     to: "./sdk/introduction",
-    text: `The SDK is designed to assist developers when interacting with the protocol in any environment that can execute JavaScript.`,
+    text: `Fawn has been built on the AWS infrastructure in order to be as easy as possible - from posting to deployment.`,
   },
 ];
 
 export const github = [
   {
-    title: "uniswap-v3-core",
-    href: "https://github.com/Uniswap/uniswap-v3-core",
+    title: "django",
+    href: "https://github.com/django/django",
     icon: CodeIcon,
   },
   {
-    title: "uniswap-v3-sdk",
-    href: "https://github.com/Uniswap/uniswap-v3-sdk",
+    title: "aws-cli",
+    href: "https://github.com/aws/aws-cli",
     icon: CodeIcon,
   },
   {
-    title: "uniswap-v3-periphery",
-    href: "https://github.com/Uniswap/uniswap-v3-periphery",
+    title: "boto3",
+    href: "https://github.com/boto/boto3",
     icon: CodeIcon,
   },
   {
-    title: "Deployment addresses",
-    href: "https://github.com/Uniswap/uniswap-v3-periphery/blob/main/deploys.md",
+    title: "supervisor",
+    href: "https://github.com/Supervisor/supervisor",
   },
 ];
 
@@ -283,8 +283,8 @@ const HideMedium = styled.div`
 export default function Home() {
   return (
     <Layout
-      title={`Uniswap Docs`}
-      description="Technical Documentation For The Uniswap Protocol"
+      title={`Fawn Docs`}
+      description="Technical Documentation For The Fawn Framework"
     >
       <Container>
         <DocsHeader>
@@ -297,7 +297,7 @@ export default function Home() {
               alignItems: "center",
             }}
           >
-            <h1 style={{ fontWeight: "600" }}> Welcome to the Uniswap Docs</h1>
+            <h1 style={{ fontWeight: "600" }}> Welcome to the Fawn Docs.</h1>
             <HideMedium>
               <SearchBar />{" "}
             </HideMedium>
@@ -330,8 +330,8 @@ export default function Home() {
           <StyledTitleImage
             alt="Docusaurus themed image"
             sources={{
-              light: useBaseUrl("/img/grow.png"),
-              dark: useBaseUrl("/img/grow2.png"),
+              light: useBaseUrl("/img/phone.jpg"),
+              dark: useBaseUrl("/img/phone.jpg"),
             }}
           />
           <Row>
@@ -407,7 +407,7 @@ export default function Home() {
           <div>
             <h2>Developer Links</h2>
             <p>
-              The Uniswap codebase is comprised of an ecosystem of open source
+              The Fawn codebase is comprised of an ecosystem of open source
               components.
             </p>
             {github.map((action) => (

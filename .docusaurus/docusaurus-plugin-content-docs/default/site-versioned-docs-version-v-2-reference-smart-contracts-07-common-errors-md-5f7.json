@@ -1,0 +1,24 @@
+{
+  "unversionedId": "reference/smart-contracts/common-errors",
+  "id": "version-V2/reference/smart-contracts/common-errors",
+  "isDocsHomePage": false,
+  "title": "Common Errors",
+  "description": "This document covers a few error codes frequently encountered while building on Uniswap V2.",
+  "source": "@site/versioned_docs/version-V2/reference/smart-contracts/07-common-errors.md",
+  "sourceDirName": "reference/smart-contracts",
+  "slug": "/reference/smart-contracts/common-errors",
+  "permalink": "/protocol/V2/reference/smart-contracts/common-errors",
+  "editUrl": "https://github.com/uniswap/uniswap-docs/tree/main/versioned_docs/version-V2/reference/smart-contracts/07-common-errors.md",
+  "version": "V2",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "id": "common-errors",
+    "title": "Common Errors",
+    "tags": "smart-contracts, documentation"
+  },
+  "sidebar": "version-V2/mySidebar",
+  "previous": {
+    "title": "Router02",
+    "permalink": "/protocol/V2/reference/smart-contracts/router-02"
+  }
+}

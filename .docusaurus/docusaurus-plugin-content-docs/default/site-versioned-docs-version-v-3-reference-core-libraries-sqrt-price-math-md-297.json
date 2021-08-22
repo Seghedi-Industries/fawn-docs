@@ -1,0 +1,23 @@
+{
+  "unversionedId": "reference/core/libraries/SqrtPriceMath",
+  "id": "version-V3/reference/core/libraries/SqrtPriceMath",
+  "isDocsHomePage": false,
+  "title": "SqrtPriceMath",
+  "description": "Contains the math that uses square root of price as a Q64.96 and liquidity to compute deltas",
+  "source": "@site/versioned_docs/version-V3/reference/core/libraries/SqrtPriceMath.md",
+  "sourceDirName": "reference/core/libraries",
+  "slug": "/reference/core/libraries/SqrtPriceMath",
+  "permalink": "/protocol/reference/core/libraries/SqrtPriceMath",
+  "editUrl": "https://github.com/uniswap/uniswap-docs/tree/main/versioned_docs/version-V3/reference/core/libraries/SqrtPriceMath.md",
+  "version": "V3",
+  "frontMatter": {},
+  "sidebar": "version-V3/mySidebar",
+  "previous": {
+    "title": "SecondsOutside",
+    "permalink": "/protocol/reference/core/libraries/SecondsOutside"
+  },
+  "next": {
+    "title": "SwapMath",
+    "permalink": "/protocol/reference/core/libraries/SwapMath"
+  }
+}

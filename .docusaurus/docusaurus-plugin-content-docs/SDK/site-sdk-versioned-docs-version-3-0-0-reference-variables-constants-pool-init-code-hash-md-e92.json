@@ -1,0 +1,22 @@
+{
+  "unversionedId": "reference/variables/constants.pool_init_code_hash",
+  "id": "version-3.0.0/reference/variables/constants.pool_init_code_hash",
+  "isDocsHomePage": false,
+  "title": "constants.pool_init_code_hash",
+  "description": "@uniswap/v3-sdk / Exports / constants / POOLINITCODE_HASH",
+  "source": "@site/SDK_versioned_docs/version-3.0.0/reference/variables/constants.pool_init_code_hash.md",
+  "sourceDirName": "reference/variables",
+  "slug": "/reference/variables/constants.pool_init_code_hash",
+  "permalink": "/sdk/reference/variables/constants.pool_init_code_hash",
+  "version": "3.0.0",
+  "frontMatter": {},
+  "sidebar": "version-V3/sdksidebar",
+  "previous": {
+    "title": "constants.factory_address",
+    "permalink": "/sdk/reference/variables/constants.factory_address"
+  },
+  "next": {
+    "title": "constants.tick_spacings",
+    "permalink": "/sdk/reference/variables/constants.tick_spacings"
+  }
+}

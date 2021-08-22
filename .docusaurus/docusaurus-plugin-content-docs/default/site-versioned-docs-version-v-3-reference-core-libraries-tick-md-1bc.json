@@ -1,0 +1,23 @@
+{
+  "unversionedId": "reference/core/libraries/Tick",
+  "id": "version-V3/reference/core/libraries/Tick",
+  "isDocsHomePage": false,
+  "title": "Tick",
+  "description": "Contains functions for managing tick processes and relevant calculations",
+  "source": "@site/versioned_docs/version-V3/reference/core/libraries/Tick.md",
+  "sourceDirName": "reference/core/libraries",
+  "slug": "/reference/core/libraries/Tick",
+  "permalink": "/protocol/reference/core/libraries/Tick",
+  "editUrl": "https://github.com/uniswap/uniswap-docs/tree/main/versioned_docs/version-V3/reference/core/libraries/Tick.md",
+  "version": "V3",
+  "frontMatter": {},
+  "sidebar": "version-V3/mySidebar",
+  "previous": {
+    "title": "SwapMath",
+    "permalink": "/protocol/reference/core/libraries/SwapMath"
+  },
+  "next": {
+    "title": "TickBitmap",
+    "permalink": "/protocol/reference/core/libraries/TickBitmap"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "reference/periphery/interfaces/INonfungiblePositionManager",
+  "id": "version-V3/reference/periphery/interfaces/INonfungiblePositionManager",
+  "isDocsHomePage": false,
+  "title": "INonfungiblePositionManager",
+  "description": "Wraps Uniswap V3 positions in a non-fungible token interface which allows for them to be transferred",
+  "source": "@site/versioned_docs/version-V3/reference/periphery/interfaces/INonfungiblePositionManager.md",
+  "sourceDirName": "reference/periphery/interfaces",
+  "slug": "/reference/periphery/interfaces/INonfungiblePositionManager",
+  "permalink": "/protocol/reference/periphery/interfaces/INonfungiblePositionManager",
+  "editUrl": "https://github.com/uniswap/uniswap-docs/tree/main/versioned_docs/version-V3/reference/periphery/interfaces/INonfungiblePositionManager.md",
+  "version": "V3",
+  "frontMatter": {},
+  "sidebar": "version-V3/mySidebar",
+  "previous": {
+    "title": "IMulticall",
+    "permalink": "/protocol/reference/periphery/interfaces/IMulticall"
+  },
+  "next": {
+    "title": "INonfungibleTokenPositionDescriptor",
+    "permalink": "/protocol/reference/periphery/interfaces/INonfungibleTokenPositionDescriptor"
+  }
+}

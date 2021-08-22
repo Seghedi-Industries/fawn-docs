@@ -1,0 +1,27 @@
+{
+  "unversionedId": "reference/factory",
+  "id": "version-V1/reference/factory",
+  "isDocsHomePage": false,
+  "title": "Factory",
+  "description": "| Parameter |                           Description |",
+  "source": "@site/versioned_docs/version-V1/reference/01-factory.md",
+  "sourceDirName": "reference",
+  "slug": "/reference/factory",
+  "permalink": "/protocol/V1/reference/factory",
+  "editUrl": "https://github.com/uniswap/uniswap-docs/tree/main/versioned_docs/version-V1/reference/01-factory.md",
+  "version": "V1",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "factory",
+    "title": "Factory"
+  },
+  "sidebar": "version-V1/mySidebar",
+  "previous": {
+    "title": "Token Listing",
+    "permalink": "/protocol/V1/guides/token-listing"
+  },
+  "next": {
+    "title": "Exchange",
+    "permalink": "/protocol/V1/reference/exchange"
+  }
+}

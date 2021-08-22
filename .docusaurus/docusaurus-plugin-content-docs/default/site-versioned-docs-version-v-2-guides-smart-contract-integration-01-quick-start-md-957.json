@@ -1,0 +1,28 @@
+{
+  "unversionedId": "guides/smart-contract-integration/quick-start",
+  "id": "version-V2/guides/smart-contract-integration/quick-start",
+  "isDocsHomePage": false,
+  "title": "Smart Contract Quick start",
+  "description": "Developing smart contracts for Ethereum involves a bevy of off-chain tools used for producing and testing bytecode",
+  "source": "@site/versioned_docs/version-V2/guides/smart-contract-integration/01-quick-start.md",
+  "sourceDirName": "guides/smart-contract-integration",
+  "slug": "/guides/smart-contract-integration/quick-start",
+  "permalink": "/protocol/V2/guides/smart-contract-integration/quick-start",
+  "editUrl": "https://github.com/uniswap/uniswap-docs/tree/main/versioned_docs/version-V2/guides/smart-contract-integration/01-quick-start.md",
+  "version": "V2",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "quick-start",
+    "title": "Smart Contract Quick start",
+    "tags": "smart contract integration, documentation, quick start"
+  },
+  "sidebar": "version-V2/mySidebar",
+  "previous": {
+    "title": "Iframe Integration",
+    "permalink": "/protocol/V2/guides/interface-integration/iframe-integration"
+  },
+  "next": {
+    "title": "Implement a Swap",
+    "permalink": "/protocol/V2/guides/smart-contract-integration/trading-from-a-smart-contract"
+  }
+}

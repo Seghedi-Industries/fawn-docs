@@ -1,0 +1,23 @@
+{
+  "unversionedId": "reference/periphery/test/NFTDescriptorTest",
+  "id": "version-V3/reference/periphery/test/NFTDescriptorTest",
+  "isDocsHomePage": false,
+  "title": "NFTDescriptorTest",
+  "description": "Functions",
+  "source": "@site/versioned_docs/version-V3/reference/periphery/test/NFTDescriptorTest.md",
+  "sourceDirName": "reference/periphery/test",
+  "slug": "/reference/periphery/test/NFTDescriptorTest",
+  "permalink": "/protocol/reference/periphery/test/NFTDescriptorTest",
+  "editUrl": "https://github.com/uniswap/uniswap-docs/tree/main/versioned_docs/version-V3/reference/periphery/test/NFTDescriptorTest.md",
+  "version": "V3",
+  "frontMatter": {},
+  "sidebar": "version-V3/mySidebar",
+  "previous": {
+    "title": "MockTimeSwapRouter",
+    "permalink": "/protocol/reference/periphery/test/MockTimeSwapRouter"
+  },
+  "next": {
+    "title": "PathTest",
+    "permalink": "/protocol/reference/periphery/test/PathTest"
+  }
+}

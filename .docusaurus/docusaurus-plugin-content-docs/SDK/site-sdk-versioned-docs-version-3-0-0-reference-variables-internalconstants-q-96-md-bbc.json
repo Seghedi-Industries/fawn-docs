@@ -1,0 +1,22 @@
+{
+  "unversionedId": "reference/variables/internalconstants.q96",
+  "id": "version-3.0.0/reference/variables/internalconstants.q96",
+  "isDocsHomePage": false,
+  "title": "internalconstants.q96",
+  "description": "@uniswap/v3-sdk / Exports / internalConstants / Q96",
+  "source": "@site/SDK_versioned_docs/version-3.0.0/reference/variables/internalconstants.q96.md",
+  "sourceDirName": "reference/variables",
+  "slug": "/reference/variables/internalconstants.q96",
+  "permalink": "/sdk/reference/variables/internalconstants.q96",
+  "version": "3.0.0",
+  "frontMatter": {},
+  "sidebar": "version-V3/sdksidebar",
+  "previous": {
+    "title": "internalconstants.q192",
+    "permalink": "/sdk/reference/variables/internalconstants.q192"
+  },
+  "next": {
+    "title": "internalconstants.zero",
+    "permalink": "/sdk/reference/variables/internalconstants.zero"
+  }
+}

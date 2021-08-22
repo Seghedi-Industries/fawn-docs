@@ -1,0 +1,23 @@
+{
+  "unversionedId": "reference/periphery/staker/interfaces/IUniswapV3Staker",
+  "id": "version-V3/reference/periphery/staker/interfaces/IUniswapV3Staker",
+  "isDocsHomePage": false,
+  "title": "IUniswapV3Staker",
+  "description": "Allows staking nonfungible liquidity tokens in exchange for reward tokens",
+  "source": "@site/versioned_docs/version-V3/reference/periphery/staker/interfaces/IUniswapV3Staker.md",
+  "sourceDirName": "reference/periphery/staker/interfaces",
+  "slug": "/reference/periphery/staker/interfaces/IUniswapV3Staker",
+  "permalink": "/protocol/reference/periphery/staker/interfaces/IUniswapV3Staker",
+  "editUrl": "https://github.com/uniswap/uniswap-docs/tree/main/versioned_docs/version-V3/reference/periphery/staker/interfaces/IUniswapV3Staker.md",
+  "version": "V3",
+  "frontMatter": {},
+  "sidebar": "version-V3/mySidebar",
+  "previous": {
+    "title": "Uniswap V3 Staker Contract",
+    "permalink": "/protocol/reference/periphery/staker/UniswapV3Staker"
+  },
+  "next": {
+    "title": "IncentiveId",
+    "permalink": "/protocol/reference/periphery/staker/libraries/IncentiveId"
+  }
+}

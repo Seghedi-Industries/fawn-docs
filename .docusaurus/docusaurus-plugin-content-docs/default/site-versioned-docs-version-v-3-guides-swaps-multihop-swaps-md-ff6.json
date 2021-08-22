@@ -1,0 +1,28 @@
+{
+  "unversionedId": "guides/swaps/multihop-swaps",
+  "id": "version-V3/guides/swaps/multihop-swaps",
+  "isDocsHomePage": false,
+  "title": "Multihop Swaps",
+  "description": "Introduction",
+  "source": "@site/versioned_docs/version-V3/guides/swaps/multihop-swaps.md",
+  "sourceDirName": "guides/swaps",
+  "slug": "/guides/swaps/multihop-swaps",
+  "permalink": "/protocol/guides/swaps/multihop-swaps",
+  "editUrl": "https://github.com/uniswap/uniswap-docs/tree/main/versioned_docs/version-V3/guides/swaps/multihop-swaps.md",
+  "version": "V3",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "multihop-swaps",
+    "title": "Multihop Swaps",
+    "sidebar_position": 2
+  },
+  "sidebar": "version-V3/mySidebar",
+  "previous": {
+    "title": "Single Swaps",
+    "permalink": "/protocol/guides/swaps/single-swaps"
+  },
+  "next": {
+    "title": "Set Up Your Contract",
+    "permalink": "/protocol/guides/providing-liquidity/setting-up"
+  }
+}

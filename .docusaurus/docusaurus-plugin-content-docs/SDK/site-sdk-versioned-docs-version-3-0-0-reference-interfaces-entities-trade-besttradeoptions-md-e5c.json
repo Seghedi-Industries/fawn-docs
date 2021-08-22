@@ -1,0 +1,25 @@
+{
+  "unversionedId": "reference/interfaces/BestTradeOptions",
+  "id": "version-3.0.0/reference/interfaces/BestTradeOptions",
+  "isDocsHomePage": false,
+  "title": "BestTradeOptions",
+  "description": "Properties",
+  "source": "@site/SDK_versioned_docs/version-3.0.0/reference/interfaces/entities_trade.besttradeoptions.md",
+  "sourceDirName": "reference/interfaces",
+  "slug": "/reference/interfaces/BestTradeOptions",
+  "permalink": "/sdk/reference/interfaces/BestTradeOptions",
+  "version": "3.0.0",
+  "frontMatter": {
+    "id": "BestTradeOptions",
+    "title": "BestTradeOptions"
+  },
+  "sidebar": "version-V3/sdksidebar",
+  "previous": {
+    "title": "TickDataProvider",
+    "permalink": "/sdk/reference/interfaces/TickDataProvider"
+  },
+  "next": {
+    "title": "CollectOptions",
+    "permalink": "/sdk/reference/interfaces/CollectOptions"
+  }
+}

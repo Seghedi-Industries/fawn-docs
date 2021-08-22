@@ -1,0 +1,25 @@
+{
+  "unversionedId": "reference/enums/FeeAmount",
+  "id": "version-3.0.0/reference/enums/FeeAmount",
+  "isDocsHomePage": false,
+  "title": "FeeAmount",
+  "description": "The default factory enabled fee amounts, denominated in hundredths of bips.",
+  "source": "@site/SDK_versioned_docs/version-3.0.0/reference/enums/constants.feeamount.md",
+  "sourceDirName": "reference/enums",
+  "slug": "/reference/enums/FeeAmount",
+  "permalink": "/sdk/reference/enums/FeeAmount",
+  "version": "3.0.0",
+  "frontMatter": {
+    "id": "FeeAmount",
+    "title": "FeeAmount"
+  },
+  "sidebar": "version-V3/sdksidebar",
+  "previous": {
+    "title": "TickMath",
+    "permalink": "/sdk/reference/classes/TickMath"
+  },
+  "next": {
+    "title": "tradeComparator",
+    "permalink": "/sdk/reference/functions/tradeComparator"
+  }
+}

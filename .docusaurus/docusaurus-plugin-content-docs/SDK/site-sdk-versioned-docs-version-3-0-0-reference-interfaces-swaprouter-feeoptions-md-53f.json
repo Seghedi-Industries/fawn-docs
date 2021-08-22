@@ -1,0 +1,25 @@
+{
+  "unversionedId": "reference/interfaces/FeeOptions",
+  "id": "version-3.0.0/reference/interfaces/FeeOptions",
+  "isDocsHomePage": false,
+  "title": "FeeOptions",
+  "description": "Properties",
+  "source": "@site/SDK_versioned_docs/version-3.0.0/reference/interfaces/swaprouter.feeoptions.md",
+  "sourceDirName": "reference/interfaces",
+  "slug": "/reference/interfaces/FeeOptions",
+  "permalink": "/sdk/reference/interfaces/FeeOptions",
+  "version": "3.0.0",
+  "frontMatter": {
+    "id": "FeeOptions",
+    "title": "FeeOptions"
+  },
+  "sidebar": "version-V3/sdksidebar",
+  "previous": {
+    "title": "StandardPermitArguments",
+    "permalink": "/sdk/reference/interfaces/StandardPermitArguments"
+  },
+  "next": {
+    "title": "SwapOptions",
+    "permalink": "/sdk/reference/interfaces/SwapOptions"
+  }
+}

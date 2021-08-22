@@ -1,0 +1,24 @@
+{
+  "unversionedId": "reference/functions/computePoolAddress",
+  "id": "version-3.0.0/reference/functions/computePoolAddress",
+  "isDocsHomePage": false,
+  "title": "computePoolAddress",
+  "description": "@uniswap/v3-sdk / Exports / utils/computePoolAddress / computePoolAddress",
+  "source": "@site/SDK_versioned_docs/version-3.0.0/reference/functions/utils_computepooladdress.computepooladdress.md",
+  "sourceDirName": "reference/functions",
+  "slug": "/reference/functions/computePoolAddress",
+  "permalink": "/sdk/reference/functions/computePoolAddress",
+  "version": "3.0.0",
+  "frontMatter": {
+    "id": "computePoolAddress"
+  },
+  "sidebar": "version-V3/sdksidebar",
+  "previous": {
+    "title": "toHex",
+    "permalink": "/sdk/reference/functions/toHex"
+  },
+  "next": {
+    "title": "encodeRouteToPath",
+    "permalink": "/sdk/reference/functions/encodeRouteToPath"
+  }
+}

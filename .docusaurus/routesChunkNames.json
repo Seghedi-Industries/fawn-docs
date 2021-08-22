@@ -1,0 +1,1139 @@
+{
+  "/-deb": {
+    "component": "component---site-src-pages-index-jsc-4-f-f99",
+    "config": "config---5-e-9-4f3"
+  },
+  "/__docusaurus/debug-3d6": {
+    "component": "component---theme-debug-config-23-a-2ff"
+  },
+  "/__docusaurus/debug/config-914": {
+    "component": "component---theme-debug-config-23-a-2ff"
+  },
+  "/__docusaurus/debug/content-c28": {
+    "component": "component---theme-debug-contentba-8-ce7",
+    "allContent": "allContent---docusaurus-debug-content-246-9aa"
+  },
+  "/__docusaurus/debug/globalData-3cf": {
+    "component": "component---theme-debug-global-dataede-0fa"
+  },
+  "/__docusaurus/debug/metadata-31b": {
+    "component": "component---theme-debug-site-metadata-68-e-3d4"
+  },
+  "/__docusaurus/debug/registry-0da": {
+    "component": "component---theme-debug-registry-679-501"
+  },
+  "/__docusaurus/debug/routes-244": {
+    "component": "component---theme-debug-routes-946-699"
+  },
+  "/search-05a": {
+    "component": "component---users-robertseghedi-documents-git-hub-fawn-docs-node-modules-docusaurus-theme-search-algolia-src-theme-search-page-index-js-0-e-4-912"
+  },
+  "/protocol/V1-efa": {
+    "component": "component---theme-doc-page-1-be-9be",
+    "versionMetadata": "versionMetadata---protocol-v-19-b-8-2d9"
+  },
+  "/protocol/V1/guides/connect-to-uniswap-108": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-v-1-guides-connect-to-uniswap-807-508"
+  },
+  "/protocol/V1/guides/custom-linking-34e": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-v-1-guides-custom-linkingec-4-9b1"
+  },
+  "/protocol/V1/guides/iframe-integration-d72": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-v-1-guides-iframe-integrationecb-961"
+  },
+  "/protocol/V1/guides/pool-liquidity-63c": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-v-1-guides-pool-liquiditydcb-e4b"
+  },
+  "/protocol/V1/guides/token-listing-8a2": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-v-1-guides-token-listing-5-ca-b45"
+  },
+  "/protocol/V1/guides/trade-tokens-7bf": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-v-1-guides-trade-tokens-1-b-6-e97"
+  },
+  "/protocol/V1/introduction-39d": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-v-1-introductionddc-f3e"
+  },
+  "/protocol/V1/reference/exchange-2ee": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-v-1-reference-exchange-107-ff0"
+  },
+  "/protocol/V1/reference/factory-42e": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-v-1-reference-factory-1-e-5-9be"
+  },
+  "/protocol/V1/reference/interfaces-b08": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-v-1-reference-interfacesb-78-a69"
+  },
+  "/protocol/V2-a6d": {
+    "component": "component---theme-doc-page-1-be-9be",
+    "versionMetadata": "versionMetadata---protocol-v-2-c-28-7d7"
+  },
+  "/protocol/V2/concepts/advanced-topics/fees-439": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-v-2-concepts-advanced-topics-feesbad-2b9"
+  },
+  "/protocol/V2/concepts/advanced-topics/math-1f2": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-v-2-concepts-advanced-topics-math-5-b-9-db6"
+  },
+  "/protocol/V2/concepts/advanced-topics/pricing-730": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-v-2-concepts-advanced-topics-pricingaf-5-583"
+  },
+  "/protocol/V2/concepts/advanced-topics/research-595": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-v-2-concepts-advanced-topics-researcha-14-24d"
+  },
+  "/protocol/V2/concepts/advanced-topics/security-91d": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-v-2-concepts-advanced-topics-security-91-a-29c"
+  },
+  "/protocol/V2/concepts/advanced-topics/understanding-returns-1d0": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-v-2-concepts-advanced-topics-understanding-returnsbac-ca4"
+  },
+  "/protocol/V2/concepts/core-concepts/flash-swaps-4f6": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-v-2-concepts-core-concepts-flash-swapsce-7-661"
+  },
+  "/protocol/V2/concepts/core-concepts/oracles-e1d": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-v-2-concepts-core-concepts-oracles-056-3df"
+  },
+  "/protocol/V2/concepts/core-concepts/pools-102": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-v-2-concepts-core-concepts-pools-1-a-9-f97"
+  },
+  "/protocol/V2/concepts/core-concepts/swaps-ec3": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-v-2-concepts-core-concepts-swaps-3-a-4-19f"
+  },
+  "/protocol/V2/concepts/governance/adversarial-circumstances-469": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-v-2-concepts-governance-adversarial-circumstances-1-b-1-554"
+  },
+  "/protocol/V2/concepts/governance/glossary-acb": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-v-2-concepts-governance-glossary-2-b-9-853"
+  },
+  "/protocol/V2/concepts/governance/governance-reference-b9a": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-v-2-concepts-governance-governance-reference-9-d-8-4e4"
+  },
+  "/protocol/V2/concepts/governance/guide-to-voting-00a": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-v-2-concepts-governance-guide-to-voting-80-c-3a0"
+  },
+  "/protocol/V2/concepts/governance/overview-828": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-v-2-concepts-governance-overviewfc-4-cd5"
+  },
+  "/protocol/V2/concepts/governance/process-25a": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-v-2-concepts-governance-process-455-f7f"
+  },
+  "/protocol/V2/concepts/protocol-overview/ecosystem-participants-1fa": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-v-2-concepts-protocol-overview-ecosystem-participants-39-b-f37"
+  },
+  "/protocol/V2/concepts/protocol-overview/glossary-417": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-v-2-concepts-protocol-overview-glossarye-40-4cd"
+  },
+  "/protocol/V2/concepts/protocol-overview/how-uniswap-works-3ba": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-v-2-concepts-protocol-overview-how-uniswap-works-546-dc7"
+  },
+  "/protocol/V2/concepts/protocol-overview/smart-contracts-576": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-v-2-concepts-protocol-overview-smart-contractsfac-8bb"
+  },
+  "/protocol/V2/guides/interface-integration/custom-interface-linking-5e3": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-v-2-guides-interface-integration-custom-interface-linking-260-846"
+  },
+  "/protocol/V2/guides/interface-integration/iframe-integration-e4b": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-v-2-guides-interface-integration-iframe-integration-81-d-a09"
+  },
+  "/protocol/V2/guides/interface-integration/using-the-api-037": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-v-2-guides-interface-integration-using-the-api-31-d-2af"
+  },
+  "/protocol/V2/guides/smart-contract-integration/building-an-oracle-582": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-v-2-guides-smart-contract-integration-building-an-oracle-06-d-d7c"
+  },
+  "/protocol/V2/guides/smart-contract-integration/getting-pair-addresses-05c": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-v-2-guides-smart-contract-integration-getting-pair-addressesfc-4-1e9"
+  },
+  "/protocol/V2/guides/smart-contract-integration/providing-liquidity-09d": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-v-2-guides-smart-contract-integration-providing-liquidity-9-ee-f9f"
+  },
+  "/protocol/V2/guides/smart-contract-integration/quick-start-81e": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-v-2-guides-smart-contract-integration-quick-start-957-990"
+  },
+  "/protocol/V2/guides/smart-contract-integration/supporting-meta-transactions-8ca": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-v-2-guides-smart-contract-integration-supporting-meta-transactions-5-d-8-e80"
+  },
+  "/protocol/V2/guides/smart-contract-integration/trading-from-a-smart-contract-c82": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-v-2-guides-smart-contract-integration-trading-from-a-smart-contracta-49-def"
+  },
+  "/protocol/V2/guides/smart-contract-integration/using-flash-swaps-ad3": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-v-2-guides-smart-contract-integration-using-flash-swapsae-1-a69"
+  },
+  "/protocol/V2/introduction-986": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-v-2-introductionfb-0-f81"
+  },
+  "/protocol/V2/reference/API/entities-86b": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-v-2-reference-api-entities-042-8dd"
+  },
+  "/protocol/V2/reference/API/overview-8c0": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-v-2-reference-api-overviewaa-1-df6"
+  },
+  "/protocol/V2/reference/API/queries-8d7": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-v-2-reference-api-queries-5-f-8-34c"
+  },
+  "/protocol/V2/reference/Governance/governance-reference-096": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-v-2-reference-governance-governance-reference-631-131"
+  },
+  "/protocol/V2/reference/smart-contracts/common-errors-b47": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-v-2-reference-smart-contracts-common-errors-5-f-7-ea0"
+  },
+  "/protocol/V2/reference/smart-contracts/factory-bd9": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-v-2-reference-smart-contracts-factory-5-ee-38a"
+  },
+  "/protocol/V2/reference/smart-contracts/library-076": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-v-2-reference-smart-contracts-library-776-ee1"
+  },
+  "/protocol/V2/reference/smart-contracts/pair-74c": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-v-2-reference-smart-contracts-paired-6-34b"
+  },
+  "/protocol/V2/reference/smart-contracts/Pair-ERC-20-f01": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-v-2-reference-smart-contracts-pair-erc-2024-e-ebf"
+  },
+  "/protocol/V2/reference/smart-contracts/router-01-82c": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-v-2-reference-smart-contracts-router-01-d-45-731"
+  },
+  "/protocol/V2/reference/smart-contracts/router-02-2a3": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-v-2-reference-smart-contracts-router-02-dc-2-362"
+  },
+  "/sdk/1.0.0-22f": {
+    "component": "component---theme-doc-page-1-be-9be",
+    "versionMetadata": "versionMetadata---sdk-1-0-07-ea-bb3"
+  },
+  "/sdk/1.0.0/guides/getting-started-f60": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---sdk-1-0-0-guides-getting-started-582-206"
+  },
+  "/sdk/1.0.0/introduction-553": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---sdk-1-0-0-introduction-511-663"
+  },
+  "/sdk/1.0.0/reference/computation-20e": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---sdk-1-0-0-reference-computation-0-e-9-562"
+  },
+  "/sdk/1.0.0/reference/constants-ee2": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---sdk-1-0-0-reference-constants-604-edc"
+  },
+  "/sdk/1.0.0/reference/data-6b9": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---sdk-1-0-0-reference-data-25-d-1f6"
+  },
+  "/sdk/1.0.0/reference/format-cec": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---sdk-1-0-0-reference-format-39-c-cb0"
+  },
+  "/sdk/1.0.0/reference/orchestration-411": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---sdk-1-0-0-reference-orchestration-4-d-6-40e"
+  },
+  "/sdk/1.0.0/reference/transact-2fa": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---sdk-1-0-0-reference-transacte-9-c-c6e"
+  },
+  "/sdk/1.0.0/reference/types-b6e": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---sdk-1-0-0-reference-types-699-f76"
+  },
+  "/sdk/2.0.0-b6e": {
+    "component": "component---theme-doc-page-1-be-9be",
+    "versionMetadata": "versionMetadata---sdk-2-0-067-f-ee5"
+  },
+  "/sdk/2.0.0/guides/fetching-data-8ec": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---sdk-2-0-0-guides-fetching-datae-07-d95"
+  },
+  "/sdk/2.0.0/guides/getting-pair-addresses-277": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---sdk-2-0-0-guides-getting-pair-addressesa-2-f-827"
+  },
+  "/sdk/2.0.0/guides/pricing-eeb": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---sdk-2-0-0-guides-pricing-102-5a9"
+  },
+  "/sdk/2.0.0/guides/quick-start-1a8": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---sdk-2-0-0-guides-quick-start-981-2f4"
+  },
+  "/sdk/2.0.0/guides/trading-31b": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---sdk-2-0-0-guides-trading-163-41a"
+  },
+  "/sdk/2.0.0/introduction-da8": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---sdk-2-0-0-introduction-1-fb-d91"
+  },
+  "/sdk/2.0.0/reference/fetcher-337": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---sdk-2-0-0-reference-fetcher-387-287"
+  },
+  "/sdk/2.0.0/reference/fractions-664": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---sdk-2-0-0-reference-fractionse-3-c-273"
+  },
+  "/sdk/2.0.0/reference/getting-started-947": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---sdk-2-0-0-reference-getting-started-5-a-3-f57"
+  },
+  "/sdk/2.0.0/reference/other-exports-c4d": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---sdk-2-0-0-reference-other-exports-6-fa-c09"
+  },
+  "/sdk/2.0.0/reference/pair-733": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---sdk-2-0-0-reference-paire-00-c0a"
+  },
+  "/sdk/2.0.0/reference/route-04f": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---sdk-2-0-0-reference-route-898-fea"
+  },
+  "/sdk/2.0.0/reference/token-a13": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---sdk-2-0-0-reference-tokend-44-7fc"
+  },
+  "/sdk/2.0.0/reference/trade-18c": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---sdk-2-0-0-reference-trade-881-602"
+  },
+  "/protocol/-517": {
+    "component": "component---theme-doc-page-1-be-9be",
+    "versionMetadata": "versionMetadata---protocol-a-12-28b"
+  },
+  "/protocol/concepts/advanced/integration-issues-38c": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-concepts-advanced-integration-issues-082-c03"
+  },
+  "/protocol/concepts/advanced/research-7cd": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-concepts-advanced-research-485-67a"
+  },
+  "/protocol/concepts/advanced/resources-b38": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-concepts-advanced-resources-582-4df"
+  },
+  "/protocol/concepts/governance/adversarial-circumstances-8ea": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-concepts-governance-adversarial-circumstancesf-1-e-f4d"
+  },
+  "/protocol/concepts/governance/glossary-2a5": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-concepts-governance-glossarydc-5-993"
+  },
+  "/protocol/concepts/governance/governance-reference-533": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-concepts-governance-governance-referencef-23-84a"
+  },
+  "/protocol/concepts/governance/guide-to-voting-b32": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-concepts-governance-guide-to-votingeb-1-45f"
+  },
+  "/protocol/concepts/governance/overview-ff3": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-concepts-governance-overview-70-e-9e7"
+  },
+  "/protocol/concepts/governance/process-843": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-concepts-governance-processdfe-32d"
+  },
+  "/protocol/concepts/V3-overview/concentrated-liquidity-e8e": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-concepts-v-3-overview-concentrated-liquidity-00-d-ece"
+  },
+  "/protocol/concepts/V3-overview/fees-033": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-concepts-v-3-overview-fees-2-c-5-d23"
+  },
+  "/protocol/concepts/V3-overview/glossary-ba1": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-concepts-v-3-overview-glossaryfad-64c"
+  },
+  "/protocol/concepts/V3-overview/oracle-e52": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-concepts-v-3-overview-oraclea-48-897"
+  },
+  "/protocol/concepts/V3-overview/range-orders-0f0": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-concepts-v-3-overview-range-ordersb-43-201"
+  },
+  "/protocol/concepts/V3-overview/swaps-6b5": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-concepts-v-3-overview-swapse-63-57c"
+  },
+  "/protocol/guides/flash-integrations/calling-flash-03f": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-guides-flash-integrations-calling-flash-3-c-2-4c2"
+  },
+  "/protocol/guides/flash-integrations/final-contract-8cc": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-guides-flash-integrations-final-contractcf-5-818"
+  },
+  "/protocol/guides/flash-integrations/flash-callback-a86": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-guides-flash-integrations-flash-callback-287-2c7"
+  },
+  "/protocol/guides/flash-integrations/inheritance-constructors-576": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-guides-flash-integrations-inheritance-constructorsc-7-f-127"
+  },
+  "/protocol/guides/local-environment-02f": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-guides-local-environmentc-51-35b"
+  },
+  "/protocol/guides/providing-liquidity/collect-fees-cbb": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-guides-providing-liquidity-collect-feesb-8-e-8bb"
+  },
+  "/protocol/guides/providing-liquidity/decrease-liquidity-e6d": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-guides-providing-liquidity-decrease-liquidityf-59-881"
+  },
+  "/protocol/guides/providing-liquidity/increase-liquidity-d5c": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-guides-providing-liquidity-increase-liquidity-433-941"
+  },
+  "/protocol/guides/providing-liquidity/mint-a-position-3ef": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-guides-providing-liquidity-mint-a-positionc-63-bea"
+  },
+  "/protocol/guides/providing-liquidity/setting-up-5fb": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-guides-providing-liquidity-setting-up-621-96e"
+  },
+  "/protocol/guides/providing-liquidity/the-full-contract-369": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-guides-providing-liquidity-the-full-contractafa-be8"
+  },
+  "/protocol/guides/swaps/multihop-swaps-b1e": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-guides-swaps-multihop-swapsff-6-02e"
+  },
+  "/protocol/guides/swaps/single-swaps-b5d": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-guides-swaps-single-swapsb-68-344"
+  },
+  "/protocol/introduction-25b": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-introduction-29-f-bd4"
+  },
+  "/protocol/reference/core/interfaces/callback/IUniswapV3FlashCallback-b9f": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-reference-core-interfaces-callback-i-uniswap-v-3-flash-callbackfa-5-567"
+  },
+  "/protocol/reference/core/interfaces/callback/IUniswapV3MintCallback-1c5": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-reference-core-interfaces-callback-i-uniswap-v-3-mint-callback-4-dc-d74"
+  },
+  "/protocol/reference/core/interfaces/callback/IUniswapV3SwapCallback-751": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-reference-core-interfaces-callback-i-uniswap-v-3-swap-callback-9-c-6-9e0"
+  },
+  "/protocol/reference/core/interfaces/IERC20Minimal-c6c": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-reference-core-interfaces-ierc-20-minimal-7-e-4-714"
+  },
+  "/protocol/reference/core/interfaces/IUniswapV3Factory-d55": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-reference-core-interfaces-i-uniswap-v-3-factory-1-ad-4aa"
+  },
+  "/protocol/reference/core/interfaces/IUniswapV3Pool-168": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-reference-core-interfaces-i-uniswap-v-3-pool-28-f-8a9"
+  },
+  "/protocol/reference/core/interfaces/IUniswapV3PoolDeployer-448": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-reference-core-interfaces-i-uniswap-v-3-pool-deployer-22-d-d07"
+  },
+  "/protocol/reference/core/interfaces/pool/IUniswapV3PoolActions-5f2": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-reference-core-interfaces-pool-i-uniswap-v-3-pool-actions-1-c-5-500"
+  },
+  "/protocol/reference/core/interfaces/pool/IUniswapV3PoolDerivedState-23c": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-reference-core-interfaces-pool-i-uniswap-v-3-pool-derived-statef-88-5ac"
+  },
+  "/protocol/reference/core/interfaces/pool/IUniswapV3PoolEvents-ad3": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-reference-core-interfaces-pool-i-uniswap-v-3-pool-eventse-1-c-fea"
+  },
+  "/protocol/reference/core/interfaces/pool/IUniswapV3PoolImmutables-119": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-reference-core-interfaces-pool-i-uniswap-v-3-pool-immutablesaf-1-fe9"
+  },
+  "/protocol/reference/core/interfaces/pool/IUniswapV3PoolOwnerActions-84c": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-reference-core-interfaces-pool-i-uniswap-v-3-pool-owner-actionsaef-302"
+  },
+  "/protocol/reference/core/interfaces/pool/IUniswapV3PoolState-a3d": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-reference-core-interfaces-pool-i-uniswap-v-3-pool-state-6-e-0-0e9"
+  },
+  "/protocol/reference/core/libraries/BitMath-17b": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-reference-core-libraries-bit-mathee-3-ccc"
+  },
+  "/protocol/reference/core/libraries/FixedPoint128-c3d": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-reference-core-libraries-fixed-point-1280-ad-3dc"
+  },
+  "/protocol/reference/core/libraries/FixedPoint96-bdf": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-reference-core-libraries-fixed-point-96-a-44-846"
+  },
+  "/protocol/reference/core/libraries/FullMath-9e1": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-reference-core-libraries-full-math-737-71a"
+  },
+  "/protocol/reference/core/libraries/LiquidityMath-ab8": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-reference-core-libraries-liquidity-math-3-d-2-41d"
+  },
+  "/protocol/reference/core/libraries/LowGasSafeMath-956": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-reference-core-libraries-low-gas-safe-math-417-338"
+  },
+  "/protocol/reference/core/libraries/Oracle-e65": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-reference-core-libraries-oracle-6-b-2-747"
+  },
+  "/protocol/reference/core/libraries/Position-08e": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-reference-core-libraries-positionf-95-6e8"
+  },
+  "/protocol/reference/core/libraries/SafeCast-b5c": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-reference-core-libraries-safe-cast-536-d18"
+  },
+  "/protocol/reference/core/libraries/SecondsOutside-87f": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-reference-core-libraries-seconds-outside-8-cc-683"
+  },
+  "/protocol/reference/core/libraries/SqrtPriceMath-d55": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-reference-core-libraries-sqrt-price-math-297-45f"
+  },
+  "/protocol/reference/core/libraries/SwapMath-ae2": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-reference-core-libraries-swap-math-315-158"
+  },
+  "/protocol/reference/core/libraries/Tick-061": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-reference-core-libraries-tick-1-bc-1ab"
+  },
+  "/protocol/reference/core/libraries/TickBitmap-be0": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-reference-core-libraries-tick-bitmap-224-d9a"
+  },
+  "/protocol/reference/core/libraries/TickMath-099": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-reference-core-libraries-tick-mathe-3-d-525"
+  },
+  "/protocol/reference/core/libraries/TransferHelper-247": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-reference-core-libraries-transfer-helperc-72-0ce"
+  },
+  "/protocol/reference/core/libraries/UnsafeMath-1df": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-reference-core-libraries-unsafe-mathd-59-447"
+  },
+  "/protocol/reference/core/UniswapV3Factory-3c9": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-reference-core-uniswap-v-3-factoryb-5-d-cdf"
+  },
+  "/protocol/reference/core/UniswapV3Pool-81b": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-reference-core-uniswap-v-3-poole-0-f-d30"
+  },
+  "/protocol/reference/core/UniswapV3PoolDeployer-8c9": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-reference-core-uniswap-v-3-pool-deployera-13-8d0"
+  },
+  "/protocol/reference/deployments-7be": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-reference-deployments-4-d-6-1c7"
+  },
+  "/protocol/reference/error-codes-918": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-reference-error-codes-055-4a3"
+  },
+  "/protocol/reference/periphery/base/BlockTimestamp-23b": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-reference-periphery-base-block-timestampa-7-b-9b7"
+  },
+  "/protocol/reference/periphery/base/ERC721Permit-ded": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-reference-periphery-base-erc-721-permitb-9-a-33a"
+  },
+  "/protocol/reference/periphery/base/LiquidityManagement-0d9": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-reference-periphery-base-liquidity-managementa-46-506"
+  },
+  "/protocol/reference/periphery/base/Multicall-845": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-reference-periphery-base-multicall-1-f-5-fd2"
+  },
+  "/protocol/reference/periphery/base/PeripheryImmutableState-869": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-reference-periphery-base-periphery-immutable-state-2-f-5-ec7"
+  },
+  "/protocol/reference/periphery/base/PeripheryPayments-8a3": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-reference-periphery-base-periphery-paymentsad-3-1f2"
+  },
+  "/protocol/reference/periphery/base/PeripheryPaymentsWithFee-d80": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-reference-periphery-base-periphery-payments-with-feedda-ba0"
+  },
+  "/protocol/reference/periphery/base/PoolInitializer-def": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-reference-periphery-base-pool-initializerba-6-717"
+  },
+  "/protocol/reference/periphery/base/SelfPermit-f70": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-reference-periphery-base-self-permitb-38-fb8"
+  },
+  "/protocol/reference/periphery/interfaces/external/IERC1271-28f": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-reference-periphery-interfaces-external-ierc-1271466-9d1"
+  },
+  "/protocol/reference/periphery/interfaces/external/IERC20PermitAllowed-cb9": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-reference-periphery-interfaces-external-ierc-20-permit-allowedd-48-805"
+  },
+  "/protocol/reference/periphery/interfaces/external/IWETH9-e84": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-reference-periphery-interfaces-external-iweth-9801-a51"
+  },
+  "/protocol/reference/periphery/interfaces/IERC20Metadata-2e5": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-reference-periphery-interfaces-ierc-20-metadataee-9-e17"
+  },
+  "/protocol/reference/periphery/interfaces/IERC721Permit-7f4": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-reference-periphery-interfaces-ierc-721-permite-59-b2f"
+  },
+  "/protocol/reference/periphery/interfaces/IMulticall-011": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-reference-periphery-interfaces-i-multicall-4-cf-29d"
+  },
+  "/protocol/reference/periphery/interfaces/INonfungiblePositionManager-71a": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-reference-periphery-interfaces-i-nonfungible-position-manager-6-f-9-252"
+  },
+  "/protocol/reference/periphery/interfaces/INonfungibleTokenPositionDescriptor-7a4": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-reference-periphery-interfaces-i-nonfungible-token-position-descriptord-9-f-3b9"
+  },
+  "/protocol/reference/periphery/interfaces/IPeripheryImmutableState-7d7": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-reference-periphery-interfaces-i-periphery-immutable-state-89-f-ff8"
+  },
+  "/protocol/reference/periphery/interfaces/IPeripheryPayments-941": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-reference-periphery-interfaces-i-periphery-payments-424-9da"
+  },
+  "/protocol/reference/periphery/interfaces/IPeripheryPaymentsWithFee-405": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-reference-periphery-interfaces-i-periphery-payments-with-fee-5-a-6-593"
+  },
+  "/protocol/reference/periphery/interfaces/IPoolInitializer-a3a": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-reference-periphery-interfaces-i-pool-initializer-13-d-8a6"
+  },
+  "/protocol/reference/periphery/interfaces/IQuoter-03f": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-reference-periphery-interfaces-i-quoter-471-8ab"
+  },
+  "/protocol/reference/periphery/interfaces/ISelfPermit-9a3": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-reference-periphery-interfaces-i-self-permit-811-700"
+  },
+  "/protocol/reference/periphery/interfaces/ISwapRouter-6da": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-reference-periphery-interfaces-i-swap-routerd-6-e-08c"
+  },
+  "/protocol/reference/periphery/interfaces/ITickLens-686": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-reference-periphery-interfaces-i-tick-lens-40-e-8d3"
+  },
+  "/protocol/reference/periphery/interfaces/IV3Migrator-c8d": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-reference-periphery-interfaces-iv-3-migrator-773-b04"
+  },
+  "/protocol/reference/periphery/lens/Quoter-ae3": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-reference-periphery-lens-quoter-96-f-456"
+  },
+  "/protocol/reference/periphery/lens/TickLens-f44": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-reference-periphery-lens-tick-lens-2-f-9-0e6"
+  },
+  "/protocol/reference/periphery/libraries/Base64-776": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-reference-periphery-libraries-base-646-de-320"
+  },
+  "/protocol/reference/periphery/libraries/BytesLib-84c": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-reference-periphery-libraries-bytes-libace-a74"
+  },
+  "/protocol/reference/periphery/libraries/CallbackValidation-034": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-reference-periphery-libraries-callback-validationfd-5-0ec"
+  },
+  "/protocol/reference/periphery/libraries/ChainId-bfe": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-reference-periphery-libraries-chain-id-2-d-7-378"
+  },
+  "/protocol/reference/periphery/libraries/HexStrings-170": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-reference-periphery-libraries-hex-strings-2-e-2-bd2"
+  },
+  "/protocol/reference/periphery/libraries/LiquidityAmounts-343": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-reference-periphery-libraries-liquidity-amounts-0-c-4-bf8"
+  },
+  "/protocol/reference/periphery/libraries/NFTDescriptor-0ca": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-reference-periphery-libraries-nft-descriptore-0-a-245"
+  },
+  "/protocol/reference/periphery/libraries/NFTSVG-4e1": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-reference-periphery-libraries-nftsv-gd-84-2f9"
+  },
+  "/protocol/reference/periphery/libraries/Path-913": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-reference-periphery-libraries-path-865-cc4"
+  },
+  "/protocol/reference/periphery/libraries/PoolAddress-3aa": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-reference-periphery-libraries-pool-address-851-620"
+  },
+  "/protocol/reference/periphery/libraries/PositionKey-37e": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-reference-periphery-libraries-position-key-8-b-9-6f9"
+  },
+  "/protocol/reference/periphery/libraries/TokenRatioSortOrder-929": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-reference-periphery-libraries-token-ratio-sort-order-180-c33"
+  },
+  "/protocol/reference/periphery/libraries/TransferHelper-042": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-reference-periphery-libraries-transfer-helper-8-b-8-aab"
+  },
+  "/protocol/reference/periphery/NonfungiblePositionManager-ca8": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-reference-periphery-nonfungible-position-managerc-3-c-cbe"
+  },
+  "/protocol/reference/periphery/NonfungibleTokenPositionDescriptor-ec9": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-reference-periphery-nonfungible-token-position-descriptor-3-a-2-12e"
+  },
+  "/protocol/reference/periphery/staker/Design-af7": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-reference-periphery-staker-design-918-cc3"
+  },
+  "/protocol/reference/periphery/staker/interfaces/IUniswapV3Staker-c94": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-reference-periphery-staker-interfaces-i-uniswap-v-3-staker-9-f-4-a5f"
+  },
+  "/protocol/reference/periphery/staker/libraries/IncentiveId-74b": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-reference-periphery-staker-libraries-incentive-id-527-642"
+  },
+  "/protocol/reference/periphery/staker/libraries/NFTPositionInfo-dcc": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-reference-periphery-staker-libraries-nft-position-info-7-bd-1df"
+  },
+  "/protocol/reference/periphery/staker/libraries/RewardMath-9ff": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-reference-periphery-staker-libraries-reward-math-5-e-5-9c0"
+  },
+  "/protocol/reference/periphery/staker/UniswapV3Staker-62c": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-reference-periphery-staker-uniswap-v-3-stakera-4-d-266"
+  },
+  "/protocol/reference/periphery/SwapRouter-7da": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-reference-periphery-swap-routerf-98-e9f"
+  },
+  "/protocol/reference/periphery/test/Base64Test-ef2": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-reference-periphery-test-base-64-test-60-c-1ae"
+  },
+  "/protocol/reference/periphery/test/LiquidityAmountsTest-617": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-reference-periphery-test-liquidity-amounts-test-594-cc8"
+  },
+  "/protocol/reference/periphery/test/MockTimeNonfungiblePositionManager-c0e": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-reference-periphery-test-mock-time-nonfungible-position-manager-047-bf1"
+  },
+  "/protocol/reference/periphery/test/MockTimeSwapRouter-d57": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-reference-periphery-test-mock-time-swap-router-4-ca-e6d"
+  },
+  "/protocol/reference/periphery/test/NFTDescriptorTest-c2c": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-reference-periphery-test-nft-descriptor-test-613-53e"
+  },
+  "/protocol/reference/periphery/test/PathTest-9d2": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-reference-periphery-test-path-test-5-ef-903"
+  },
+  "/protocol/reference/periphery/test/PeripheryImmutableStateTest-59b": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-reference-periphery-test-periphery-immutable-state-test-96-c-9df"
+  },
+  "/protocol/reference/periphery/test/PoolAddressTest-e62": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-reference-periphery-test-pool-address-test-98-c-17c"
+  },
+  "/protocol/reference/periphery/test/SelfPermitTest-7f0": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-reference-periphery-test-self-permit-test-63-e-12e"
+  },
+  "/protocol/reference/periphery/test/TestCallbackValidation-487": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-reference-periphery-test-test-callback-validation-572-3f6"
+  },
+  "/protocol/reference/periphery/test/TestERC20-c41": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-reference-periphery-test-test-erc-207-dc-8af"
+  },
+  "/protocol/reference/periphery/test/TestERC20Metadata-2a7": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-reference-periphery-test-test-erc-20-metadata-926-c6c"
+  },
+  "/protocol/reference/periphery/test/TestERC20PermitAllowed-f44": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-reference-periphery-test-test-erc-20-permit-allowedaa-5-598"
+  },
+  "/protocol/reference/periphery/test/TestMulticall-82f": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-reference-periphery-test-test-multicall-71-f-b71"
+  },
+  "/protocol/reference/periphery/test/TestPositionNFTOwner-f6a": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-reference-periphery-test-test-position-nft-ownerd-29-9a7"
+  },
+  "/protocol/reference/periphery/test/TestUniswapV3Callee-5f2": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-reference-periphery-test-test-uniswap-v-3-callee-672-73b"
+  },
+  "/protocol/reference/periphery/test/TickLensTest-7e2": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-reference-periphery-test-tick-lens-testa-86-8c2"
+  },
+  "/protocol/reference/periphery/V3Migrator-a2c": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-reference-periphery-v-3-migratora-3-f-ec3"
+  },
+  "/protocol/reference/smart-contracts-2fe": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---protocol-reference-smart-contracts-2-f-4-d62"
+  },
+  "/sdk/-aa7": {
+    "component": "component---theme-doc-page-1-be-9be",
+    "versionMetadata": "versionMetadata---sdk-92-e-741"
+  },
+  "/sdk/guides/creating-a-pool-d03": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---sdk-guides-creating-a-pool-01-a-142"
+  },
+  "/sdk/guides/quick-start-b0b": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---sdk-guides-quick-start-3-fb-df2"
+  },
+  "/sdk/guides/using-ethers-515": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---sdk-guides-using-ethers-2-f-7-322"
+  },
+  "/sdk/introduction-ce7": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---sdk-introduction-78-b-25b"
+  },
+  "/sdk/reference/classes/FullMath-ead": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---sdk-reference-classes-full-math-636-76a"
+  },
+  "/sdk/reference/classes/LiquidityMath-b09": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---sdk-reference-classes-liquidity-math-5-f-9-d39"
+  },
+  "/sdk/reference/classes/NonfungiblePositionManager-290": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---sdk-reference-classes-nonfungible-position-managera-8-e-be3"
+  },
+  "/sdk/reference/classes/NoTickDataProvider-66f": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---sdk-reference-classes-no-tick-data-provider-224-19e"
+  },
+  "/sdk/reference/classes/Pool-7c6": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---sdk-reference-classes-poola-5-b-b4d"
+  },
+  "/sdk/reference/classes/Position-8a2": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---sdk-reference-classes-position-408-c82"
+  },
+  "/sdk/reference/classes/Route-183": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---sdk-reference-classes-route-1-d-8-db0"
+  },
+  "/sdk/reference/classes/SelfPermit-4b5": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---sdk-reference-classes-self-permit-970-fa3"
+  },
+  "/sdk/reference/classes/SqrtPriceMath-d70": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---sdk-reference-classes-sqrt-price-math-168-029"
+  },
+  "/sdk/reference/classes/SwapMath-7ab": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---sdk-reference-classes-swap-math-171-d90"
+  },
+  "/sdk/reference/classes/SwapRouter-b38": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---sdk-reference-classes-swap-router-09-d-158"
+  },
+  "/sdk/reference/classes/Tick-f54": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---sdk-reference-classes-ticka-41-422"
+  },
+  "/sdk/reference/classes/TickList-383": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---sdk-reference-classes-tick-list-22-a-860"
+  },
+  "/sdk/reference/classes/TickListDataProvider-e61": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---sdk-reference-classes-tick-list-data-provider-87-b-0c3"
+  },
+  "/sdk/reference/classes/TickMath-4b3": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---sdk-reference-classes-tick-math-8-c-4-b3b"
+  },
+  "/sdk/reference/classes/Trade-0e4": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---sdk-reference-classes-tradeb-39-935"
+  },
+  "/sdk/reference/enums/FeeAmount-b5b": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---sdk-reference-enums-fee-amount-171-697"
+  },
+  "/sdk/reference/functions/computePoolAddress-924": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---sdk-reference-functions-compute-pool-address-9-b-7-094"
+  },
+  "/sdk/reference/functions/encodeRouteToPath-5ca": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---sdk-reference-functions-encode-route-to-path-330-857"
+  },
+  "/sdk/reference/functions/encodeSqrtRatioX96-b2c": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---sdk-reference-functions-encode-sqrt-ratio-x-96-db-7-2fc"
+  },
+  "/sdk/reference/functions/isSorted-e19": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---sdk-reference-functions-is-sorted-5-fc-ff7"
+  },
+  "/sdk/reference/functions/maxLiquidityForAmounts-a9a": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---sdk-reference-functions-max-liquidity-for-amounts-39-f-157"
+  },
+  "/sdk/reference/functions/mostSignificantBit-b6f": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---sdk-reference-functions-most-significant-bitee-1-352"
+  },
+  "/sdk/reference/functions/nearestUsableTick-8ef": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---sdk-reference-functions-nearest-usable-ticka-24-2dd"
+  },
+  "/sdk/reference/functions/priceToClosestTick-cd9": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---sdk-reference-functions-price-to-closest-tickb-34-5c8"
+  },
+  "/sdk/reference/functions/tickToPrice-2eb": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---sdk-reference-functions-tick-to-price-9-f-0-aa9"
+  },
+  "/sdk/reference/functions/toHex-78a": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---sdk-reference-functions-to-hex-4-f-3-1f9"
+  },
+  "/sdk/reference/functions/tradeComparator-ce8": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---sdk-reference-functions-trade-comparator-84-e-c9f"
+  },
+  "/sdk/reference/interfaces/AllowedPermitArguments-3fb": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---sdk-reference-interfaces-allowed-permit-arguments-938-c95"
+  },
+  "/sdk/reference/interfaces/BestTradeOptions-0f4": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---sdk-reference-interfaces-best-trade-optionse-5-c-bf4"
+  },
+  "/sdk/reference/interfaces/CollectOptions-429": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---sdk-reference-interfaces-collect-options-179-7af"
+  },
+  "/sdk/reference/interfaces/CommonAddLiquidityOptions-0f1": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---sdk-reference-interfaces-common-add-liquidity-optionsb-31-83c"
+  },
+  "/sdk/reference/interfaces/FeeOptions-00e": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---sdk-reference-interfaces-fee-options-53-f-eb5"
+  },
+  "/sdk/reference/interfaces/IncreaseSpecificOptions-86a": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---sdk-reference-interfaces-increase-specific-options-17-c-c60"
+  },
+  "/sdk/reference/interfaces/MethodParameters-de4": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---sdk-reference-interfaces-method-parameters-02-c-032"
+  },
+  "/sdk/reference/interfaces/MintSpecificOptions-490": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---sdk-reference-interfaces-mint-specific-optionsefd-4e2"
+  },
+  "/sdk/reference/interfaces/NFTPermitOptions-c14": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---sdk-reference-interfaces-nft-permit-options-437-29f"
+  },
+  "/sdk/reference/interfaces/RemoveLiquidityOptions-185": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---sdk-reference-interfaces-remove-liquidity-options-6-f-9-e0b"
+  },
+  "/sdk/reference/interfaces/StandardPermitArguments-bbe": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---sdk-reference-interfaces-standard-permit-arguments-3-be-81d"
+  },
+  "/sdk/reference/interfaces/SwapOptions-84d": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---sdk-reference-interfaces-swap-options-9-aa-65b"
+  },
+  "/sdk/reference/interfaces/TickConstructorArgs-53d": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---sdk-reference-interfaces-tick-constructor-argsb-75-f2c"
+  },
+  "/sdk/reference/interfaces/TickDataProvider-fbf": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---sdk-reference-interfaces-tick-data-provider-569-c2c"
+  },
+  "/sdk/reference/modules/constants-23f": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---sdk-reference-modules-constants-51-e-b91"
+  },
+  "/sdk/reference/modules/utils-b67": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---sdk-reference-modules-utils-4-eb-105"
+  },
+  "/sdk/reference/reference-info-6d2": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---sdk-reference-reference-infodae-baa"
+  },
+  "/sdk/reference/types/nonfungiblepositionmanager.addliquidityoptions-ddc": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---sdk-reference-types-nonfungiblepositionmanager-addliquidityoptions-47-c-092"
+  },
+  "/sdk/reference/types/nonfungiblepositionmanager.increaseoptions-19b": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---sdk-reference-types-nonfungiblepositionmanager-increaseoptions-16-d-c9c"
+  },
+  "/sdk/reference/types/nonfungiblepositionmanager.mintoptions-785": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---sdk-reference-types-nonfungiblepositionmanager-mintoptions-648-f13"
+  },
+  "/sdk/reference/types/selfpermit.permitoptions-a0a": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---sdk-reference-types-selfpermit-permitoptions-169-893"
+  },
+  "/sdk/reference/variables/constants.address_zero-098": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---sdk-reference-variables-constants-address-zero-4-d-8-5f7"
+  },
+  "/sdk/reference/variables/constants.factory_address-01e": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---sdk-reference-variables-constants-factory-address-69-a-558"
+  },
+  "/sdk/reference/variables/constants.pool_init_code_hash-72c": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---sdk-reference-variables-constants-pool-init-code-hashe-92-a04"
+  },
+  "/sdk/reference/variables/constants.tick_spacings-cb0": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---sdk-reference-variables-constants-tick-spacingsd-6-d-9bf"
+  },
+  "/sdk/reference/variables/internalconstants.negative_one-b4f": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---sdk-reference-variables-internalconstants-negative-one-6-d-2-d4f"
+  },
+  "/sdk/reference/variables/internalconstants.one-357": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---sdk-reference-variables-internalconstants-one-2-de-cb7"
+  },
+  "/sdk/reference/variables/internalconstants.q192-cf5": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---sdk-reference-variables-internalconstants-q-192174-242"
+  },
+  "/sdk/reference/variables/internalconstants.q96-227": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---sdk-reference-variables-internalconstants-q-96-bbc-359"
+  },
+  "/sdk/reference/variables/internalconstants.zero-d32": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---sdk-reference-variables-internalconstants-zero-013-bbf"
+  },
+  "/sdk/Subgraph data-2de": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---sdk-subgraph-data-13-f-dfd"
+  }
+}

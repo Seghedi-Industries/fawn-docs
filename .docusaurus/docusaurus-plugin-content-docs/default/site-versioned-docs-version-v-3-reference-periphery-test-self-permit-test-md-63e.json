@@ -1,0 +1,23 @@
+{
+  "unversionedId": "reference/periphery/test/SelfPermitTest",
+  "id": "version-V3/reference/periphery/test/SelfPermitTest",
+  "isDocsHomePage": false,
+  "title": "SelfPermitTest",
+  "description": "Same as SelfPermit but not abstract",
+  "source": "@site/versioned_docs/version-V3/reference/periphery/test/SelfPermitTest.md",
+  "sourceDirName": "reference/periphery/test",
+  "slug": "/reference/periphery/test/SelfPermitTest",
+  "permalink": "/protocol/reference/periphery/test/SelfPermitTest",
+  "editUrl": "https://github.com/uniswap/uniswap-docs/tree/main/versioned_docs/version-V3/reference/periphery/test/SelfPermitTest.md",
+  "version": "V3",
+  "frontMatter": {},
+  "sidebar": "version-V3/mySidebar",
+  "previous": {
+    "title": "PoolAddressTest",
+    "permalink": "/protocol/reference/periphery/test/PoolAddressTest"
+  },
+  "next": {
+    "title": "TestCallbackValidation",
+    "permalink": "/protocol/reference/periphery/test/TestCallbackValidation"
+  }
+}

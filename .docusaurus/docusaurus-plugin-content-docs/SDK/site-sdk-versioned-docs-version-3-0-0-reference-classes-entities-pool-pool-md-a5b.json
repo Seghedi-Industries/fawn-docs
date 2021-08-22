@@ -1,0 +1,25 @@
+{
+  "unversionedId": "reference/classes/Pool",
+  "id": "version-3.0.0/reference/classes/Pool",
+  "isDocsHomePage": false,
+  "title": "Pool",
+  "description": "Represents a V3 pool",
+  "source": "@site/SDK_versioned_docs/version-3.0.0/reference/classes/entities_pool.pool.md",
+  "sourceDirName": "reference/classes",
+  "slug": "/reference/classes/Pool",
+  "permalink": "/sdk/reference/classes/Pool",
+  "version": "3.0.0",
+  "frontMatter": {
+    "id": "Pool",
+    "title": "Pool"
+  },
+  "sidebar": "version-V3/sdksidebar",
+  "previous": {
+    "title": "Creating a Pool Instance",
+    "permalink": "/sdk/guides/creating-a-pool"
+  },
+  "next": {
+    "title": "Position",
+    "permalink": "/sdk/reference/classes/Position"
+  }
+}

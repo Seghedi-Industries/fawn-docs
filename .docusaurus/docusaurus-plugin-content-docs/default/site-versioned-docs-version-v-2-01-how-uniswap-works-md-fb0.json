@@ -1,0 +1,24 @@
+{
+  "unversionedId": "introduction",
+  "id": "version-V2/introduction",
+  "isDocsHomePage": false,
+  "title": "The Uniswap V2 Protocol",
+  "description": "Welcome to the Uniswap protocol V2 docs.",
+  "source": "@site/versioned_docs/version-V2/01-how-uniswap-works.md",
+  "sourceDirName": ".",
+  "slug": "/introduction",
+  "permalink": "/protocol/V2/introduction",
+  "editUrl": "https://github.com/uniswap/uniswap-docs/tree/main/versioned_docs/version-V2/01-how-uniswap-works.md",
+  "version": "V2",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "introduction",
+    "title": "The Uniswap V2 Protocol",
+    "sidebar_position": 1
+  },
+  "sidebar": "version-V2/mySidebar",
+  "next": {
+    "title": "How Uniswap works",
+    "permalink": "/protocol/V2/concepts/protocol-overview/how-uniswap-works"
+  }
+}

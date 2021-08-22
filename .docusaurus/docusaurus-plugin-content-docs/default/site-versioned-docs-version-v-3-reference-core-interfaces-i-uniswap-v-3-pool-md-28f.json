@@ -1,0 +1,23 @@
+{
+  "unversionedId": "reference/core/interfaces/IUniswapV3Pool",
+  "id": "version-V3/reference/core/interfaces/IUniswapV3Pool",
+  "isDocsHomePage": false,
+  "title": "IUniswapV3Pool",
+  "description": "A Uniswap pool facilitates swapping and automated market making between any two assets that strictly conform",
+  "source": "@site/versioned_docs/version-V3/reference/core/interfaces/IUniswapV3Pool.md",
+  "sourceDirName": "reference/core/interfaces",
+  "slug": "/reference/core/interfaces/IUniswapV3Pool",
+  "permalink": "/protocol/reference/core/interfaces/IUniswapV3Pool",
+  "editUrl": "https://github.com/uniswap/uniswap-docs/tree/main/versioned_docs/version-V3/reference/core/interfaces/IUniswapV3Pool.md",
+  "version": "V3",
+  "frontMatter": {},
+  "sidebar": "version-V3/mySidebar",
+  "previous": {
+    "title": "IUniswapV3Factory",
+    "permalink": "/protocol/reference/core/interfaces/IUniswapV3Factory"
+  },
+  "next": {
+    "title": "IUniswapV3PoolDeployer",
+    "permalink": "/protocol/reference/core/interfaces/IUniswapV3PoolDeployer"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "guides/token-listing",
+  "id": "version-V1/guides/token-listing",
+  "isDocsHomePage": false,
+  "title": "Token Listing",
+  "description": "It is possible that a token you are interested in is not included in the token dropdown on https://app.uniswap.org/#/swap?use=v1, however, all tokens that have a deployed uniswap exchange are supported on the front-end.",
+  "source": "@site/versioned_docs/version-V1/guides/06-token-listing.md",
+  "sourceDirName": "guides",
+  "slug": "/guides/token-listing",
+  "permalink": "/protocol/V1/guides/token-listing",
+  "editUrl": "https://github.com/uniswap/uniswap-docs/tree/main/versioned_docs/version-V1/guides/06-token-listing.md",
+  "version": "V1",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "id": "token-listing",
+    "title": "Token Listing"
+  },
+  "sidebar": "version-V1/mySidebar",
+  "previous": {
+    "title": "Iframe Integration",
+    "permalink": "/protocol/V1/guides/iframe-integration"
+  },
+  "next": {
+    "title": "Factory",
+    "permalink": "/protocol/V1/reference/factory"
+  }
+}

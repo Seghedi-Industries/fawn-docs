@@ -1,13 +1,13 @@
 module.exports = {
-  title: "Uniswap",
+  title: "Fawn",
   tagline: "Documentation and Guides",
   url: "https://docs.uniswap.org/",
   baseUrl: "/",
   onBrokenLinks: "warn",
   onBrokenMarkdownLinks: "ignore",
   favicon: "img/favicon.png",
-  organizationName: "Uniswap", // Usually your GitHub org/user name.
-  projectName: "Uniswap-docs", // Usually your repo name.
+  organizationName: "Seghedi Industries", // Usually your GitHub org/user name.
+  projectName: "faws-docs", // Usually your repo name.
   themeConfig: {
     image: "img/twitter_card_bg.jpg",
     prism: {
@@ -19,10 +19,10 @@ module.exports = {
       appId: "S0IDD0YGLZ",
     },
     navbar: {
-      title: "Uniswap Docs",
+      title: "Fawn Docs",
       logo: {
-        alt: "Uniswap Unicorn",
-        src: "img/uni_dark_icon.svg",
+        alt: "Fawn Logo",
+        src: "img/fawn_logo.svg",
       },
       items: [
         {
@@ -94,20 +94,8 @@ module.exports = {
           className: "V1_active",
         },
         {
-          label: "Whitepaper",
-          to: "https://uniswap.org/whitepaper-v3.pdf",
-          position: "right",
-          className: "persistent",
-        },
-        {
-          href: "https://github.com/uniswap/uniswap-docs",
+          href: "https://github.com/Seghedi-Industries/fawn",
           label: "GitHub",
-          position: "right",
-          className: "persistent",
-        },
-        {
-          href: "https://unigrants.org/",
-          label: "Grants",
           position: "right",
           className: "persistent",
         },

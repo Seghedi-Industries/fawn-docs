@@ -1,0 +1,24 @@
+{
+  "unversionedId": "reference/functions/toHex",
+  "id": "version-3.0.0/reference/functions/toHex",
+  "isDocsHomePage": false,
+  "title": "toHex",
+  "description": "@uniswap/v3-sdk / Exports / utils/calldata / toHex",
+  "source": "@site/SDK_versioned_docs/version-3.0.0/reference/functions/utils_calldata.tohex.md",
+  "sourceDirName": "reference/functions",
+  "slug": "/reference/functions/toHex",
+  "permalink": "/sdk/reference/functions/toHex",
+  "version": "3.0.0",
+  "frontMatter": {
+    "id": "toHex"
+  },
+  "sidebar": "version-V3/sdksidebar",
+  "previous": {
+    "title": "tradeComparator",
+    "permalink": "/sdk/reference/functions/tradeComparator"
+  },
+  "next": {
+    "title": "computePoolAddress",
+    "permalink": "/sdk/reference/functions/computePoolAddress"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "unversionedId": "reference/reference-info",
+  "id": "version-3.0.0/reference/reference-info",
+  "isDocsHomePage": false,
+  "title": "Reference",
+  "description": "The Uniswap V3 SDK consists of two repositories, which can be downloaded via two npm packages, V3 SDK, and SDK Core.",
+  "source": "@site/SDK_versioned_docs/version-3.0.0/reference/reference-info.md",
+  "sourceDirName": "reference",
+  "slug": "/reference/reference-info",
+  "permalink": "/sdk/reference/reference-info",
+  "version": "3.0.0",
+  "frontMatter": {
+    "id": "reference-info",
+    "title": "Reference"
+  },
+  "sidebar": "version-V3/sdksidebar",
+  "previous": {
+    "title": "utils",
+    "permalink": "/sdk/reference/modules/utils"
+  },
+  "next": {
+    "title": "nonfungiblepositionmanager.addliquidityoptions",
+    "permalink": "/sdk/reference/types/nonfungiblepositionmanager.addliquidityoptions"
+  }
+}

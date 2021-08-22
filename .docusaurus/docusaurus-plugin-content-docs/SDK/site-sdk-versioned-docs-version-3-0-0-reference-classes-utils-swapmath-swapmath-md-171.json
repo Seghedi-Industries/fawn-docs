@@ -1,0 +1,25 @@
+{
+  "unversionedId": "reference/classes/SwapMath",
+  "id": "version-3.0.0/reference/classes/SwapMath",
+  "isDocsHomePage": false,
+  "title": "SwapMath",
+  "description": "Methods",
+  "source": "@site/SDK_versioned_docs/version-3.0.0/reference/classes/utils_swapmath.swapmath.md",
+  "sourceDirName": "reference/classes",
+  "slug": "/reference/classes/SwapMath",
+  "permalink": "/sdk/reference/classes/SwapMath",
+  "version": "3.0.0",
+  "frontMatter": {
+    "id": "SwapMath",
+    "title": "SwapMath"
+  },
+  "sidebar": "version-V3/sdksidebar",
+  "previous": {
+    "title": "SqrtPriceMath",
+    "permalink": "/sdk/reference/classes/SqrtPriceMath"
+  },
+  "next": {
+    "title": "TickList",
+    "permalink": "/sdk/reference/classes/TickList"
+  }
+}

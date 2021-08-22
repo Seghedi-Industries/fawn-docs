@@ -1,0 +1,23 @@
+{
+  "unversionedId": "reference/periphery/libraries/TokenRatioSortOrder",
+  "id": "version-V3/reference/periphery/libraries/TokenRatioSortOrder",
+  "isDocsHomePage": false,
+  "title": "TokenRatioSortOrder",
+  "description": "",
+  "source": "@site/versioned_docs/version-V3/reference/periphery/libraries/TokenRatioSortOrder.md",
+  "sourceDirName": "reference/periphery/libraries",
+  "slug": "/reference/periphery/libraries/TokenRatioSortOrder",
+  "permalink": "/protocol/reference/periphery/libraries/TokenRatioSortOrder",
+  "editUrl": "https://github.com/uniswap/uniswap-docs/tree/main/versioned_docs/version-V3/reference/periphery/libraries/TokenRatioSortOrder.md",
+  "version": "V3",
+  "frontMatter": {},
+  "sidebar": "version-V3/mySidebar",
+  "previous": {
+    "title": "PositionKey",
+    "permalink": "/protocol/reference/periphery/libraries/PositionKey"
+  },
+  "next": {
+    "title": "TransferHelper",
+    "permalink": "/protocol/reference/periphery/libraries/TransferHelper"
+  }
+}

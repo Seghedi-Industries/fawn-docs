@@ -1,0 +1,26 @@
+{
+  "unversionedId": "reference/constants",
+  "id": "version-1.0.0/reference/constants",
+  "isDocsHomePage": false,
+  "title": "Constants",
+  "description": "Below is an exhaustive list of all external constants used in the SDK.",
+  "source": "@site/SDK_versioned_docs/version-1.0.0/reference/07-constants.md",
+  "sourceDirName": "reference",
+  "slug": "/reference/constants",
+  "permalink": "/sdk/1.0.0/reference/constants",
+  "version": "1.0.0",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "id": "constants",
+    "title": "Constants"
+  },
+  "sidebar": "version-V1/sdksidebar",
+  "previous": {
+    "title": "Transact",
+    "permalink": "/sdk/1.0.0/reference/transact"
+  },
+  "next": {
+    "title": "Types",
+    "permalink": "/sdk/1.0.0/reference/types"
+  }
+}

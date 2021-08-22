@@ -1,0 +1,28 @@
+{
+  "unversionedId": "guides/providing-liquidity/increase-liquidity",
+  "id": "version-V3/guides/providing-liquidity/increase-liquidity",
+  "isDocsHomePage": false,
+  "title": "Increase Liquidity",
+  "description": "Increase Liquidity Within The Current Range",
+  "source": "@site/versioned_docs/version-V3/guides/providing-liquidity/increase-liquidity.md",
+  "sourceDirName": "guides/providing-liquidity",
+  "slug": "/guides/providing-liquidity/increase-liquidity",
+  "permalink": "/protocol/guides/providing-liquidity/increase-liquidity",
+  "editUrl": "https://github.com/uniswap/uniswap-docs/tree/main/versioned_docs/version-V3/guides/providing-liquidity/increase-liquidity.md",
+  "version": "V3",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "id": "increase-liquidity",
+    "title": "Increase Liquidity",
+    "sidebar_position": 5
+  },
+  "sidebar": "version-V3/mySidebar",
+  "previous": {
+    "title": "Decrease Liquidity",
+    "permalink": "/protocol/guides/providing-liquidity/decrease-liquidity"
+  },
+  "next": {
+    "title": "The Full Contract",
+    "permalink": "/protocol/guides/providing-liquidity/the-full-contract"
+  }
+}

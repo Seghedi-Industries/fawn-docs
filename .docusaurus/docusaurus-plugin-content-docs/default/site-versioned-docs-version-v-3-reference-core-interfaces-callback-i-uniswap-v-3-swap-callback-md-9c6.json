@@ -1,0 +1,23 @@
+{
+  "unversionedId": "reference/core/interfaces/callback/IUniswapV3SwapCallback",
+  "id": "version-V3/reference/core/interfaces/callback/IUniswapV3SwapCallback",
+  "isDocsHomePage": false,
+  "title": "IUniswapV3SwapCallback",
+  "description": "Any contract that calls IUniswapV3PoolActions#swap must implement this interface",
+  "source": "@site/versioned_docs/version-V3/reference/core/interfaces/callback/IUniswapV3SwapCallback.md",
+  "sourceDirName": "reference/core/interfaces/callback",
+  "slug": "/reference/core/interfaces/callback/IUniswapV3SwapCallback",
+  "permalink": "/protocol/reference/core/interfaces/callback/IUniswapV3SwapCallback",
+  "editUrl": "https://github.com/uniswap/uniswap-docs/tree/main/versioned_docs/version-V3/reference/core/interfaces/callback/IUniswapV3SwapCallback.md",
+  "version": "V3",
+  "frontMatter": {},
+  "sidebar": "version-V3/mySidebar",
+  "previous": {
+    "title": "IUniswapV3MintCallback",
+    "permalink": "/protocol/reference/core/interfaces/callback/IUniswapV3MintCallback"
+  },
+  "next": {
+    "title": "IUniswapV3PoolActions",
+    "permalink": "/protocol/reference/core/interfaces/pool/IUniswapV3PoolActions"
+  }
+}

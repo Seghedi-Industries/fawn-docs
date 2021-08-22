@@ -1,0 +1,25 @@
+{
+  "unversionedId": "reference/classes/Route",
+  "id": "version-3.0.0/reference/classes/Route",
+  "isDocsHomePage": false,
+  "title": "Route",
+  "description": "Represents a list of pools through which a swap can occur",
+  "source": "@site/SDK_versioned_docs/version-3.0.0/reference/classes/entities_route.route.md",
+  "sourceDirName": "reference/classes",
+  "slug": "/reference/classes/Route",
+  "permalink": "/sdk/reference/classes/Route",
+  "version": "3.0.0",
+  "frontMatter": {
+    "id": "Route",
+    "title": "Route"
+  },
+  "sidebar": "version-V3/sdksidebar",
+  "previous": {
+    "title": "Position",
+    "permalink": "/sdk/reference/classes/Position"
+  },
+  "next": {
+    "title": "Tick",
+    "permalink": "/sdk/reference/classes/Tick"
+  }
+}

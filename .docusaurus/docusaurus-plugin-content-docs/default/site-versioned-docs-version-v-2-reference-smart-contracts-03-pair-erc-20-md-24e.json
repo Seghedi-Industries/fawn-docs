@@ -1,0 +1,28 @@
+{
+  "unversionedId": "reference/smart-contracts/Pair-ERC-20",
+  "id": "version-V2/reference/smart-contracts/Pair-ERC-20",
+  "isDocsHomePage": false,
+  "title": "Pair (ERC-20)",
+  "description": "This documentation covers ERC-20 functionality for denominating pool tokens. For Uniswap-specific functionality, see Pair.",
+  "source": "@site/versioned_docs/version-V2/reference/smart-contracts/03-pair-erc-20.md",
+  "sourceDirName": "reference/smart-contracts",
+  "slug": "/reference/smart-contracts/Pair-ERC-20",
+  "permalink": "/protocol/V2/reference/smart-contracts/Pair-ERC-20",
+  "editUrl": "https://github.com/uniswap/uniswap-docs/tree/main/versioned_docs/version-V2/reference/smart-contracts/03-pair-erc-20.md",
+  "version": "V2",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "id": "Pair-ERC-20",
+    "title": "Pair (ERC-20)",
+    "tags": "smart-contracts, documentation"
+  },
+  "sidebar": "version-V2/mySidebar",
+  "previous": {
+    "title": "Pair",
+    "permalink": "/protocol/V2/reference/smart-contracts/pair"
+  },
+  "next": {
+    "title": "Library",
+    "permalink": "/protocol/V2/reference/smart-contracts/library"
+  }
+}

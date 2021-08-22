@@ -1,0 +1,25 @@
+{
+  "unversionedId": "reference/interfaces/TickDataProvider",
+  "id": "version-3.0.0/reference/interfaces/TickDataProvider",
+  "isDocsHomePage": false,
+  "title": "TickDataProvider",
+  "description": "Provides information about ticks",
+  "source": "@site/SDK_versioned_docs/version-3.0.0/reference/interfaces/entities_tickdataprovider.tickdataprovider.md",
+  "sourceDirName": "reference/interfaces",
+  "slug": "/reference/interfaces/TickDataProvider",
+  "permalink": "/sdk/reference/interfaces/TickDataProvider",
+  "version": "3.0.0",
+  "frontMatter": {
+    "id": "TickDataProvider",
+    "title": "TickDataProvider"
+  },
+  "sidebar": "version-V3/sdksidebar",
+  "previous": {
+    "title": "TickConstructorArgs",
+    "permalink": "/sdk/reference/interfaces/TickConstructorArgs"
+  },
+  "next": {
+    "title": "BestTradeOptions",
+    "permalink": "/sdk/reference/interfaces/BestTradeOptions"
+  }
+}

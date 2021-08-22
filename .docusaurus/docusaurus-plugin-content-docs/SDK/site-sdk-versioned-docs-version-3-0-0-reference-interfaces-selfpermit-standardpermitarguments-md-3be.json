@@ -1,0 +1,25 @@
+{
+  "unversionedId": "reference/interfaces/StandardPermitArguments",
+  "id": "version-3.0.0/reference/interfaces/StandardPermitArguments",
+  "isDocsHomePage": false,
+  "title": "StandardPermitArguments",
+  "description": "Properties",
+  "source": "@site/SDK_versioned_docs/version-3.0.0/reference/interfaces/selfpermit.standardpermitarguments.md",
+  "sourceDirName": "reference/interfaces",
+  "slug": "/reference/interfaces/StandardPermitArguments",
+  "permalink": "/sdk/reference/interfaces/StandardPermitArguments",
+  "version": "3.0.0",
+  "frontMatter": {
+    "id": "StandardPermitArguments",
+    "title": "StandardPermitArguments"
+  },
+  "sidebar": "version-V3/sdksidebar",
+  "previous": {
+    "title": "AllowedPermitArguments",
+    "permalink": "/sdk/reference/interfaces/AllowedPermitArguments"
+  },
+  "next": {
+    "title": "FeeOptions",
+    "permalink": "/sdk/reference/interfaces/FeeOptions"
+  }
+}

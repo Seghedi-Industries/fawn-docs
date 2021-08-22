@@ -1,0 +1,25 @@
+{
+  "unversionedId": "reference/classes/SelfPermit",
+  "id": "version-3.0.0/reference/classes/SelfPermit",
+  "isDocsHomePage": false,
+  "title": "SelfPermit",
+  "description": "Hierarchy",
+  "source": "@site/SDK_versioned_docs/version-3.0.0/reference/classes/selfpermit.selfpermit-1.md",
+  "sourceDirName": "reference/classes",
+  "slug": "/reference/classes/SelfPermit",
+  "permalink": "/sdk/reference/classes/SelfPermit",
+  "version": "3.0.0",
+  "frontMatter": {
+    "id": "SelfPermit",
+    "title": "SelfPermit"
+  },
+  "sidebar": "version-V3/sdksidebar",
+  "previous": {
+    "title": "NonfungiblePositionManager",
+    "permalink": "/sdk/reference/classes/NonfungiblePositionManager"
+  },
+  "next": {
+    "title": "SwapRouter",
+    "permalink": "/sdk/reference/classes/SwapRouter"
+  }
+}

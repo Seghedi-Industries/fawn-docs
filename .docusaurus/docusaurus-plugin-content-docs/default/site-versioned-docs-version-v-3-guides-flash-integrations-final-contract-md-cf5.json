@@ -1,0 +1,28 @@
+{
+  "unversionedId": "guides/flash-integrations/final-contract",
+  "id": "version-V3/guides/flash-integrations/final-contract",
+  "isDocsHomePage": false,
+  "title": "The Final Contract",
+  "description": "The Full Contract",
+  "source": "@site/versioned_docs/version-V3/guides/flash-integrations/final-contract.md",
+  "sourceDirName": "guides/flash-integrations",
+  "slug": "/guides/flash-integrations/final-contract",
+  "permalink": "/protocol/guides/flash-integrations/final-contract",
+  "editUrl": "https://github.com/uniswap/uniswap-docs/tree/main/versioned_docs/version-V3/guides/flash-integrations/final-contract.md",
+  "version": "V3",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "id": "final-contract",
+    "title": "The Final Contract",
+    "sidebar_position": 4
+  },
+  "sidebar": "version-V3/mySidebar",
+  "previous": {
+    "title": "The Flash Callback",
+    "permalink": "/protocol/guides/flash-integrations/flash-callback"
+  },
+  "next": {
+    "title": "Smart Contracts Overview",
+    "permalink": "/protocol/reference/smart-contracts"
+  }
+}

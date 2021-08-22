@@ -1,0 +1,23 @@
+{
+  "unversionedId": "reference/periphery/interfaces/external/IERC1271",
+  "id": "version-V3/reference/periphery/interfaces/external/IERC1271",
+  "isDocsHomePage": false,
+  "title": "IERC1271",
+  "description": "Interface that verifies provided signature for the data",
+  "source": "@site/versioned_docs/version-V3/reference/periphery/interfaces/external/IERC1271.md",
+  "sourceDirName": "reference/periphery/interfaces/external",
+  "slug": "/reference/periphery/interfaces/external/IERC1271",
+  "permalink": "/protocol/reference/periphery/interfaces/external/IERC1271",
+  "editUrl": "https://github.com/uniswap/uniswap-docs/tree/main/versioned_docs/version-V3/reference/periphery/interfaces/external/IERC1271.md",
+  "version": "V3",
+  "frontMatter": {},
+  "sidebar": "version-V3/mySidebar",
+  "previous": {
+    "title": "IV3Migrator",
+    "permalink": "/protocol/reference/periphery/interfaces/IV3Migrator"
+  },
+  "next": {
+    "title": "IERC20PermitAllowed",
+    "permalink": "/protocol/reference/periphery/interfaces/external/IERC20PermitAllowed"
+  }
+}

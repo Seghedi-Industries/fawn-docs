@@ -1,0 +1,28 @@
+{
+  "unversionedId": "concepts/governance/adversarial-circumstances",
+  "id": "version-V3/concepts/governance/adversarial-circumstances",
+  "isDocsHomePage": false,
+  "title": "Adversarial Circumstances",
+  "description": "This document explores some adversarial circumstances which Uniswap Governance may encounter in the future. Its goal is to help those interested in Uniswap Governance understand the reasoning behind some of its design, its limitations, and potential avenues for growth.",
+  "source": "@site/versioned_docs/version-V3/concepts/governance/05-adversarial-circumstances.md",
+  "sourceDirName": "concepts/governance",
+  "slug": "/concepts/governance/adversarial-circumstances",
+  "permalink": "/protocol/concepts/governance/adversarial-circumstances",
+  "editUrl": "https://github.com/uniswap/uniswap-docs/tree/main/versioned_docs/version-V3/concepts/governance/05-adversarial-circumstances.md",
+  "version": "V3",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "id": "adversarial-circumstances",
+    "title": "Adversarial Circumstances",
+    "tags": "goveranance, documentation"
+  },
+  "sidebar": "version-V3/mySidebar",
+  "previous": {
+    "title": "Glossary",
+    "permalink": "/protocol/concepts/governance/glossary"
+  },
+  "next": {
+    "title": "Governance Reference",
+    "permalink": "/protocol/concepts/governance/governance-reference"
+  }
+}

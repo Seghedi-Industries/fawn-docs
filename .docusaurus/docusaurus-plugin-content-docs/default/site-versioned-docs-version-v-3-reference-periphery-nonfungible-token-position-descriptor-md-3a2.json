@@ -1,0 +1,23 @@
+{
+  "unversionedId": "reference/periphery/NonfungibleTokenPositionDescriptor",
+  "id": "version-V3/reference/periphery/NonfungibleTokenPositionDescriptor",
+  "isDocsHomePage": false,
+  "title": "NonfungibleTokenPositionDescriptor",
+  "description": "Produces a string containing the data URI for a JSON metadata string",
+  "source": "@site/versioned_docs/version-V3/reference/periphery/NonfungibleTokenPositionDescriptor.md",
+  "sourceDirName": "reference/periphery",
+  "slug": "/reference/periphery/NonfungibleTokenPositionDescriptor",
+  "permalink": "/protocol/reference/periphery/NonfungibleTokenPositionDescriptor",
+  "editUrl": "https://github.com/uniswap/uniswap-docs/tree/main/versioned_docs/version-V3/reference/periphery/NonfungibleTokenPositionDescriptor.md",
+  "version": "V3",
+  "frontMatter": {},
+  "sidebar": "version-V3/mySidebar",
+  "previous": {
+    "title": "NonfungiblePositionManager",
+    "permalink": "/protocol/reference/periphery/NonfungiblePositionManager"
+  },
+  "next": {
+    "title": "SwapRouter",
+    "permalink": "/protocol/reference/periphery/SwapRouter"
+  }
+}

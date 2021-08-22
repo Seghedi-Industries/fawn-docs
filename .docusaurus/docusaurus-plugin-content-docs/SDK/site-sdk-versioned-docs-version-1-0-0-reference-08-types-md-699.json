@@ -1,0 +1,22 @@
+{
+  "unversionedId": "reference/types",
+  "id": "version-1.0.0/reference/types",
+  "isDocsHomePage": false,
+  "title": "Types",
+  "description": "Below is an exhaustive list of all the external types used in the SDK.",
+  "source": "@site/SDK_versioned_docs/version-1.0.0/reference/08-types.md",
+  "sourceDirName": "reference",
+  "slug": "/reference/types",
+  "permalink": "/sdk/1.0.0/reference/types",
+  "version": "1.0.0",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "id": "types",
+    "title": "Types"
+  },
+  "sidebar": "version-V1/sdksidebar",
+  "previous": {
+    "title": "Constants",
+    "permalink": "/sdk/1.0.0/reference/constants"
+  }
+}

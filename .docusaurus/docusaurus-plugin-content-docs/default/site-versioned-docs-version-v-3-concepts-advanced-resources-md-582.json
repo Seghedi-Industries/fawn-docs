@@ -1,0 +1,25 @@
+{
+  "unversionedId": "concepts/advanced/resources",
+  "id": "version-V3/concepts/advanced/resources",
+  "isDocsHomePage": false,
+  "title": "Resources",
+  "description": "This page will be periodically updated with helpful resources for calculations and software design as they are made available.",
+  "source": "@site/versioned_docs/version-V3/concepts/advanced/resources.md",
+  "sourceDirName": "concepts/advanced",
+  "slug": "/concepts/advanced/resources",
+  "permalink": "/protocol/concepts/advanced/resources",
+  "editUrl": "https://github.com/uniswap/uniswap-docs/tree/main/versioned_docs/version-V3/concepts/advanced/resources.md",
+  "version": "V3",
+  "frontMatter": {
+    "title": "Resources"
+  },
+  "sidebar": "version-V3/mySidebar",
+  "previous": {
+    "title": "Research",
+    "permalink": "/protocol/concepts/advanced/research"
+  },
+  "next": {
+    "title": "Overview",
+    "permalink": "/protocol/concepts/governance/overview"
+  }
+}

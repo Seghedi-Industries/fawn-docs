@@ -1,0 +1,27 @@
+{
+  "unversionedId": "reference/periphery/staker/Design",
+  "id": "version-V3/reference/periphery/staker/Design",
+  "isDocsHomePage": false,
+  "title": "Uniswap V3 Staker Design",
+  "description": "The liquidity mining staker design is comprised of one canonical position staking contract, Staker. The technical reference for this contract is here and the source code is here.",
+  "source": "@site/versioned_docs/version-V3/reference/periphery/staker/Design.md",
+  "sourceDirName": "reference/periphery/staker",
+  "slug": "/reference/periphery/staker/Design",
+  "permalink": "/protocol/reference/periphery/staker/Design",
+  "editUrl": "https://github.com/uniswap/uniswap-docs/tree/main/versioned_docs/version-V3/reference/periphery/staker/Design.md",
+  "version": "V3",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_label": "Uniswap V3 Staker Design",
+    "sidebar_position": 1
+  },
+  "sidebar": "version-V3/mySidebar",
+  "previous": {
+    "title": "TransferHelper",
+    "permalink": "/protocol/reference/periphery/libraries/TransferHelper"
+  },
+  "next": {
+    "title": "Uniswap V3 Staker Contract",
+    "permalink": "/protocol/reference/periphery/staker/UniswapV3Staker"
+  }
+}

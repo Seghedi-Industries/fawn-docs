@@ -1,0 +1,27 @@
+{
+  "unversionedId": "guides/custom-linking",
+  "id": "version-V1/guides/custom-linking",
+  "isDocsHomePage": false,
+  "title": "Custom Linking",
+  "description": "The Uniswap front-end supports URL query parameters to allow for custom linking to the Uniswap exchange. Users and developers can use these query parameters to link to the Uniswap exchange with custom prefilled settings.",
+  "source": "@site/versioned_docs/version-V1/guides/04-custom-linking.md",
+  "sourceDirName": "guides",
+  "slug": "/guides/custom-linking",
+  "permalink": "/protocol/V1/guides/custom-linking",
+  "editUrl": "https://github.com/uniswap/uniswap-docs/tree/main/versioned_docs/version-V1/guides/04-custom-linking.md",
+  "version": "V1",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "id": "custom-linking",
+    "title": "Custom Linking"
+  },
+  "sidebar": "version-V1/mySidebar",
+  "previous": {
+    "title": "Trade Tokens",
+    "permalink": "/protocol/V1/guides/trade-tokens"
+  },
+  "next": {
+    "title": "Iframe Integration",
+    "permalink": "/protocol/V1/guides/iframe-integration"
+  }
+}

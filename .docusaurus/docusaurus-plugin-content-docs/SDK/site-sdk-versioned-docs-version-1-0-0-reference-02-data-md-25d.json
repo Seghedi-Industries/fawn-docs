@@ -1,0 +1,26 @@
+{
+  "unversionedId": "reference/data",
+  "id": "version-1.0.0/reference/data",
+  "isDocsHomePage": false,
+  "title": "Data",
+  "description": "This function fetches Uniswap reserve data for a given token address on a given network.",
+  "source": "@site/SDK_versioned_docs/version-1.0.0/reference/02-data.md",
+  "sourceDirName": "reference",
+  "slug": "/reference/data",
+  "permalink": "/sdk/1.0.0/reference/data",
+  "version": "1.0.0",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "data",
+    "title": "Data"
+  },
+  "sidebar": "version-V1/sdksidebar",
+  "previous": {
+    "title": "Getting Started",
+    "permalink": "/sdk/1.0.0/guides/getting-started"
+  },
+  "next": {
+    "title": "Computation",
+    "permalink": "/sdk/1.0.0/reference/computation"
+  }
+}

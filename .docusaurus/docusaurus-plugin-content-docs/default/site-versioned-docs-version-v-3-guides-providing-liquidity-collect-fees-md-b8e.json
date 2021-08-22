@@ -1,0 +1,28 @@
+{
+  "unversionedId": "guides/providing-liquidity/collect-fees",
+  "id": "version-V3/guides/providing-liquidity/collect-fees",
+  "isDocsHomePage": false,
+  "title": "Collecting Fees",
+  "description": "Collect Fees",
+  "source": "@site/versioned_docs/version-V3/guides/providing-liquidity/collect-fees.md",
+  "sourceDirName": "guides/providing-liquidity",
+  "slug": "/guides/providing-liquidity/collect-fees",
+  "permalink": "/protocol/guides/providing-liquidity/collect-fees",
+  "editUrl": "https://github.com/uniswap/uniswap-docs/tree/main/versioned_docs/version-V3/guides/providing-liquidity/collect-fees.md",
+  "version": "V3",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "id": "collect-fees",
+    "title": "Collecting Fees",
+    "sidebar_position": 3
+  },
+  "sidebar": "version-V3/mySidebar",
+  "previous": {
+    "title": "Mint a New Position",
+    "permalink": "/protocol/guides/providing-liquidity/mint-a-position"
+  },
+  "next": {
+    "title": "Decrease Liquidity",
+    "permalink": "/protocol/guides/providing-liquidity/decrease-liquidity"
+  }
+}
