@@ -1,0 +1,181 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "versionLabel": "Next",
+          "versionPath": "/docs",
+          "versionEditUrl": "https://github.com/Seghedi-Industries/fawn-docs/edit/main/docs",
+          "versionEditUrlLocalized": "https://github.com/Seghedi-Industries/fawn-docs/edit/main/i18n/en/docusaurus-plugin-content-docs/current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "/Users/robertseghedi/Documents/GitHub/fawn-docs/sidebars.js",
+          "contentPath": "/Users/robertseghedi/Documents/GitHub/fawn-docs/docs",
+          "contentPathLocalized": "/Users/robertseghedi/Documents/GitHub/fawn-docs/i18n/en/docusaurus-plugin-content-docs/current",
+          "mainDocId": "getting-started",
+          "sidebars": {
+            "docs": [
+              {
+                "collapsed": true,
+                "type": "category",
+                "label": "Intro",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "getting-started"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "test"
+                  }
+                ]
+              }
+            ]
+          },
+          "permalinkToSidebar": {
+            "/docs/": "docs",
+            "/docs/test": "docs"
+          },
+          "docs": [
+            {
+              "unversionedId": "getting-started",
+              "id": "getting-started",
+              "isDocsHomePage": false,
+              "title": "Getting Started Now",
+              "description": "Let's start",
+              "source": "@site/docs/getting-started.mdx",
+              "slug": "/",
+              "permalink": "/docs/",
+              "editUrl": "https://github.com/Seghedi-Industries/fawn-docs/edit/main/docs/getting-started.mdx",
+              "version": "current",
+              "sidebar": "docs",
+              "next": {
+                "title": "test",
+                "permalink": "/docs/test"
+              }
+            },
+            {
+              "unversionedId": "test",
+              "id": "test",
+              "isDocsHomePage": false,
+              "title": "test",
+              "description": "Testing",
+              "source": "@site/docs/test.md",
+              "slug": "/test",
+              "permalink": "/docs/test",
+              "editUrl": "https://github.com/Seghedi-Industries/fawn-docs/edit/main/docs/test.md",
+              "version": "current",
+              "sidebar": "docs",
+              "previous": {
+                "title": "Getting Started Now",
+                "permalink": "/docs/"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogPosts": [
+        {
+          "id": "welcome",
+          "metadata": {
+            "permalink": "/blog/welcome",
+            "editUrl": "https://github.com/Seghedi-Industries/fawn-docs/edit/main/blog/2021-04-13-welcome.md",
+            "source": "@site/blog/2021-04-13-welcome.md",
+            "description": "Welcome!",
+            "date": "2021-04-13T00:00:00.000Z",
+            "formattedDate": "April 13, 2021",
+            "tags": [
+              {
+                "label": "vouchpanel",
+                "permalink": "/blog/tags/vouchpanel"
+              },
+              {
+                "label": "welcome",
+                "permalink": "/blog/tags/welcome"
+              }
+            ],
+            "title": "The beginning!",
+            "readingTime": 1.18,
+            "truncated": false
+          }
+        }
+      ],
+      "blogListPaginated": [
+        {
+          "metadata": {
+            "permalink": "/blog",
+            "page": 1,
+            "postsPerPage": 10,
+            "totalPages": 1,
+            "totalCount": 1,
+            "previousPage": null,
+            "nextPage": null,
+            "blogDescription": "Blog",
+            "blogTitle": "Blog"
+          },
+          "items": [
+            "welcome"
+          ]
+        }
+      ],
+      "blogTags": {
+        "vouchpanel": {
+          "name": "vouchpanel",
+          "items": [
+            "welcome"
+          ],
+          "permalink": "/blog/tags/vouchpanel"
+        },
+        "welcome": {
+          "name": "welcome",
+          "items": [
+            "welcome"
+          ],
+          "permalink": "/blog/tags/welcome"
+        }
+      },
+      "blogTagsListPath": "/blog/tags"
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/",
+        "source": "@site/src/pages/index.js"
+      },
+      {
+        "type": "mdx",
+        "permalink": "/markdown-page",
+        "source": "@site/src/pages/markdown-page.md"
+      },
+      {
+        "type": "jsx",
+        "permalink": "/pricing",
+        "source": "@site/src/pages/pricing.tsx"
+      },
+      {
+        "type": "jsx",
+        "permalink": "/wall",
+        "source": "@site/src/pages/wall.tsx"
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {
+    "default": null
+  },
+  "docusaurus-theme-classic": {
+    "default": null
+  },
+  "postcss-tailwindcss-loader": {
+    "default": null
+  },
+  "docusaurus-plugin-ideal-image": {
+    "default": null
+  }
+}
