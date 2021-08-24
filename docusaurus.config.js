@@ -3,15 +3,15 @@
 const path = require("path");
 
 module.exports = {
-  title: "vouchpanel",
-  tagline: "The simplest way to embed tweets and testimonials on your website.",
-  url: "https://vouchpanel.com",
+  title: "Fawn",
+  tagline: "Pythoning news and blogs efficiently.",
+  url: "https://fawn.dev",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
-  organizationName: "vouchpanel", // Usually your GitHub org/user name.
-  projectName: "vouchpanel", // Usually your repo name.
+  organizationName: "Seghedi-Industries", // Usually your GitHub org/user name.
+  projectName: "fawn", // Usually your repo name.
   plugins: [
     path.resolve(__dirname, "plugins/loaders"),
     "@docusaurus/plugin-ideal-image",
@@ -24,9 +24,9 @@ module.exports = {
     },
 
     navbar: {
-      title: "Vouchpanel",
+      title: "Fawn",
       logo: {
-        alt: "Vouchpanel Logo",
+        alt: "Fawn Logo",
         src: "img/logo.svg",
       },
       items: [
@@ -38,14 +38,9 @@ module.exports = {
         },
         { to: "blog", label: "Blog", position: "left" },
         {
-          href: "https://github.com/vouchpanel",
+          href: "https://github.com/Seghedi-Industries/fawn",
           label: "GitHub",
           position: "left",
-        },
-        {
-          href: "https://app.vouchpanel.com/signup",
-          label: "Signup",
-          position: "right",
         },
       ],
     },
@@ -58,15 +53,6 @@ module.exports = {
             {
               label: "Getting Started",
               to: "/docs",
-            },
-          ],
-        },
-        {
-          title: "Pricing",
-          items: [
-            {
-              label: "Pricing",
-              to: "/pricing",
             },
           ],
         },
@@ -94,14 +80,10 @@ module.exports = {
               label: "Blog",
               to: "blog",
             },
-            {
-              label: "Sign up",
-              href: "https://app.vouchpanel.com/signup",
-            },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Vouchpanel, Inc.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Fawn.`,
     },
   },
   presets: [
@@ -111,12 +93,12 @@ module.exports = {
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
-          editUrl: "https://github.com/vouchpanel/vouchpanel-site/edit/main/",
+          editUrl: "https://github.com/Seghedi-Industries/fawn-docs/edit/main/",
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
-          editUrl: "https://github.com/vouchpanel/vouchpanel-site/edit/main/",
+          editUrl: "https://github.com/Seghedi-Industries/fawn-docs/edit/main/",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),

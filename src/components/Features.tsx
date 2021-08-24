@@ -5,7 +5,7 @@ export const Features = (props: {}) => {
     <div className="py-12 bg-white">
       <div className="max-w-xl px-4 mx-auto sm:px-6 lg:max-w-7xl lg:px-8">
         <h2 className="sr-only">
-          The easiest way to embed twitter testimonials.
+          The easiest way to post something.
         </h2>
         <dl className="space-y-10 lg:space-y-0 lg:grid lg:grid-cols-3 lg:gap-8">
           <div>
@@ -32,7 +32,7 @@ export const Features = (props: {}) => {
               </p>
             </dt>
             <dd className="mt-2 text-base text-gray-500">
-              Your social proofs will load off a CDN in less than 10ms.
+              Your news or posts will load off a CDN in less than 10ms.
             </dd>
           </div>
 
@@ -56,11 +56,11 @@ export const Features = (props: {}) => {
                 </svg>
               </div>
               <p className="mt-5 text-lg font-medium leading-6 text-gray-900">
-                Compatible with ... everything!
+                Secure
               </p>
             </dt>
             <dd className="mt-2 text-base text-gray-500">
-              Works with React, Vue, Webflow, Shopify, Squarespace, Wix, etc...
+              One of our favorite assets at Fawn is that it's bulletproof.
             </dd>
           </div>
 
@@ -84,12 +84,11 @@ export const Features = (props: {}) => {
                 </svg>
               </div>
               <p className="mt-5 text-lg font-medium leading-6 text-gray-900">
-                No code
+                Serverless
               </p>
             </dt>
             <dd className="mt-2 text-base text-gray-500">
-              You don't need to juggle API keys, javascript, html, and css. Get
-              started in seconds rather than hours.
+              Fawn is cloud-based (mainly AWS), so you'll pay to your hosting provider only for what you use.
             </dd>
           </div>
         </dl>

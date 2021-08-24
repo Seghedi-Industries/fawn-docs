@@ -79,32 +79,31 @@ export const Hero = (props: {}) => {
         <main className="px-4 mx-auto mt-16 max-w-7xl sm:mt-24">
           <div className="text-center">
             <h1 className="text-4xl font-extrabold tracking-tight text-gray-900 sm:text-5xl md:text-6xl">
-              <span className="block xl:inline">Social proof</span>
+              <span className="block xl:inline">Pythoning</span>
               <span className="block text-blue-600 xl:inline">
                 {" "}
-                for your business
+                news and blogs
               </span>
             </h1>
             <p className="max-w-md mx-auto mt-3 text-base text-gray-500 sm:text-lg md:mt-5 md:text-xl md:max-w-3xl">
-              The simplest way to embed tweets onto your companies website.
-              Works with Webflow, Shopify, Squarespace, React, Vue, and{" "}
+              The simplest way to safely-share your news or articles in record time. You'll definitely pay less to your hosting provider with Fawn. Read{" "}
               <a href="/docs">more</a>!
             </p>
             <div className="max-w-md mx-auto mt-5 sm:flex sm:justify-center md:mt-8">
               <div className="rounded-md shadow">
                 <a
-                  href="https://app.vouchpanel.com/"
+                  href="https://fawn.dev/docs/"
                   className="flex items-center justify-center w-full px-8 py-3 text-base font-medium text-white bg-blue-600 border border-transparent rounded-md hover:bg-blue-700 md:py-4 md:text-lg md:px-10"
                 >
-                  Get started
+                  Launch
                 </a>
               </div>
               <div className="mt-3 rounded-md shadow sm:mt-0 sm:ml-3">
                 <a
-                  href="/wall"
+                  href="/blog"
                   className="flex items-center justify-center w-full px-8 py-3 text-base font-medium text-blue-600 bg-white border border-transparent rounded-md hover:bg-gray-50 md:py-4 md:text-lg md:px-10"
                 >
-                  See an example
+                  News
                 </a>
               </div>
             </div>
