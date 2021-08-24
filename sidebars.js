@@ -2,14 +2,9 @@ module.exports = {
   docs: [
     {
       type: "category",
-      label: "Vouchpanel Tutorial",
+      label: "Intro",
       items: [
         "getting-started",
-        "react",
-        "vue",
-        "angular",
-        "vanilla",
-        "svelte",
       ],
     },
   ],
