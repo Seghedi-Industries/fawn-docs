@@ -1,0 +1,21 @@
+{
+  "permalink": "/blog/welcome",
+  "editUrl": "https://github.com/Seghedi-Industries/fawn-docs/edit/main/blog/2021-04-13-welcome.md",
+  "source": "@site/blog/2021-04-13-welcome.md",
+  "description": "Welcome!",
+  "date": "2021-04-13T00:00:00.000Z",
+  "formattedDate": "April 13, 2021",
+  "tags": [
+    {
+      "label": "vouchpanel",
+      "permalink": "/blog/tags/vouchpanel"
+    },
+    {
+      "label": "welcome",
+      "permalink": "/blog/tags/welcome"
+    }
+  ],
+  "title": "The beginning!",
+  "readingTime": 1.18,
+  "truncated": false
+}

@@ -1,0 +1,17 @@
+{
+  "unversionedId": "test",
+  "id": "test",
+  "isDocsHomePage": false,
+  "title": "test",
+  "description": "Testing",
+  "source": "@site/docs/test.md",
+  "slug": "/test",
+  "permalink": "/docs/test",
+  "editUrl": "https://github.com/Seghedi-Industries/fawn-docs/edit/main/docs/test.md",
+  "version": "current",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Getting Started Now",
+    "permalink": "/docs/"
+  }
+}

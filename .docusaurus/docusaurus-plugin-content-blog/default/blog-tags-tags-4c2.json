@@ -1,30 +1,16 @@
 {
-  "facebook": {
+  "vouchpanel": {
     "allTagsPath": "/blog/tags",
-    "slug": "facebook",
-    "name": "facebook",
+    "slug": "vouchpanel",
+    "name": "vouchpanel",
     "count": 1,
-    "permalink": "/blog/tags/facebook"
+    "permalink": "/blog/tags/vouchpanel"
   },
-  "hello": {
+  "welcome": {
     "allTagsPath": "/blog/tags",
-    "slug": "hello",
-    "name": "hello",
-    "count": 2,
-    "permalink": "/blog/tags/hello"
-  },
-  "docusaurus": {
-    "allTagsPath": "/blog/tags",
-    "slug": "docusaurus",
-    "name": "docusaurus",
-    "count": 3,
-    "permalink": "/blog/tags/docusaurus"
-  },
-  "hola": {
-    "allTagsPath": "/blog/tags",
-    "slug": "hola",
-    "name": "hola",
+    "slug": "welcome",
+    "name": "welcome",
     "count": 1,
-    "permalink": "/blog/tags/hola"
+    "permalink": "/blog/tags/welcome"
   }
 }

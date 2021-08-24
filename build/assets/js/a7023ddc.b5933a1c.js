@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[13],{84:function(a){a.exports=JSON.parse('{"vouchpanel":{"allTagsPath":"/blog/tags","slug":"vouchpanel","name":"vouchpanel","count":1,"permalink":"/blog/tags/vouchpanel"},"welcome":{"allTagsPath":"/blog/tags","slug":"welcome","name":"welcome","count":1,"permalink":"/blog/tags/welcome"}}')}}]);

@@ -2,71 +2,30 @@
   "pluginId": "default",
   "version": "current",
   "label": "Next",
-  "banner": "none",
   "isLast": true,
   "docsSidebars": {
-    "tutorialSidebar": [
+    "docs": [
       {
-        "type": "link",
-        "label": "Tutorial Intro",
-        "href": "/docs/intro"
-      },
-      {
+        "collapsed": true,
         "type": "category",
-        "label": "Tutorial - Basics",
+        "label": "Intro",
         "items": [
           {
             "type": "link",
-            "label": "Create a Page",
-            "href": "/docs/tutorial-basics/create-a-page"
+            "label": "Getting Started Now",
+            "href": "/docs/"
           },
           {
             "type": "link",
-            "label": "Create a Document",
-            "href": "/docs/tutorial-basics/create-a-document"
-          },
-          {
-            "type": "link",
-            "label": "Create a Blog Post",
-            "href": "/docs/tutorial-basics/create-a-blog-post"
-          },
-          {
-            "type": "link",
-            "label": "Markdown Features",
-            "href": "/docs/tutorial-basics/markdown-features"
-          },
-          {
-            "type": "link",
-            "label": "Deploy your site",
-            "href": "/docs/tutorial-basics/deploy-your-site"
-          },
-          {
-            "type": "link",
-            "label": "Congratulations!",
-            "href": "/docs/tutorial-basics/congratulations"
+            "label": "test",
+            "href": "/docs/test"
           }
-        ],
-        "collapsed": true,
-        "collapsible": true
-      },
-      {
-        "type": "category",
-        "label": "Tutorial - Extras",
-        "items": [
-          {
-            "type": "link",
-            "label": "Manage Docs Versions",
-            "href": "/docs/tutorial-extras/manage-docs-versions"
-          },
-          {
-            "type": "link",
-            "label": "Translate your site",
-            "href": "/docs/tutorial-extras/translate-your-site"
-          }
-        ],
-        "collapsed": true,
-        "collapsible": true
+        ]
       }
     ]
+  },
+  "permalinkToSidebar": {
+    "/docs/": "docs",
+    "/docs/test": "docs"
   }
 }

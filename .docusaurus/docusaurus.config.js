@@ -1,6 +1,6 @@
 export default {
   "title": "Fawn",
-  "tagline": "Pythoning the news and blogs.",
+  "tagline": "Pythoning news and blogs efficiently.",
   "url": "https://fawn.dev",
   "baseUrl": "/",
   "onBrokenLinks": "throw",
@@ -8,30 +8,44 @@ export default {
   "favicon": "img/favicon.ico",
   "organizationName": "Seghedi-Industries",
   "projectName": "fawn",
+  "plugins": [
+    "/Users/robertseghedi/Documents/GitHub/fawn-docs/plugins/loaders",
+    "@docusaurus/plugin-ideal-image"
+  ],
   "themeConfig": {
+    "colorMode": {
+      "disableSwitch": true,
+      "respectPrefersColorScheme": false,
+      "defaultMode": "light",
+      "switchConfig": {
+        "darkIcon": "🌜",
+        "darkIconStyle": {},
+        "lightIcon": "🌞",
+        "lightIconStyle": {}
+      }
+    },
     "navbar": {
       "title": "Fawn",
       "logo": {
-        "alt": "My Site Logo",
+        "alt": "Fawn Logo",
         "src": "img/logo.svg"
       },
       "items": [
         {
-          "type": "doc",
-          "docId": "intro",
-          "position": "left",
-          "label": "Tutorial",
-          "activeSidebarClassName": "navbar__link--active"
+          "to": "docs/",
+          "activeBasePath": "docs",
+          "label": "Docs",
+          "position": "left"
         },
         {
-          "to": "/blog",
+          "to": "blog",
           "label": "Blog",
           "position": "left"
         },
         {
-          "href": "https://github.com/facebook/docusaurus",
+          "href": "https://github.com/Seghedi-Industries/fawn",
           "label": "GitHub",
-          "position": "right"
+          "position": "left"
         }
       ],
       "hideOnScroll": false
@@ -43,25 +57,25 @@ export default {
           "title": "Docs",
           "items": [
             {
-              "label": "Tutorial",
-              "to": "/docs/intro"
+              "label": "Getting Started",
+              "to": "/docs"
             }
           ]
         },
         {
-          "title": "Community",
+          "title": "Features",
           "items": [
             {
-              "label": "Stack Overflow",
-              "href": "https://stackoverflow.com/questions/tagged/docusaurus"
+              "label": "Content Delivery Network",
+              "href": "/features/content-delivery-network/"
             },
             {
-              "label": "Discord",
-              "href": "https://discordapp.com/invite/docusaurus"
+              "label": "Small Size",
+              "href": "/features/small-size/"
             },
             {
-              "label": "Twitter",
-              "href": "https://twitter.com/docusaurus"
+              "label": "No Code",
+              "href": "/features/no-code/"
             }
           ]
         },
@@ -70,226 +84,20 @@ export default {
           "items": [
             {
               "label": "Blog",
-              "to": "/blog"
-            },
-            {
-              "label": "GitHub",
-              "href": "https://github.com/facebook/docusaurus"
+              "to": "blog"
             }
           ]
         }
       ],
-      "copyright": "Copyright © 2021 My Project, Inc. Built with Docusaurus."
-    },
-    "prism": {
-      "theme": {
-        "plain": {
-          "color": "#393A34",
-          "backgroundColor": "#f6f8fa"
-        },
-        "styles": [
-          {
-            "types": [
-              "comment",
-              "prolog",
-              "doctype",
-              "cdata"
-            ],
-            "style": {
-              "color": "#999988",
-              "fontStyle": "italic"
-            }
-          },
-          {
-            "types": [
-              "namespace"
-            ],
-            "style": {
-              "opacity": 0.7
-            }
-          },
-          {
-            "types": [
-              "string",
-              "attr-value"
-            ],
-            "style": {
-              "color": "#e3116c"
-            }
-          },
-          {
-            "types": [
-              "punctuation",
-              "operator"
-            ],
-            "style": {
-              "color": "#393A34"
-            }
-          },
-          {
-            "types": [
-              "entity",
-              "url",
-              "symbol",
-              "number",
-              "boolean",
-              "variable",
-              "constant",
-              "property",
-              "regex",
-              "inserted"
-            ],
-            "style": {
-              "color": "#36acaa"
-            }
-          },
-          {
-            "types": [
-              "atrule",
-              "keyword",
-              "attr-name",
-              "selector"
-            ],
-            "style": {
-              "color": "#00a4db"
-            }
-          },
-          {
-            "types": [
-              "function",
-              "deleted",
-              "tag"
-            ],
-            "style": {
-              "color": "#d73a49"
-            }
-          },
-          {
-            "types": [
-              "function-variable"
-            ],
-            "style": {
-              "color": "#6f42c1"
-            }
-          },
-          {
-            "types": [
-              "tag",
-              "selector",
-              "keyword"
-            ],
-            "style": {
-              "color": "#00009f"
-            }
-          }
-        ]
-      },
-      "darkTheme": {
-        "plain": {
-          "color": "#F8F8F2",
-          "backgroundColor": "#282A36"
-        },
-        "styles": [
-          {
-            "types": [
-              "prolog",
-              "constant",
-              "builtin"
-            ],
-            "style": {
-              "color": "rgb(189, 147, 249)"
-            }
-          },
-          {
-            "types": [
-              "inserted",
-              "function"
-            ],
-            "style": {
-              "color": "rgb(80, 250, 123)"
-            }
-          },
-          {
-            "types": [
-              "deleted"
-            ],
-            "style": {
-              "color": "rgb(255, 85, 85)"
-            }
-          },
-          {
-            "types": [
-              "changed"
-            ],
-            "style": {
-              "color": "rgb(255, 184, 108)"
-            }
-          },
-          {
-            "types": [
-              "punctuation",
-              "symbol"
-            ],
-            "style": {
-              "color": "rgb(248, 248, 242)"
-            }
-          },
-          {
-            "types": [
-              "string",
-              "char",
-              "tag",
-              "selector"
-            ],
-            "style": {
-              "color": "rgb(255, 121, 198)"
-            }
-          },
-          {
-            "types": [
-              "keyword",
-              "variable"
-            ],
-            "style": {
-              "color": "rgb(189, 147, 249)",
-              "fontStyle": "italic"
-            }
-          },
-          {
-            "types": [
-              "comment"
-            ],
-            "style": {
-              "color": "rgb(98, 114, 164)"
-            }
-          },
-          {
-            "types": [
-              "attr-name"
-            ],
-            "style": {
-              "color": "rgb(241, 250, 140)"
-            }
-          }
-        ]
-      },
-      "additionalLanguages": []
-    },
-    "colorMode": {
-      "defaultMode": "light",
-      "disableSwitch": false,
-      "respectPrefersColorScheme": false,
-      "switchConfig": {
-        "darkIcon": "🌜",
-        "darkIconStyle": {},
-        "lightIcon": "🌞",
-        "lightIconStyle": {}
-      }
+      "copyright": "Copyright © 2021 Fawn."
     },
     "docs": {
       "versionPersistence": "localStorage"
     },
     "metadatas": [],
+    "prism": {
+      "additionalLanguages": []
+    },
     "hideableSidebar": false
   },
   "presets": [
@@ -298,11 +106,11 @@ export default {
       {
         "docs": {
           "sidebarPath": "/Users/robertseghedi/Documents/GitHub/fawn-docs/sidebars.js",
-          "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/"
+          "editUrl": "https://github.com/Seghedi-Industries/fawn-docs/edit/main/"
         },
         "blog": {
           "showReadingTime": true,
-          "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/blog/"
+          "editUrl": "https://github.com/Seghedi-Industries/fawn-docs/edit/main/"
         },
         "theme": {
           "customCss": "/Users/robertseghedi/Documents/GitHub/fawn-docs/src/css/custom.css"
@@ -320,7 +128,6 @@ export default {
   },
   "onDuplicateRoutes": "warn",
   "customFields": {},
-  "plugins": [],
   "themes": [],
   "titleDelimiter": "|",
   "noIndex": false
