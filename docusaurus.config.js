@@ -1,107 +1,125 @@
-const lightCodeTheme = require('prism-react-renderer/themes/github');
-const darkCodeTheme = require('prism-react-renderer/themes/dracula');
-
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
+
+const path = require("path");
+
 module.exports = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
-  onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  title: "vouchpanel",
+  tagline: "The simplest way to embed tweets and testimonials on your website.",
+  url: "https://vouchpanel.com",
+  baseUrl: "/",
+  onBrokenLinks: "throw",
+  onBrokenMarkdownLinks: "warn",
+  favicon: "img/favicon.ico",
+  organizationName: "vouchpanel", // Usually your GitHub org/user name.
+  projectName: "vouchpanel", // Usually your repo name.
+  plugins: [
+    path.resolve(__dirname, "plugins/loaders"),
+    "@docusaurus/plugin-ideal-image",
+  ],
+
   themeConfig: {
+    colorMode: {
+      disableSwitch: true,
+      respectPrefersColorScheme: false,
+    },
+
     navbar: {
-      title: 'My Site',
+      title: "Vouchpanel",
       logo: {
-        alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        alt: "Vouchpanel Logo",
+        src: "img/logo.svg",
       },
       items: [
         {
-          type: 'doc',
-          docId: 'intro',
-          position: 'left',
-          label: 'Tutorial',
+          to: "docs/",
+          activeBasePath: "docs",
+          label: "Docs",
+          position: "left",
         },
-        {to: '/blog', label: 'Blog', position: 'left'},
+        { to: "blog", label: "Blog", position: "left" },
         {
-          href: 'https://github.com/facebook/docusaurus',
-          label: 'GitHub',
-          position: 'right',
+          href: "https://github.com/vouchpanel",
+          label: "GitHub",
+          position: "left",
+        },
+        {
+          href: "https://app.vouchpanel.com/signup",
+          label: "Signup",
+          position: "right",
         },
       ],
     },
     footer: {
-      style: 'dark',
+      style: "dark",
       links: [
         {
-          title: 'Docs',
+          title: "Docs",
           items: [
             {
-              label: 'Tutorial',
-              to: '/docs/intro',
+              label: "Getting Started",
+              to: "/docs",
             },
           ],
         },
         {
-          title: 'Community',
+          title: "Pricing",
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            },
-            {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              label: "Pricing",
+              to: "/pricing",
             },
           ],
         },
         {
-          title: 'More',
+          title: "Features",
           items: [
             {
-              label: 'Blog',
-              to: '/blog',
+              label: "Content Delivery Network",
+              href: "/features/content-delivery-network/",
             },
             {
-              label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              label: "Small Size",
+              href: "/features/small-size/",
+            },
+            {
+              label: "No Code",
+              href: "/features/no-code/",
+            },
+          ],
+        },
+        {
+          title: "More",
+          items: [
+            {
+              label: "Blog",
+              to: "blog",
+            },
+            {
+              label: "Sign up",
+              href: "https://app.vouchpanel.com/signup",
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
-    },
-    prism: {
-      theme: lightCodeTheme,
-      darkTheme: darkCodeTheme,
+      copyright: `Copyright © ${new Date().getFullYear()} Vouchpanel, Inc.`,
     },
   },
   presets: [
     [
-      '@docusaurus/preset-classic',
+      "@docusaurus/preset-classic",
       {
         docs: {
-          sidebarPath: require.resolve('./sidebars.js'),
+          sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
-          editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
+          editUrl: "https://github.com/vouchpanel/vouchpanel-site/edit/main/",
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
-          editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/blog/',
+          editUrl: "https://github.com/vouchpanel/vouchpanel-site/edit/main/",
         },
         theme: {
-          customCss: require.resolve('./src/css/custom.css'),
+          customCss: require.resolve("./src/css/custom.css"),
         },
       },
     ],

@@ -1,185 +1,50 @@
 export default {
   "title": "Fawn",
-  "tagline": "Documentation and Guides",
-  "url": "https://docs.uniswap.org/",
+  "tagline": "Pythoning the news and blogs.",
+  "url": "https://fawn.dev",
   "baseUrl": "/",
-  "onBrokenLinks": "warn",
-  "onBrokenMarkdownLinks": "ignore",
-  "favicon": "img/favicon.png",
-  "organizationName": "Seghedi Industries",
-  "projectName": "faws-docs",
+  "onBrokenLinks": "throw",
+  "onBrokenMarkdownLinks": "warn",
+  "favicon": "img/favicon.ico",
+  "organizationName": "Seghedi-Industries",
+  "projectName": "fawn",
   "themeConfig": {
-    "image": "img/twitter_card_bg.jpg",
-    "prism": {
-      "additionalLanguages": [
-        "solidity"
-      ]
-    },
-    "algolia": {
-      "apiKey": "32465e2ab6f7554ff014e64c0d92171c",
-      "indexName": "v3-docs",
-      "appId": "S0IDD0YGLZ",
-      "contextualSearch": false,
-      "searchParameters": {}
-    },
     "navbar": {
-      "title": "Fawn Docs",
+      "title": "Fawn",
       "logo": {
-        "alt": "Fawn Logo",
-        "src": "img/fawn_logo.svg"
+        "alt": "My Site Logo",
+        "src": "img/logo.svg"
       },
       "items": [
         {
-          "type": "docsVersionDropdown",
+          "type": "doc",
+          "docId": "intro",
           "position": "left",
-          "dropdownActiveClassDisabled": true,
-          "docsPluginId": "default",
-          "className": "persistent",
-          "dropdownItemsBefore": [],
-          "dropdownItemsAfter": []
+          "label": "Tutorial",
+          "activeSidebarClassName": "navbar__link--active"
         },
         {
-          "to": "/protocol/reference/smart-contracts",
-          "label": "Contracts",
-          "position": "left",
-          "className": "V3_active"
+          "to": "/blog",
+          "label": "Blog",
+          "position": "left"
         },
         {
-          "to": "/sdk/introduction",
-          "label": "SDK",
-          "position": "left",
-          "className": "V3_active"
-        },
-        {
-          "to": "/sdk/Subgraph%20data",
-          "label": "Subgraph (API)",
-          "position": "left",
-          "className": "V3_active"
-        },
-        {
-          "to": "/protocol/concepts/governance/governance-reference",
-          "label": "Governance",
-          "position": "left",
-          "className": "V3_active"
-        },
-        {
-          "to": "/protocol/V2/guides/smart-contract-integration/quick-start",
-          "label": "Contracts",
-          "position": "left",
-          "className": "V2_active"
-        },
-        {
-          "to": "/sdk/2.0.0/introduction",
-          "label": "SDK",
-          "position": "left",
-          "className": "V2_active"
-        },
-        {
-          "to": "/protocol/V2/reference/API/overview",
-          "label": "Subgraph (API)",
-          "position": "left",
-          "className": "V2_active"
-        },
-        {
-          "to": "/protocol/V2/reference/Governance/governance-reference",
-          "label": "Governance",
-          "position": "left",
-          "className": "V2_active"
-        },
-        {
-          "to": "/protocol/V1/guides/connect-to-uniswap",
-          "label": "Contracts",
-          "position": "left",
-          "className": "V1_active"
-        },
-        {
-          "to": "/sdk/1.0.0/introduction",
-          "label": "SDK",
-          "position": "left",
-          "className": "V1_active"
-        },
-        {
-          "href": "https://github.com/Seghedi-Industries/fawn",
+          "href": "https://github.com/facebook/docusaurus",
           "label": "GitHub",
-          "position": "right",
-          "className": "persistent"
-        },
-        {
-          "type": "localeDropdown",
-          "position": "right",
-          "dropdownItemsBefore": [],
-          "dropdownItemsAfter": [
-            {
-              "to": "https://my-site.com/help-us-translate",
-              "label": "Help us translate"
-            }
-          ]
+          "position": "right"
         }
       ],
       "hideOnScroll": false
     },
     "footer": {
+      "style": "dark",
       "links": [
         {
-          "title": "Developers",
+          "title": "Docs",
           "items": [
             {
-              "label": "Bug Bounty",
-              "href": "https://github.com/Uniswap/uniswap-v3-periphery/blob/main/bug-bounty.md"
-            },
-            {
-              "label": "#dev-chat",
-              "href": "https://discord.gg/ybKVQUWb4s"
-            },
-            {
-              "label": "Whitepaper",
-              "href": "https://uniswap.org/whitepaper-v3.pdf"
-            }
-          ]
-        },
-        {
-          "title": "Github",
-          "items": [
-            {
-              "label": "uniswap-v3-core",
-              "href": "https://github.com/Uniswap/uniswap-v3-core"
-            },
-            {
-              "label": "uniswap-v3-sdk",
-              "href": "https://github.com/Uniswap/uniswap-v3-sdk"
-            },
-            {
-              "label": "uniswap-v3-periphery",
-              "href": "https://github.com/Uniswap/uniswap-v3-periphery"
-            },
-            {
-              "label": "Deployment addresses",
-              "href": "https://github.com/Uniswap/uniswap-v3-periphery/blob/main/deploys.md"
-            }
-          ]
-        },
-        {
-          "title": "Ecosystem",
-          "items": [
-            {
-              "label": "Home",
-              "href": "https://uniswap.org/"
-            },
-            {
-              "label": "App",
-              "href": "https://app.uniswap.org/"
-            },
-            {
-              "label": "Analytics",
-              "href": "https://info.uniswap.org/home"
-            },
-            {
-              "label": "Token Lists",
-              "href": "https://tokenlists.org/"
-            },
-            {
-              "label": "Brand Assets",
-              "href": "https://uniswap.org/Uniswap_brand_assets.zip"
+              "label": "Tutorial",
+              "to": "/docs/intro"
             }
           ]
         },
@@ -187,34 +52,237 @@ export default {
           "title": "Community",
           "items": [
             {
-              "label": "Governance",
-              "href": "https://gov.uniswap.org/"
+              "label": "Stack Overflow",
+              "href": "https://stackoverflow.com/questions/tagged/docusaurus"
             },
             {
               "label": "Discord",
-              "href": "https://discord.gg/ybKVQUWb4s"
+              "href": "https://discordapp.com/invite/docusaurus"
             },
             {
               "label": "Twitter",
-              "href": "https://twitter.com/Uniswap"
-            },
+              "href": "https://twitter.com/docusaurus"
+            }
+          ]
+        },
+        {
+          "title": "More",
+          "items": [
             {
               "label": "Blog",
-              "href": "https://uniswap.org/blog/"
+              "to": "/blog"
+            },
+            {
+              "label": "GitHub",
+              "href": "https://github.com/facebook/docusaurus"
             }
           ]
         }
       ],
-      "style": "light"
+      "copyright": "Copyright © 2021 My Project, Inc. Built with Docusaurus."
+    },
+    "prism": {
+      "theme": {
+        "plain": {
+          "color": "#393A34",
+          "backgroundColor": "#f6f8fa"
+        },
+        "styles": [
+          {
+            "types": [
+              "comment",
+              "prolog",
+              "doctype",
+              "cdata"
+            ],
+            "style": {
+              "color": "#999988",
+              "fontStyle": "italic"
+            }
+          },
+          {
+            "types": [
+              "namespace"
+            ],
+            "style": {
+              "opacity": 0.7
+            }
+          },
+          {
+            "types": [
+              "string",
+              "attr-value"
+            ],
+            "style": {
+              "color": "#e3116c"
+            }
+          },
+          {
+            "types": [
+              "punctuation",
+              "operator"
+            ],
+            "style": {
+              "color": "#393A34"
+            }
+          },
+          {
+            "types": [
+              "entity",
+              "url",
+              "symbol",
+              "number",
+              "boolean",
+              "variable",
+              "constant",
+              "property",
+              "regex",
+              "inserted"
+            ],
+            "style": {
+              "color": "#36acaa"
+            }
+          },
+          {
+            "types": [
+              "atrule",
+              "keyword",
+              "attr-name",
+              "selector"
+            ],
+            "style": {
+              "color": "#00a4db"
+            }
+          },
+          {
+            "types": [
+              "function",
+              "deleted",
+              "tag"
+            ],
+            "style": {
+              "color": "#d73a49"
+            }
+          },
+          {
+            "types": [
+              "function-variable"
+            ],
+            "style": {
+              "color": "#6f42c1"
+            }
+          },
+          {
+            "types": [
+              "tag",
+              "selector",
+              "keyword"
+            ],
+            "style": {
+              "color": "#00009f"
+            }
+          }
+        ]
+      },
+      "darkTheme": {
+        "plain": {
+          "color": "#F8F8F2",
+          "backgroundColor": "#282A36"
+        },
+        "styles": [
+          {
+            "types": [
+              "prolog",
+              "constant",
+              "builtin"
+            ],
+            "style": {
+              "color": "rgb(189, 147, 249)"
+            }
+          },
+          {
+            "types": [
+              "inserted",
+              "function"
+            ],
+            "style": {
+              "color": "rgb(80, 250, 123)"
+            }
+          },
+          {
+            "types": [
+              "deleted"
+            ],
+            "style": {
+              "color": "rgb(255, 85, 85)"
+            }
+          },
+          {
+            "types": [
+              "changed"
+            ],
+            "style": {
+              "color": "rgb(255, 184, 108)"
+            }
+          },
+          {
+            "types": [
+              "punctuation",
+              "symbol"
+            ],
+            "style": {
+              "color": "rgb(248, 248, 242)"
+            }
+          },
+          {
+            "types": [
+              "string",
+              "char",
+              "tag",
+              "selector"
+            ],
+            "style": {
+              "color": "rgb(255, 121, 198)"
+            }
+          },
+          {
+            "types": [
+              "keyword",
+              "variable"
+            ],
+            "style": {
+              "color": "rgb(189, 147, 249)",
+              "fontStyle": "italic"
+            }
+          },
+          {
+            "types": [
+              "comment"
+            ],
+            "style": {
+              "color": "rgb(98, 114, 164)"
+            }
+          },
+          {
+            "types": [
+              "attr-name"
+            ],
+            "style": {
+              "color": "rgb(241, 250, 140)"
+            }
+          }
+        ]
+      },
+      "additionalLanguages": []
     },
     "colorMode": {
-      "defaultMode": "dark",
+      "defaultMode": "light",
       "disableSwitch": false,
-      "respectPrefersColorScheme": true,
+      "respectPrefersColorScheme": false,
       "switchConfig": {
-        "darkIcon": "☽",
-        "lightIcon": "☼",
+        "darkIcon": "🌜",
         "darkIconStyle": {},
+        "lightIcon": "🌞",
         "lightIconStyle": {}
       }
     },
@@ -229,28 +297,16 @@ export default {
       "@docusaurus/preset-classic",
       {
         "docs": {
-          "path": "protocol",
-          "routeBasePath": "protocol/",
           "sidebarPath": "/Users/robertseghedi/Documents/GitHub/fawn-docs/sidebars.js",
-          "editUrl": "https://github.com/uniswap/uniswap-docs/tree/main/",
-          "includeCurrentVersion": false
+          "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/"
+        },
+        "blog": {
+          "showReadingTime": true,
+          "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/blog/"
         },
         "theme": {
-          "customCss": "/Users/robertseghedi/Documents/GitHub/fawn-docs/src/css/custom.css",
-          "customCss2": "/Users/robertseghedi/Documents/GitHub/fawn-docs/src/css/colors.css"
+          "customCss": "/Users/robertseghedi/Documents/GitHub/fawn-docs/src/css/custom.css"
         }
-      }
-    ]
-  ],
-  "plugins": [
-    [
-      "@docusaurus/plugin-content-docs",
-      {
-        "id": "SDK",
-        "path": "sdk",
-        "routeBasePath": "sdk/",
-        "sidebarPath": "/Users/robertseghedi/Documents/GitHub/fawn-docs/sdkSidebars.js",
-        "includeCurrentVersion": false
       }
     ]
   ],
@@ -264,6 +320,7 @@ export default {
   },
   "onDuplicateRoutes": "warn",
   "customFields": {},
+  "plugins": [],
   "themes": [],
   "titleDelimiter": "|",
   "noIndex": false
